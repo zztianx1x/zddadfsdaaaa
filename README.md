@@ -8,6 +8,8 @@
 
 #### [路透中国财经](indexes/chinaNews.md) &nbsp;|&nbsp; [路透深度分析](indexes/CNAnalysesNews.md) &nbsp;|&nbsp; [路透国际财经](indexes/CNIntlBizNews.md) &nbsp;|&nbsp; [路透时事要闻](indexes/CNTopGenNews.md)&nbsp;|&nbsp; [路透今日要闻集合](indexes/vbc_homepagetopnews.md) &nbsp;|&nbsp; [路透专栏集合](indexes/vbc_CN_columnist_all.md)
 
+#### 使用Nginx反向代理浏览更多 [被禁主流媒体网站](https://github.com/gfw-breaker/open-proxy/blob/master/README.md)
+
 ----
 <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/qr.png" width="200px"/>  
 
