@@ -60,7 +60,7 @@ def write_page(name, title, link, content):
 	body = '### ' + title
 	body += "\n------------------------\n\n" + content
 	body += "\n原文链接：" + link + "\n"
-	body += "\n\n------------------------\n" + "#### [禁闻聚合首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;|&nbsp;  [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md)"
+	body += "\n\n------------------------\n" + "#### [禁闻聚合首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;|&nbsp; [Nginx反向代理](https://github.com/gfw-breaker/open-proxy/blob/master/README.md) &nbsp;|&nbsp;  [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md)"
 	f_name = '../pages/' + channel + '/' +  name + '.md'
 	fh = open(f_name, 'w')
 	fh.write(body)

@@ -1,20 +1,20 @@
-#### [中国证监会下发两家企业IPO批文 募资总额不超过69亿元](../pages/chinaNews/idCNKCS1LO02O.md) 
+#### [中国住建部要求广东等六省对商品房预售许可深入研究论证--消息](../pages/chinaNews/idCNKCS1M11GC.md) 
 
-#### [李克强称中国将坚持改革开放 希望美国企业扩大对华投资](../pages/chinaNews/idCNKCS1LO02M.md) 
+#### [中国动物疫病防治存短板 防疫责任覆盖不全等亟待解决--督查组](../pages/chinaNews/idCNKCS1M11FP.md) 
 
-#### [中国央行明确扩大人民币购售范围 应遵循审慎原则避免资金大进大出](../pages/chinaNews/idCNKCS1LO02E.md) 
+#### [吉林公主岭市和内蒙古科尔沁右翼中旗各发生一起非洲猪瘟疫情](../pages/chinaNews/idCNKCS1M117S.md) 
 
-#### [原太平保险集团董事长王滨就任中国人寿集团董事长](../pages/chinaNews/idCNKCS1LO028.md) 
+#### [中国银保监会称坚持强监管方向 将严厉打击虚假出表等隐匿行为（更新版）](../pages/chinaNews/idCNKCS1M10VW.md) 
 
-#### [美国总统特朗普称准备好对另外2670亿美元中国商品加征关税](../pages/chinaNews/idCNKCS1LO016.md) 
+#### [中国金融市场一周走势回顾](../pages/chinaNews/idCNKCS1M115U.md) 
 
-#### [工行获欧洲央行批准在奥地利设立子公司 完善一带一路布局](../pages/chinaNews/idCNKCS1LN1BG.md) 
+#### [人民币收盘与中间价均创两周新高 离岸发央票打压CNH空头](../pages/chinaNews/idCNKCS1M110C.md) 
 
-#### [香港政府委任雷添良为证监会新任主席 自10月20日起生效](../pages/chinaNews/idCNKCS1LN196.md) 
+#### [金管局发言人称港元汇率变动受多种因素影响 市场有序运作](../pages/chinaNews/idCNKCS1M110A.md) 
 
-#### [香港证监会不久将来会为港股通引入投资者识别码制度--高管](../pages/chinaNews/idCNKCS1LN192.md) 
+#### [中国外汇市场8月成交额环比微降 远期交易降幅明显--外管局](../pages/chinaNews/idCNKCS1M10Z6.md) 
 
-#### [中国证监会将持续加强私募基金监管力度 严厉打击违法违规行为](../pages/chinaNews/idCNKCS1LN17I.md) 
+#### [香港金管局总裁称虚拟货币欠缺扩容力 不具备成为“货币”的条件](../pages/chinaNews/idCNKCS1M10YY.md) 
 
-#### [中国金融市场一周走势回顾](../pages/chinaNews/idCNKCS1LN17B.md) 
+#### [香港逾半受访者看淡今年楼市 入市意欲创新低--调查](../pages/chinaNews/idCNKCS1M10XO.md) 
 

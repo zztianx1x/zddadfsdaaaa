@@ -1,18 +1,20 @@
-#### [白宫经济顾问库德洛称中美续商贸易问题 双方分歧犹存-CNBC](../pages/CNIntlBizNews/idCNKCS1LO025.md) 
+#### [英镑因无退欧协议忧虑升温而骤降 提振美元](../pages/CNIntlBizNews/idCNKCS1M201S.md) 
 
-#### [美国总统特朗普称准备好对另外2670亿美元中国商品加征关税](../pages/CNIntlBizNews/idCNKCS1LO016.md) 
+#### [美股道指在下周一的标普指数板块分类调整前刷新纪录收盘高位](../pages/CNIntlBizNews/idCNKCS1M201Q.md) 
 
-#### [欧股从五个月低位反弹 但贸易忧虑令本周跌幅创3月底来最大](../pages/CNIntlBizNews/idCNKCS1LO014.md) 
+#### [油价小幅升高 OPEC会议召开前交投震荡](../pages/CNIntlBizNews/idCNKCS1M201O.md) 
 
-#### [美国原油因股市疲弱而微跌 布兰特原油因地缘政治因素小涨](../pages/CNIntlBizNews/idCNKCS1LO012.md) 
+#### [金价下跌逾1% 因美元上涨](../pages/CNIntlBizNews/idCNKCS1M201M.md) 
 
-#### [金价走低 因美国就业数据推升美元](../pages/CNIntlBizNews/idCNKCS1LO010.md) 
+#### [欧股连涨第10日 创下20年来最长涨势](../pages/CNIntlBizNews/idCNKCS1M201K.md) 
 
-#### [美元受强劲的美国8月就业报告带动上涨 但贸易争端持续](../pages/CNIntlBizNews/idCNKCS1LO00Y.md) 
+#### [专访：日本央行不会很快退出刺激 除非放弃通胀目标--前副总裁](../pages/CNIntlBizNews/idCNKCS1M115X.md) 
 
-#### [苹果称一系列产品受到拟议的对华产品征税计划影响](../pages/CNIntlBizNews/idCNKCS1LO00W.md) 
+#### [调查：日本央行短观调查9月制造业信心料小升 但前景蒙阴](../pages/CNIntlBizNews/idCNKCS1M10P1.md) 
 
-#### [美股受关税忧虑打压收低 苹果暗示其产品可能被征税](../pages/CNIntlBizNews/idCNKCS1LO00U.md) 
+#### [标普调升澳洲评级展望 称政府有能力重返财政盈余](../pages/CNIntlBizNews/idCNKCS1M10E6.md) 
 
-#### [美国新任驻欧盟大使称美欧必须联合对抗中国](../pages/CNIntlBizNews/idCNKCS1LN1BD.md) 
+#### [图表新闻：全球石油日消费逼近1亿桶 何时触顶？](../pages/CNIntlBizNews/idCNKCS1M10C7.md) 
+
+#### [亚洲股市继续反弹 因贸易担忧减弱](../pages/CNIntlBizNews/idCNKCS1M10BM.md) 
 
