@@ -6,9 +6,7 @@
 
 #### [美国之音中国专题](indexes/zyyyoeqqvi.md) &nbsp;|&nbsp; [美国之音台湾专题](indexes/zivymejqv_.md) &nbsp;|&nbsp; [美国之音美国专题](indexes/zg_yre_rvq.md) &nbsp;|&nbsp; [美国之音国际专题](indexes/z__yoerrvp.md) &nbsp;|&nbsp;[美国之音法律专题](indexes/zvyyieoqvp.md) &nbsp;|&nbsp;[美国之音人权专题](indexes/z_yyqerqvo.md) 
 
-#### [路透中国财经](indexes/chinaNews.md) &nbsp;|&nbsp; [路透深度分析](indexes/CNAnalysesNews.md) &nbsp;|&nbsp; [路透国际财经](indexes/CNIntlBizNews.md) &nbsp;|&nbsp; [路透时事要闻](indexes/CNTopGenNews.md)&nbsp;|&nbsp; [路透今日要闻集合](indexes/vbc_homepagetopnews.md) &nbsp;|&nbsp; [路透专栏集合](indexes/vbc_CN_columnist_all.md)
-
-#### 使用Nginx反向代理浏览更多 [被禁主流媒体网站](https://github.com/gfw-breaker/open-proxy/blob/master/README.md)
+#### 使用Nginx反向代理浏览更多 [被禁主流媒体网站](https://github.com/gfw-breaker/open-proxy/blob/master/README.md)，免翻墙观看YouTube最具人气华人自媒体频道[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md)
 
 ----
 <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/qr.png" width="200px"/>  
