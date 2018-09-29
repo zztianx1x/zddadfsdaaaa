@@ -11,6 +11,6 @@
 ----
 <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/qr.png" width="200px"/>  
 
-##### 使用微信、支付宝等二维码工具 扫一扫获取固定网址, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开
+##### 使用微信、支付宝等二维码工具 扫一扫获取固定网址, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ浏览器，因为隐私得不到保障）
 
 <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/1.png" width="260px"/> &nbsp; <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/2.png" width="260px"/> &nbsp; <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/3.png" width="260px"/>
