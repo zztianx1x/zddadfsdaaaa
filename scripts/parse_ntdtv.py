@@ -25,7 +25,8 @@ def get_content(url):
 	if len(divs) < 1:
 		return None
 	content = divs[0].prettify().encode('utf-8')
-	return content.replace('href="/xtr','href="http://www.ntdtv.com/xtr')
+	return content.replace('href="/xtr','href="http://www.ntdtv.com/xtr') \
+		.replace('<h2>','<h4>').replace('</h2>','</h4>')
 
 
 def get_name(link):
