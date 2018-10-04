@@ -19,8 +19,8 @@ done
 git add ../indexes/*
 git add ../pages/*
 
-tt=$(date "+-%m%d%H%M")
-sed -i "s/\.md.*)/.md?t=$tt)/g" ../README.md
+tt=$(date "+%m%d%H%M")
+sed -i "s/\.md?t=[0-9]*)/.md?t=$tt)/g" ../README.md
 git add ../README.md
 
 ts=$(date "+-%m月-%d日-%H时-%M分" | sed 's/-0//g' | sed 's/-//g')
