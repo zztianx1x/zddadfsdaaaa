@@ -16,10 +16,13 @@ for sf in $(ls sync_*.sh); do
 done
 
 ## add to git
+tt=$(date "+%m%d%H%M")
+for f in $(ls ../indexes/*); do
+	sed -i "s/\.md/\.md?t=$tt/g" $f
+done
 git add ../indexes/*
 git add ../pages/*
 
-tt=$(date "+%m%d%H%M")
 sed -i "s/\.md?t=[0-9]*)/.md?t=$tt)/g" ../README.md
 git add ../README.md
 
