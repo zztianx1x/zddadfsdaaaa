@@ -2,7 +2,7 @@
 
 #### 本项目旨在为不会翻墙的网友提供自由的新闻资讯。面对TG的暴力与谎言的组合拳，我们无法对抗暴力，但能破除谎言。（若打开下面链接时有安全提示，敬请忽略，本页面只是“违法违规”而并非不安全，请使用页尾提供的方法继续访问）
 
-#### [大纪元中国大陆新闻](indexes/nsc413.md) &nbsp;|&nbsp; [大纪元新闻网美国频道](indexes/nsc412.md) &nbsp;|&nbsp; [大纪元新闻网国际频道](indexes/nsc418.md) &nbsp;|&nbsp; [大纪元专栏文集](indexes/nsc423.md) &nbsp;|&nbsp; [大纪元社论](indexes/nsc422.md) &nbsp;|&nbsp; [大纪元自由广场](indexes/nsc993.md)
+#### [大纪元中国大陆新闻](indexes/nsc413.md?t=1005) &nbsp;|&nbsp; [大纪元新闻网美国频道](indexes/nsc412.md) &nbsp;|&nbsp; [大纪元新闻网国际频道](indexes/nsc418.md) &nbsp;|&nbsp; [大纪元专栏文集](indexes/nsc423.md) &nbsp;|&nbsp; [大纪元社论](indexes/nsc422.md) &nbsp;|&nbsp; [大纪元自由广场](indexes/nsc993.md)
 
 #### [新唐人中国大陆新闻](indexes/news204.md) &nbsp;|&nbsp; [新唐人美国新闻](indexes/news203.md) &nbsp;|&nbsp; [新唐人国际新闻](indexes/news202.md) &nbsp;|&nbsp; [新唐人台湾新闻](indexes/news206.md) &nbsp;|&nbsp; [新唐人评论频道](indexes/news207.md) &nbsp;|&nbsp; [新唐人财经新闻](indexes/news208.md)
 
