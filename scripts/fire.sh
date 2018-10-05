@@ -19,6 +19,8 @@ done
 tt=$(date "+%m%d%H%M")
 for f in $(ls ../indexes/*); do
 	sed -i "s/\.md/\.md?t=$tt/g" $f
+	sed -i "/翻墙必看/d" $f
+	sed -i "/精彩推荐/d" $f
 done
 git add ../indexes/*
 git add ../pages/*
