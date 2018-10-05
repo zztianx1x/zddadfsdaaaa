@@ -22,7 +22,8 @@ def get_content(text):
 		script.decompose()
 	content = parser.prettify().encode('utf-8')
 	return content.replace('</figure>','</figure><br/>') \
-		.replace('<figcaption','<br/><figcaption')
+		.replace('<figcaption','<br/><figcaption') \
+		.replace('</figcaption>','</figcaption><br/>')
 
 
 def write_page(name, title, link, content):
