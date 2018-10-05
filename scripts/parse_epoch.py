@@ -2,7 +2,9 @@
 # coding: utf-8
 
 import sys
+import requests
 import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
 
 channel = sys.argv[1]
 xml_file = channel + '.xml'
@@ -10,6 +12,18 @@ xml_file = channel + '.xml'
 tree = ET.parse(xml_file)
 root = tree.getroot()
 index_page = ''
+
+
+def get_content(text):
+	parser = BeautifulSoup(text, 'html.parser')
+	for iframe in parser.find_all('iframe'):
+		iframe.decompose()
+	for script in parser.find_all('script'):
+		script.decompose()
+	content = parser.prettify().encode('utf-8')
+	return content.replace('</figure>','</figure><br/>') \
+		.replace('<figcaption','<br/><figcaption')
+
 
 def write_page(name, title, link, content):
 	body = '### ' + title
@@ -33,6 +47,7 @@ for child in root[0]:
 	link = child.find('link').text
 	title = child.find('title').text.encode('utf-8')
 	content = child.find('content').text.encode('utf-8')
+	content = get_content(content)
 	name = get_name(link)
 	write_page(name, title, link, content)
 	index_page += '#### [' + title + '](' + '../pages/' + channel + '/' + name + '.md) \n\n'
