@@ -8,7 +8,7 @@
 
 #### [美国之音中国专题](indexes/zyyyoeqqvi.md?t=10050517) &nbsp;|&nbsp; [美国之音台湾专题](indexes/zivymejqv_.md?t=10050517) &nbsp;|&nbsp; [美国之音美国专题](indexes/zg_yre_rvq.md?t=10050517) &nbsp;|&nbsp; [美国之音国际专题](indexes/z__yoerrvp.md?t=10050517) &nbsp;|&nbsp;[美国之音法律专题](indexes/zvyyieoqvp.md?t=10050517) &nbsp;|&nbsp;[美国之音人权专题](indexes/z_yyqerqvo.md?t=10050517) 
 
-#### 下载[一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?t=0)；浏览更多 [被禁主流媒体网站](https://github.com/gfw-breaker/open-proxy/blob/master/README.md?t=10050517)；免翻墙观看YouTube最具人气华人自媒体频道[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=10050517)
+#### 下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?t=0)；免翻墙浏览更多 [主流媒体网站](https://github.com/gfw-breaker/open-proxy/blob/master/README.md?t=10050517)；免翻墙观看YouTube最具人气华人自媒体频道[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=10050517)
 
 ----
 <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/qr.png" width="200px"/>  
