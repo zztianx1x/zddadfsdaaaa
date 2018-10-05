@@ -21,6 +21,10 @@ def get_content(url):
 	ads = parser.find_all('div', attrs = {'class': 'ad-336x280'})
 	if len(ads) > 0:
 		ads[0].decompose()
+	for iframe in parser.find_all('iframe'):
+		iframe.decompose()
+	for script in parser.find_all('script'):
+		script.decompose()
 	divs = parser.find_all('div', attrs = {'class': 'wysiwyg'})
 	if len(divs) < 1:
 		return None
