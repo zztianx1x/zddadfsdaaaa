@@ -21,6 +21,10 @@ for f in $(ls ../indexes/*); do
 	sed -i "s/\.md/\.md?t=$tt/g" $f
 	sed -i "/翻墙必看/d" $f
 	sed -i "/精彩推荐/d" $f
+	sed -i "/全球新闻/d" $f
+	sed -i "/环球直击/d" $f
+	sed -i "/中国禁闻/d" $f
+	sed -i "/石涛聚焦/d" $f
 done
 git add ../indexes/*
 git add ../pages/*
