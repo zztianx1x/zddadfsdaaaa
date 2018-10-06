@@ -1,7 +1,7 @@
 #!/bin/bash
 # author: gfw-breaker
 
-channels="news204 news203 news202 news206 news207 news208"
+channels="news202 news203 news204 news205 news206 news207 news208"
 
 ## create dirs
 for channel in $channels ; do
