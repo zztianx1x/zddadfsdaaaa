@@ -9,6 +9,8 @@
 #### 下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?t=10090632)；免翻墙浏览更多 [主流媒体网站](https://github.com/gfw-breaker/open-proxy/blob/master/README.md?t=10090632)；免翻墙观看YouTube最具人气华人自媒体频道[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=10090632)
 
 ----
+
+#### 短网址： https://git.io/toutiao
 <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/qr.png" width="200px"/>  
 
 ##### 使用微信、支付宝等二维码工具 扫一扫获取固定网址, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器）
