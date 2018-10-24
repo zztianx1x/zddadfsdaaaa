@@ -1,38 +1,38 @@
-#### 热门视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=10242134) &nbsp;|&nbsp; [新唐人时事小品](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md?t=10242134) &nbsp;|&nbsp; [新唐人中国禁闻](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?t=10242134)
+#### 热门视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=10250033) &nbsp;|&nbsp; [新唐人时事小品](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md?t=10250033) &nbsp;|&nbsp; [新唐人中国禁闻](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?t=10250033)
 
-#### [台财政部长：美中贸易战的影响会持续两年 ](../pages/zivymejqv_/4627153.md?t=10242134) 
+#### [台湾副防长下周访美 年底前美或有更多对台军售](../pages/zivymejqv_/4627967.md?t=10250033) 
 
-#### [台湾火车脱轨事故调查进展 ](../pages/zivymejqv_/4627130.md?t=10242134) 
+#### [台财政部长：美中贸易战的影响会持续两年 ](../pages/zivymejqv_/4627153.md?t=10250033) 
 
-#### [特朗普：不担忧美舰通过台海引来中国负面反应](../pages/zivymejqv_/4626376.md?t=10242134) 
+#### [台湾火车脱轨事故调查进展 ](../pages/zivymejqv_/4627130.md?t=10250033) 
 
-#### [美国之音专访叶望辉谈美台关系](../pages/zivymejqv_/4626192.md?t=10242134) 
+#### [特朗普：不担忧美舰通过台海引来中国负面反应](../pages/zivymejqv_/4626376.md?t=10250033) 
 
-#### [中国高尔夫女将最后一刻被“高层”要求退出台湾赛事](../pages/zivymejqv_/4625545.md?t=10242134) 
+#### [美国之音专访叶望辉谈美台关系](../pages/zivymejqv_/4626192.md?t=10250033) 
 
-#### [台湾下月在太平岛实弹演习 ](../pages/zivymejqv_/4625472.md?t=10242134) 
+#### [中国高尔夫女将最后一刻被“高层”要求退出台湾赛事](../pages/zivymejqv_/4625545.md?t=10250033) 
 
-#### [中国称全程掌握美国军舰通过台湾海峡](../pages/zivymejqv_/4625364.md?t=10242134) 
+#### [台湾下月在太平岛实弹演习 ](../pages/zivymejqv_/4625472.md?t=10250033) 
 
-#### [美军舰通过台湾海峡，白宫不予评论](../pages/zivymejqv_/4624792.md?t=10242134) 
+#### [中国称全程掌握美国军舰通过台湾海峡](../pages/zivymejqv_/4625364.md?t=10250033) 
 
-#### [五角大楼：两艘军舰“例行经过”台湾海峡](../pages/zivymejqv_/4624507.md?t=10242134) 
+#### [美军舰通过台湾海峡，白宫不予评论](../pages/zivymejqv_/4624792.md?t=10250033) 
 
-#### [台湾国防部证实两艘美舰22日航经台湾海峡](../pages/zivymejqv_/4624188.md?t=10242134) 
+#### [五角大楼：两艘军舰“例行经过”台湾海峡](../pages/zivymejqv_/4624507.md?t=10250033) 
 
-#### [台湾证实俄罗斯正在研拟放宽台湾商旅签证 ](../pages/zivymejqv_/4624176.md?t=10242134) 
+#### [台湾国防部证实两艘美舰22日航经台湾海峡](../pages/zivymejqv_/4624188.md?t=10250033) 
 
-#### [台湾：中国大陆介入台湾选举  国台办：此说纯属捏造](../pages/zivymejqv_/4624038.md?t=10242134) 
+#### [台湾证实俄罗斯正在研拟放宽台湾商旅签证 ](../pages/zivymejqv_/4624176.md?t=10250033) 
 
-#### [外资对台投资出现显著增长](../pages/zivymejqv_/4623572.md?t=10242134) 
+#### [台湾：中国大陆介入台湾选举  国台办：此说纯属捏造](../pages/zivymejqv_/4624038.md?t=10250033) 
 
-#### [台湾外长：台湾绝不是美中对抗间的架上商品 ](../pages/zivymejqv_/4623503.md?t=10242134) 
+#### [外资对台投资出现显著增长](../pages/zivymejqv_/4623572.md?t=10250033) 
 
-#### [台湾总统视察致命列车出轨现场 北京表达关切](../pages/zivymejqv_/4623400.md?t=10242134) 
+#### [台湾外长：台湾绝不是美中对抗间的架上商品 ](../pages/zivymejqv_/4623503.md?t=10250033) 
 
-#### [海峡论谈：美科研船停泊高雄 打擦边球试探北京？](../pages/zivymejqv_/4622648.md?t=10242134) 
+#### [台湾总统视察致命列车出轨现场 北京表达关切](../pages/zivymejqv_/4623400.md?t=10250033) 
 
-#### [海峡论谈：公投反并吞大游行 如何解读台湾选情？](../pages/zivymejqv_/4622641.md?t=10242134) 
+#### [海峡论谈：美科研船停泊高雄 打擦边球试探北京？](../pages/zivymejqv_/4622648.md?t=10250033) 
 
-#### [台湾火车出轨造成18人死亡](../pages/zivymejqv_/4622625.md?t=10242134) 
+#### [海峡论谈：公投反并吞大游行 如何解读台湾选情？](../pages/zivymejqv_/4622641.md?t=10250033) 
 
