@@ -1,34 +1,34 @@
-#### 热门视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=11080633) &nbsp;|&nbsp; [新唐人时事小品](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md?t=11080633) &nbsp;|&nbsp; [新唐人中国禁闻](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?t=11080633) &nbsp;|&nbsp; [江峰时刻:历史上的今天](https://github.com/gfw-breaker/today-in-history/blob/master/README.md?t=11080633) 
+#### 热门视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?t=11080932) &nbsp;|&nbsp; [新唐人时事小品](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md?t=11080932) &nbsp;|&nbsp; [新唐人中国禁闻](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?t=11080932) &nbsp;|&nbsp; [江峰时刻:历史上的今天](https://github.com/gfw-breaker/today-in-history/blob/master/README.md?t=11080932) 
 
-#### [分析显示美中期选举结果不致影响对台政策](../pages/zivymejqv_/4649512.md?t=11080633) 
+#### [分析显示美中期选举结果不致影响对台政策](../pages/zivymejqv_/4649512.md?t=11080932) 
 
-#### [台湾官方：无论奥运正名公投结果如何都是台湾民意](../pages/zivymejqv_/4648439.md?t=11080633) 
+#### [台湾官方：无论奥运正名公投结果如何都是台湾民意](../pages/zivymejqv_/4648439.md?t=11080932) 
 
-#### [台外长：中国随时影响台湾邦交国，台湾政府会避免发生最坏情况 ](../pages/zivymejqv_/4648297.md?t=11080633) 
+#### [台外长：中国随时影响台湾邦交国，台湾政府会避免发生最坏情况 ](../pages/zivymejqv_/4648297.md?t=11080932) 
 
-#### [美分析机构：台若允美舰停靠太平岛将被中国视为严重挑衅](../pages/zivymejqv_/4647410.md?t=11080633) 
+#### [美分析机构：台若允美舰停靠太平岛将被中国视为严重挑衅](../pages/zivymejqv_/4647410.md?t=11080932) 
 
-#### [台湾上千渔民集会抗议渔业罚金过高](../pages/zivymejqv_/4646623.md?t=11080633) 
+#### [台湾上千渔民集会抗议渔业罚金过高](../pages/zivymejqv_/4646623.md?t=11080932) 
 
-#### [台国防部长：随时掌握来自于中国的假消息](../pages/zivymejqv_/4646542.md?t=11080633) 
+#### [台国防部长：随时掌握来自于中国的假消息](../pages/zivymejqv_/4646542.md?t=11080932) 
 
-#### [台美人团体谴责中国威胁台湾民主自由](../pages/zivymejqv_/4645864.md?t=11080633) 
+#### [台美人团体谴责中国威胁台湾民主自由](../pages/zivymejqv_/4645864.md?t=11080932) 
 
-#### [威斯康辛大学的“富士康科技研究所”](../pages/zivymejqv_/4645788.md?t=11080633) 
+#### [威斯康辛大学的“富士康科技研究所”](../pages/zivymejqv_/4645788.md?t=11080932) 
 
-#### [效仿板门店？专家呼吁划金门马祖为两岸非军事区](../pages/zivymejqv_/4645076.md?t=11080633) 
+#### [效仿板门店？专家呼吁划金门马祖为两岸非军事区](../pages/zivymejqv_/4645076.md?t=11080932) 
 
-#### [台湾人权团体：政府应透过APEC要求中国改善人权状况](../pages/zivymejqv_/4644908.md?t=11080633) 
+#### [台湾人权团体：政府应透过APEC要求中国改善人权状况](../pages/zivymejqv_/4644908.md?t=11080932) 
 
-#### [美在台协会主席再会蔡英文：台湾是世界上善的力量  ](../pages/zivymejqv_/4644871.md?t=11080633) 
+#### [美在台协会主席再会蔡英文：台湾是世界上善的力量  ](../pages/zivymejqv_/4644871.md?t=11080932) 
 
-#### [海峡论谈：两岸制度谁优谁劣？妖魔化还是自我催眠？](../pages/zivymejqv_/4644031.md?t=11080633) 
+#### [海峡论谈：两岸制度谁优谁劣？妖魔化还是自我催眠？](../pages/zivymejqv_/4644031.md?t=11080932) 
 
-#### [海峡论谈：国际社会挺台独？ “中国青年”也觉悟？](../pages/zivymejqv_/4644026.md?t=11080633) 
+#### [海峡论谈：国际社会挺台独？ “中国青年”也觉悟？](../pages/zivymejqv_/4644026.md?t=11080932) 
 
-#### [中国网友在美评论台湾独立现实引爆台海热议](../pages/zivymejqv_/4643220.md?t=11080633) 
+#### [中国网友在美评论台湾独立现实引爆台海热议](../pages/zivymejqv_/4643220.md?t=11080932) 
 
-#### [台湾民调缓统速独均创新高](../pages/zivymejqv_/4640142.md?t=11080633) 
+#### [台湾民调缓统速独均创新高](../pages/zivymejqv_/4640142.md?t=11080932) 
 
-#### [多米尼加总统与台湾断交后首次访华](../pages/zivymejqv_/4639972.md?t=11080633) 
+#### [多米尼加总统与台湾断交后首次访华](../pages/zivymejqv_/4639972.md?t=11080932) 
 
