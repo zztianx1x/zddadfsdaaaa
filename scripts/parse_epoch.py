@@ -11,7 +11,7 @@ xml_file = channel + '.xml'
 
 tree = ET.parse(xml_file)
 root = tree.getroot()
-index_page = "#### 精彩视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) | [《大陆新闻解读》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) | [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md) | [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md) \n\n"
+index_page = "#### 精彩视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao) | [《大陆新闻解读》](https://github.com/gfw-breaker/ntdtv-comedy) | [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news) | [《历史上的今天》](https://github.com/gfw-breaker/today-in-history) \n\n"
 
 
 def get_content(text):
