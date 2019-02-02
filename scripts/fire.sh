@@ -31,6 +31,16 @@ done
 git add ../indexes/*
 git add ../pages/*
 
+
+## purge old entries
+for d in $(ls ../pages/); do
+    for f in $(ls -t ../pages/$d | sed -n '600,$p'); do
+        git rm "../pages/$d/$f"   
+    done
+done
+
+
+## write README.md
 sed -i "s/\.md?t=[0-9]*)/.md?t=$tt)/g" ../README.md
 git add ../README.md
 
