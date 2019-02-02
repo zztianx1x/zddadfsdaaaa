@@ -15,7 +15,7 @@ for sf in $(ls sync_*.sh); do
 	bash $sf
 done
 
-## add to git
+## remove video news
 tt=$(date "+%m%d%H%M")
 for f in $(ls ../indexes/*); do
 	sed -i "s/\.md/\.md?t=$tt/g" $f
@@ -26,6 +26,8 @@ for f in $(ls ../indexes/*); do
 	sed -i "/【中国禁闻/d" $f
 	sed -i "/石涛聚焦/d" $f
 done
+
+## add to git
 git add ../indexes/*
 git add ../pages/*
 
