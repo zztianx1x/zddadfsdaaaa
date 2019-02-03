@@ -7,10 +7,8 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
 channel = sys.argv[1]
-xml_file = channel + '.xml'
+channel_url = sys.argv[2]
 
-tree = ET.parse(xml_file)
-root = tree.getroot()
 index_page = "#### 精彩视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) | [《大陆新闻解读》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) | [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md) | [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md) \n\n"
 
 
@@ -25,7 +23,7 @@ def get_content(url):
 		iframe.decompose()
 	for script in parser.find_all('script'):
 		script.decompose()
-	divs = parser.find_all('div', attrs = {'class': 'wysiwyg'})
+	divs = parser.find_all('div', attrs = {'class': 'post_content'})
 	if len(divs) < 1:
 		return None
 	content = divs[0].prettify().encode('utf-8')
@@ -50,20 +48,21 @@ def write_page(name, title, link, content):
 	fh.close()
 
 
-for child in root[0]:
-	if child.tag != 'item':
-		continue
-	link = child.find('link').text
-	title = child.find('title').text.encode('utf-8')
-	name = get_name(link)
-	content = get_content(link)
-	if content != None:
-		write_page(name, title, link, content)
-		index_page += '#### [' + title + '](' + '../pages/' + channel + '/' + name + '.md) \n\n'
+index_text = requests.get(channel_url).text.encode('utf-8')
+index_html = BeautifulSoup(index_text, 'html.parser')
+articles = index_html.find_all('div', attrs = {'class': 'article'})
+for article in articles:
+	link = article.find_all('a')[1]
+	a_url = link.get('href')
+	a_title = link.find('h3').text.encode('utf-8').strip()
+	name = get_name(a_url)
+	content = get_content(a_url)
+	# print a_url, a_title
+	write_page(name, a_title, a_url, content)
+	index_page += '#### [' + title + '](' + '../pages/' + channel + '/' + name + '.md) \n\n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
 index_file.write(index_page)
 index_file.close()
-
 

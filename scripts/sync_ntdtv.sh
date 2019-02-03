@@ -1,7 +1,7 @@
 #!/bin/bash
 # author: gfw-breaker
 
-channels="news202 news203 news204 news205 news206 news207 news208 prog1138"
+channels="prog1138 prog204 prog203 prog202 prog1530 prog647 prog1699"
 
 ## create dirs
 for channel in $channels ; do
@@ -10,10 +10,9 @@ done
 	
 ## get feeds files
 for channel in $channels ; do
-	url="http://www.ntdtv.com/xtr/gb/$channel.xml"
-	wget -q $url -O $channel.xml
+	url="https://www.ntdtv.com/gb/$channel"
 	echo "getting channel: $channel"
-	python parse_ntdtv.py $channel
+	python parse_ntdtv.py $channel $url
 done
 
 
