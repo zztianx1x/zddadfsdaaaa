@@ -1,7 +1,7 @@
 #!/bin/bash
 # author: gfw-breaker
 
-channels="nsc412 nsc413 nsc974 nsc418 nsc423 nsc422 nsc993"
+channels="nsc412 nsc413 nsc418 nsc423 nsc422 nsc993 nsc424 nsc975"
 
 ## create dirs
 for channel in $channels ; do

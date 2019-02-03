@@ -34,7 +34,7 @@ git add ../pages/*
 
 ## purge old entries
 for d in $(ls ../pages/); do
-    for f in $(ls -t ../pages/$d | sed -n '600,$p'); do
+    for f in $(ls -t ../pages/$d | sed -n '300,$p'); do
         git rm "../pages/$d/$f"   
     done
 done
