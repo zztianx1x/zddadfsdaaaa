@@ -57,10 +57,9 @@ for article in articles:
 	a_title = link.find('h3').text.encode('utf-8').strip()
 	name = get_name(a_url)
 	content = get_content(a_url)
-	print content
 	# print a_url, a_title
 	write_page(name, a_title, a_url, content)
-	index_page += '#### [' + title + '](' + '../pages/' + channel + '/' + name + '.md) \n\n'
+	index_page += '#### [' + a_title + '](' + '../pages/' + channel + '/' + name + '.md) \n\n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
