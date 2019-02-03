@@ -53,7 +53,7 @@ index_html = BeautifulSoup(index_text, 'html.parser')
 articles = index_html.find_all('div', attrs = {'class': 'article'})
 for article in articles:
 	link = article.find_all('a')[1]
-	a_url = link.get('href')
+	a_url = link.get('href').encode('utf-8')
 	a_title = link.find('h3').text.encode('utf-8').strip()
 	name = get_name(a_url)
 	content = get_content(a_url)
