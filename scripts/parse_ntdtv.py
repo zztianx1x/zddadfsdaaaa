@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # coding: utf-8
 
+import macros
 import sys
 import os
 import requests
@@ -10,7 +11,8 @@ from bs4 import BeautifulSoup
 channel = sys.argv[1]
 channel_url = sys.argv[2]
 
-index_page = "#### 精彩视频：[《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) | [《大陆新闻解读》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) | [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md) | [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md) \n\n"
+index_page = '' + macros.head
+links = macros.tail
 
 
 def get_content(url):
@@ -43,7 +45,7 @@ def write_page(path, title, link, content):
 	body = '### ' + title
 	body += "\n------------------------\n\n" + content
 	body += "\n<br/>原文链接：" + link + "\n"
-	body += "\n\n------------------------\n" + "#### [禁闻聚合首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;|&nbsp; [Web代理](https://github.com/gfw-breaker/open-proxy/blob/master/README.md) &nbsp;|&nbsp; [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md) &nbsp;|&nbsp; [《九评共产党》](https://github.com/gfw-breaker/9ping.md/blob/master/README.md#九评之一评共产党是什么) &nbsp;|&nbsp; [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md/blob/master/README.md#绪论)"
+	body += "\n\n------------------------\n" + links
 	fh = open(path, 'w')
 	fh.write(body)
 	fh.close()
