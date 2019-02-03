@@ -52,7 +52,7 @@ index_text = requests.get(channel_url).text.encode('utf-8')
 index_html = BeautifulSoup(index_text, 'html.parser')
 articles = index_html.find_all('div', attrs = {'class': 'article'})
 for article in articles:
-	link = article.find_all('a')[1].encode('utf-8')
+	link = article.find_all('a')[1]
 	a_url = link.get('href')
 	a_title = link.find('h3').text.encode('utf-8').strip()
 	name = get_name(a_url)
