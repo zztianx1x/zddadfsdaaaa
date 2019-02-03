@@ -24,7 +24,8 @@ def get_content(url):
 	for script in parser.find_all('script'):
 		script.decompose()
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
-	post_content.find('div', attrs = {'class', 'post_related'}).decompose()
+	for related in post_content.find_all('div', attrs = {'class', 'post_related'}):
+		related.decompose()
 	return post_content.prettify().encode('utf-8') \
 		.replace('<h2>','<h4>').replace('</h2>','</h4>')
 	# return content.replace('href="/xtr','href="http://www.ntdtv.com/xtr') \
