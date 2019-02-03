@@ -56,6 +56,7 @@ for article in articles:
 	content = get_content(a_url)
 
 	if not os.path.exists(file_path):
+		print file_path
 		write_page(file_path, a_title, a_url, content)
 	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
 
