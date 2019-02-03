@@ -16,14 +16,9 @@ def get_content(url):
 	response = requests.get(url)
 	text = response.text.encode('utf-8')
 	parser = BeautifulSoup(text, 'html.parser')
-	ads = parser.find_all('div', attrs = {'class': 'ad-336x280'})
-	if len(ads) > 0:
-		ads[0].decompose()
-	for iframe in parser.find_all('iframe'):
-		iframe.decompose()
-	for script in parser.find_all('script'):
-		script.decompose()
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
+	if post_content is None:
+		return None
 	for related in post_content.find_all('div', attrs = {'class', 'post_related'}):
 		related.decompose()
 	return post_content.prettify().encode('utf-8') \
