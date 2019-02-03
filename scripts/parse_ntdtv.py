@@ -18,7 +18,7 @@ def get_content(url):
 	parser = BeautifulSoup(text, 'html.parser')
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
-		return None
+		return '-'
 	for related in post_content.find_all('div', attrs = {'class', 'post_related'}):
 		related.decompose()
 	return post_content.prettify().encode('utf-8') \
