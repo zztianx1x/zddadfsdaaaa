@@ -25,9 +25,12 @@ def get_content(url):
 	for iframe in post_content.find_all('iframe'):
 		iframe.decompose()
 	return post_content.prettify().encode('utf-8') \
-		.replace('<h2>','<h4>').replace('</h2>','</h4>')
-	# return content.replace('href="/xtr','href="http://www.ntdtv.com/xtr') \
-	#	.replace('<h2>','<h4>').replace('</h2>','</h4>')
+		.replace('</figure>','</figure><br/>') \
+        .replace('<figcaption','<br/><figcaption') \
+        .replace('</figcaption>','</figcaption><br/>') \
+        .replace('<h2>', '<h4>') \
+        .replace('<h2 ', '<h4 ') \
+        .replace('</h2>', '</h4>')
 
 
 def get_name(link):
