@@ -61,7 +61,7 @@ for child in root[0]:
 	if not os.path.exists(file_path):
 		print file_path
 		write_page(file_path, title, link, content)
-	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
+	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
