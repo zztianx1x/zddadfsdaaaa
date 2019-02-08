@@ -3,6 +3,7 @@
 
 import macros
 import sys
+import os
 import requests
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
@@ -55,8 +56,12 @@ for child in root[0]:
 	content = child.find('content').text.encode('utf-8')
 	content = get_content(content)
 	name = get_name(link)
-	write_page(name, title, link, content)
-	index_page += '#### [' + title + '](' + '../pages/' + channel + '/' + name + '.md) \n\n'
+	file_path = '../pages/' + channel + '/' + name + '.md'
+	
+	if not os.path.exists(file_path):
+		print file_path
+		write_page(file_path, title, link, content)
+	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
