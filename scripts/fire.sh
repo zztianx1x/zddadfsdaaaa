@@ -2,6 +2,7 @@
 # author: gfw-breaker
 
 folder=$(dirname $0)
+echo $folder
 cd $folder
 
 ## pull

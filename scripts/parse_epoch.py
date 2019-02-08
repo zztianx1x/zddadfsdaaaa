@@ -32,12 +32,11 @@ def get_content(text):
 		.replace('</h2>', '</h4>')
 
 
-def write_page(name, title, link, content):
+def write_page(f_name, title, link, content):
 	body = '### ' + title
 	body += "\n------------------------\n\n" + content
 	body += "\n原文链接：" + link + "\n"
 	body += "\n\n------------------------\n" + links
-	f_name = '../pages/' + channel + '/' +  name + '.md'
 	fh = open(f_name, 'w')
 	fh.write(body)
 	fh.close()
