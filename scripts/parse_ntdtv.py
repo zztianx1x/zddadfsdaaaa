@@ -11,6 +11,8 @@ from bs4 import BeautifulSoup
 channel = sys.argv[1]
 channel_url = sys.argv[2]
 
+print channel_url
+
 index_page = '' + macros.head
 links = macros.tail
 
