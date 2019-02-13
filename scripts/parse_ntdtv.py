@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/rh/python27/root/usr/bin/python
 # coding: utf-8
 
 import macros
@@ -73,4 +73,6 @@ for article in articles:
 index_file = open('../indexes/' + channel + '.md', 'w')
 index_file.write(index_page)
 index_file.close()
+
+
 
