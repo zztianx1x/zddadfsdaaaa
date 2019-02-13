@@ -61,6 +61,8 @@ for article in articles:
 	name = get_name(a_url)
 	file_path = '../pages/' + channel + '/' + name + '.md'
 	content = get_content(a_url)
+	
+	print 'file: ' + file_path
 
 	if not os.path.exists(file_path):
 		print file_path

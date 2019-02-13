@@ -8,7 +8,7 @@ cd $folder
 ## pull
 mkdir -p ../indexes
 mkdir -p ../pages
-rm *.xml
+rm *xml*
 git pull
 
 ## sync
