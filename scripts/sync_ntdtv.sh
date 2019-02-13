@@ -12,7 +12,7 @@ done
 for channel in $channels ; do
 	url="https://www.ntdtv.com/gb/$channel"
 	echo "getting channel: $url"
-	python /banned-news/scripts/parse_ntdtv.py $channel "$url"
+	python parse_ntdtv.py $channel "$url"
 done
 
 
