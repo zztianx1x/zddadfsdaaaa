@@ -1,4 +1,4 @@
-#!/opt/rh/python27/root/usr/bin/python
+#!/usr/bin/python
 # coding: utf-8
 
 import macros
@@ -22,7 +22,7 @@ def get_content(url):
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
 		return '-'
-	for related in post_content.find_all('div', attrs = {'class', 'post_related'}):
+	for related in post_content.find_all('div', attrs = {'class': 'post_related'}):
 		related.decompose()
 	for iframe in post_content.find_all('iframe'):
 		iframe.decompose()
@@ -61,8 +61,6 @@ for article in articles:
 	name = get_name(a_url)
 	file_path = '../pages/' + channel + '/' + name + '.md'
 	content = get_content(a_url)
-	
-	print 'file: ' + file_path
 
 	if not os.path.exists(file_path):
 		print file_path
