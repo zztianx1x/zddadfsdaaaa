@@ -13,7 +13,7 @@ for channel in $channels ; do
 	url="http://www.epochtimes.com/gb/$channel.xml"
 	wget -q $url
 	sed -i 's/content:encoded/content/g' $channel.xml
-	echo "getting channel: $channel"
+	echo "getting channel: $url"
 	python parse_epoch.py $channel
 done
 

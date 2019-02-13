@@ -11,7 +11,7 @@ done
 ## get feeds files
 for channel in $channels ; do
 	url="https://www.ntdtv.com/gb/$channel"
-	echo "getting channel: $channel"
+	echo "getting channel: $url"
 	python parse_ntdtv.py $channel $url
 done
 
