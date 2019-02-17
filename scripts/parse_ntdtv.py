@@ -41,10 +41,15 @@ def get_name(link):
 	return aid
 
 
-def write_page(path, title, link, content):
+def write_page(name, path, title, link, content):
+	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
 	body = '### ' + title
 	body += "\n------------------------\n\n" + content
-	body += "\n<br/>原文链接：" + link + "\n"
+	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
+	body += "\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
+	body += "\n[" + new_link + "](" + new_link + ")<br/>"
+	body += "\n[<img src='" + new_link + ".png'/>](" + new_link + ")<br/>"
+	body += "\n原文地址（需翻墙访问）：" + link + "\n"
 	body += "\n\n------------------------\n" + links
 	fh = open(path, 'w')
 	fh.write(body)
@@ -58,13 +63,13 @@ for article in articles:
 	link = article.find_all('a')[1]
 	a_url = link.get('href').encode('utf-8')
 	a_title = link.find('h3').text.encode('utf-8').strip()
-	name = get_name(a_url)
-	file_path = '../pages/' + channel + '/' + name + '.md'
+	name = get_name(a_url) + '.md'
+	file_path = '../pages/' + channel + '/' + name 
 	content = get_content(a_url)
 
 	if not os.path.exists(file_path):
 		print file_path
-		write_page(file_path, a_title, a_url, content)
+		write_page(name, file_path, a_title, a_url, content)
 	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
 
 
