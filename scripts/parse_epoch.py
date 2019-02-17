@@ -32,12 +32,17 @@ def get_content(text):
 		.replace('</h2>', '</h4>')
 
 
-def write_page(f_name, title, link, content):
+def write_page(f_name, f_path, title, link, content):
+	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
 	body = '### ' + title
 	body += "\n------------------------\n\n" + content
-	body += "\n原文链接：" + link + "\n"
+	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
+	body += "\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
+	body += "\n[" + new_link + "](" + new_link + ")<br/>"
+	body += "\n[<img src='" + new_link + ".png'/>](" + new_link + ")<br/>"
+	body += "\n原文地址（需翻墙访问）：" + link + "\n"
 	body += "\n\n------------------------\n" + links
-	fh = open(f_name, 'w')
+	fh = open(f_path, 'w')
 	fh.write(body)
 	fh.close()
 
@@ -54,12 +59,12 @@ for child in root[0]:
 	title = child.find('title').text.encode('utf-8')
 	content = child.find('content').text.encode('utf-8')
 	content = get_content(content)
-	name = get_name(link)
-	file_path = '../pages/' + channel + '/' + name + '.md'
+	name = get_name(link) + '.md'
+	file_path = '../pages/' + channel + '/' + name 
 	
 	if not os.path.exists(file_path):
 		print file_path
-		write_page(file_path, title, link, content)
+		write_page(name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
