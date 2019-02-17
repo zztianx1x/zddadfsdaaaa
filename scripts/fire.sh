@@ -28,9 +28,6 @@ for f in $(ls ../indexes/*); do
 	sed -i "/石涛聚焦/d" $f
 done
 
-## add to git
-git add ../indexes/*
-git add ../pages/*
 
 ## add qr code
 base_url="https://github.com/gfw-breaker/banned-news/blob/master"
@@ -39,17 +36,22 @@ for d in $(ls ../pages/); do
 		a_path="../pages/$d/$f"
 		a_url="$base_url/pages/$d/$f"
 		if [ ! -f $a_path.png ]; then
-			echo $a_path.png	
+			qrencode -o $a_path.png -s $a_url
 		fi
     done
 done
+
+
+## add to git
+git add ../indexes/*
+git add ../pages/*
 
 
 ## purge old entries
 for d in $(ls ../pages/); do
     for f in $(ls -t ../pages/$d | grep 'md$' | sed -n '300,$p'); do
         git rm "../pages/$d/$f"   
-        git rm "../pages/$d/$f.md"   
+        git rm "../pages/$d/$f.png"   
     done
 done
 
