@@ -35,11 +35,11 @@ git add ../pages/*
 ## add qr code
 base_url="https://github.com/gfw-breaker/banned-news/blob/master/pages"
 for d in $(ls ../pages/); do
-    for f in $(ls -t ../pages/$d); do
+    for f in $(ls -t ../pages/$d | grep 'md$'); do
 		a_path="../pages/$d/$f"
-		a_url=$base_url/pages/$d/$f
+		a_url="$base_url/pages/$d/$f"
 		if [ -f $a_path ]; then
-			echo a_url	
+			echo $a_url	
 		fi
     done
 done
@@ -47,8 +47,9 @@ done
 
 ## purge old entries
 for d in $(ls ../pages/); do
-    for f in $(ls -t ../pages/$d | sed -n '300,$p'); do
+    for f in $(ls -t ../pages/$d | grep 'md$' | sed -n '300,$p'); do
         git rm "../pages/$d/$f"   
+        git rm "../pages/$d/$f.md"   
     done
 done
 
