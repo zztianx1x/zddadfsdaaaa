@@ -33,13 +33,13 @@ git add ../indexes/*
 git add ../pages/*
 
 ## add qr code
-base_url="https://github.com/gfw-breaker/banned-news/blob/master/pages"
+base_url="https://github.com/gfw-breaker/banned-news/blob/master"
 for d in $(ls ../pages/); do
     for f in $(ls -t ../pages/$d | grep 'md$'); do
 		a_path="../pages/$d/$f"
 		a_url="$base_url/pages/$d/$f"
-		if [ -f $a_path ]; then
-			echo $a_url	
+		if [ ! -f $a_path.png ]; then
+			echo $a_path.png	
 		fi
     done
 done
