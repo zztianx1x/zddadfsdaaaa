@@ -42,7 +42,7 @@ def get_name(link):
 
 
 def write_page(name, path, title, link, content):
-	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
+	new_link = macros.git_base_url + '/' + channel + '/' + name 
 	body = '### ' + title
 	body += "\n------------------------\n\n" + content
 	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
