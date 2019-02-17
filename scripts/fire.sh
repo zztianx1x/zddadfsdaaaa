@@ -36,7 +36,7 @@ for d in $(ls ../pages/); do
 		a_path="../pages/$d/$f"
 		a_url="$base_url/pages/$d/$f"
 		if [ ! -f $a_path.png ]; then
-			qrencode -o $a_path.png -s $a_url
+			qrencode -o $a_path.png -s 4 $a_url
 		fi
     done
 done
