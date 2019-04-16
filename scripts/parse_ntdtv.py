@@ -60,10 +60,10 @@ index_text = requests.get(channel_url).text.encode('utf-8')
 index_html = BeautifulSoup(index_text, 'html.parser')
 articles = index_html.find('div', attrs = {'class': 'list_wrapper'}).find_all('div', attrs = {'class': 'one_post'})
 for article in articles:
-	links = article.find_all('a')
-	if len(links) < 2:
+	a_links = article.find_all('a')
+	if len(a_links) < 2:
 		continue
-	link = links[1]
+	link = a_links[1]
 	a_url = link.get('href').encode('utf-8')
 	a_title = link.text.encode('utf-8').strip()
 	#print a_url
