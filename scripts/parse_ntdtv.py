@@ -60,9 +60,14 @@ index_text = requests.get(channel_url).text.encode('utf-8')
 index_html = BeautifulSoup(index_text, 'html.parser')
 articles = index_html.find('div', attrs = {'class': 'list_wrapper'}).find_all('div', attrs = {'class': 'one_post'})
 for article in articles:
-	link = article.find_all('a')[1]
+	links = article.find_all('a')
+	if len(links) < 2:
+		continue
+	link = links[1]
 	a_url = link.get('href').encode('utf-8')
 	a_title = link.text.encode('utf-8').strip()
+	#print a_url
+	#print a_title
 	name = get_name(a_url) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	content = get_content(a_url)
