@@ -44,7 +44,7 @@ def get_name(link):
 def write_page(name, path, title, link, content):
 	new_link = macros.git_base_url + '/' + channel + '/' + name 
 	body = '### ' + title
-	body += "\n------------------------\n\n" + content
+	body += "\n------------------------\n\n" + macros.menu + "\n\n" + content
 	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
 	body += "\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
 	body += "\n" + new_link + " <br/>"
@@ -72,9 +72,9 @@ for article in articles:
 	file_path = '../pages/' + channel + '/' + name 
 	content = get_content(a_url)
 
-	if not os.path.exists(file_path):
-		print file_path
-		write_page(name, file_path, a_title, a_url, content)
+	#if not os.path.exists(file_path):
+	#print file_path
+	write_page(name, file_path, a_title, a_url, content)
 	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
 
 

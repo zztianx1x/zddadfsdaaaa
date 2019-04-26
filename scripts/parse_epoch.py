@@ -35,7 +35,7 @@ def get_content(text):
 def write_page(f_name, f_path, title, link, content):
 	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
 	body = '### ' + title
-	body += "\n------------------------\n\n" + content
+	body += "\n------------------------\n\n" + macros.menu + "\n\n" +  content
 	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
 	body += "\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
 	body += "\n" + new_link + " <br/>"
@@ -62,9 +62,9 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path):
-		print file_path
-		write_page(name, file_path, title, link, content)
+	#if not os.path.exists(file_path):
+	#print file_path
+	write_page(name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
