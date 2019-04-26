@@ -3,8 +3,7 @@
 
 git_base_url = "https://github.com/gfw-breaker/banned-news/blob/master/pages"
 
-head = "#### 精彩节目：[《文昭谈古论今》](http://45.76.220.58/wenzhao) | [《历史上的今天》
-](http://45.76.220.58/today-in-history) | [《天亮时分》](http://45.76.220.58/tianliang) | [《大陆新闻解读》](http://45.76.220.58/ntdtv-comedy) | [《热点互动》](http://45.76.220.58/ntdtv-rdhd)  | [《中国禁闻》](http://45.76.220.58/ntdtv-news) | [《新闻看点》](http://45.76.220.58/news-insight) \n\n "
+head = "#### 精彩节目：[《文昭谈古论今》](http://45.76.220.58/wenzhao) | [《历史上的今天》](http://45.76.220.58/today-in-history) | [《天亮时分》](http://45.76.220.58/tianliang) | [《大陆新闻解读》](http://45.76.220.58/ntdtv-comedy) | [《热点互动》](http://45.76.220.58/ntdtv-rdhd)  | [《中国禁闻》](http://45.76.220.58/ntdtv-news) | [《新闻看点》](http://45.76.220.58/news-insight) \n\n "
 
 head += " #### 翻墙必看： [法轮功真相](http://45.32.40.21:10000/videos/truth.html) &nbsp;&nbsp;|&nbsp;&nbsp; [活摘器官](http://45.32.40.21:10000/videos/res/Organs/) &nbsp;&nbsp;|&nbsp;&nbsp; [709维权律师大抓捕](http://45.32.40.21:10000/videos/709/) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党的历史与本质](http://45.32.40.21:10000/videos/ccp.html) &nbsp;&nbsp;| [《九评共产党》](http://45.32.40.21:10000/videos/jiuping/) \n\n"
 
