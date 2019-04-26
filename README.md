@@ -1,6 +1,6 @@
 ### 禁闻聚合【时事、政治、社会、评论等】
 
-#### 精彩节目 &nbsp;- [《天亮时分》](http://159.65.77.23/tianliang/) | [《文昭谈古论今》](http://159.65.77.23/wenzhao/) | [《历史上的今天》](http://159.65.77.23/today-in-history/) |[《大陆新闻解读》](http://159.65.77.23/ntdtv-comedy/) | [《热点互动》](http://159.65.77.23/ntdtv-rdhd/)  | [《中国禁闻》](http://159.65.77.23/ntdtv-news/)
+#### 精彩节目 &nbsp;- [《天亮时分》](http://165.22.139.9/tianliang/) | [《文昭谈古论今》](http://165.22.139.9/wenzhao/) | [《历史上的今天》](http://165.22.139.9/today-in-history/) |[《大陆新闻解读》](http://165.22.139.9/ntdtv-comedy/) | [《热点互动》](http://165.22.139.9/ntdtv-rdhd/)  | [《中国禁闻》](http://165.22.139.9/ntdtv-news/)
 
 #### 大纪元新闻网 &nbsp;-&nbsp; [大陆新闻](indexes/nsc413.md?t=04270637) &nbsp;|&nbsp; [美国新闻](indexes/nsc412.md?t=04270637) &nbsp;|&nbsp; [国际新闻](indexes/nsc418.md?t=04270637) &nbsp;|&nbsp; [专栏文集](indexes/nsc423.md?t=04270637) &nbsp;|&nbsp; [纪元社论](indexes/nsc422.md?t=04270637) &nbsp;|&nbsp; [纪元特稿](indexes/nsc424.md?t=04270637) &nbsp;|&nbsp; [自由广场](indexes/nsc993.md?t=04270637) &nbsp;|&nbsp; [文化历史](indexes/nsc975.md?t=04270637)
 
