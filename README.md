@@ -2,11 +2,11 @@
 
 #### 精彩节目 &nbsp;- [《天亮时分》](http://165.22.151.144/tianliang/) | [《文昭谈古论今》](http://165.22.151.144/wenzhao/) | [《历史上的今天》](http://165.22.151.144/today-in-history/) |[《大陆新闻解读》](http://165.22.151.144/ntdtv-comedy/) | [《热点互动》](http://165.22.151.144/ntdtv-rdhd/)  | [《中国禁闻》](http://165.22.151.144/ntdtv-news/)
 
-#### 大纪元新闻网 &nbsp;-&nbsp; [大陆新闻](indexes/nsc413.md?t=04280036) &nbsp;|&nbsp; [美国新闻](indexes/nsc412.md?t=04280036) &nbsp;|&nbsp; [国际新闻](indexes/nsc418.md?t=04280036) &nbsp;|&nbsp; [专栏文集](indexes/nsc423.md?t=04280036) &nbsp;|&nbsp; [纪元社论](indexes/nsc422.md?t=04280036) &nbsp;|&nbsp; [纪元特稿](indexes/nsc424.md?t=04280036) &nbsp;|&nbsp; [自由广场](indexes/nsc993.md?t=04280036) &nbsp;|&nbsp; [文化历史](indexes/nsc975.md?t=04280036)
+#### 大纪元新闻网 &nbsp;-&nbsp; [大陆新闻](indexes/nsc413.md?t=04280037) &nbsp;|&nbsp; [美国新闻](indexes/nsc412.md?t=04280037) &nbsp;|&nbsp; [国际新闻](indexes/nsc418.md?t=04280037) &nbsp;|&nbsp; [专栏文集](indexes/nsc423.md?t=04280037) &nbsp;|&nbsp; [纪元社论](indexes/nsc422.md?t=04280037) &nbsp;|&nbsp; [纪元特稿](indexes/nsc424.md?t=04280037) &nbsp;|&nbsp; [自由广场](indexes/nsc993.md?t=04280037) &nbsp;|&nbsp; [文化历史](indexes/nsc975.md?t=04280037)
 
-#### 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/prog1138.md?t=04280036) &nbsp;|&nbsp; [共产党百年真相](indexes/prog1699.md?t=04280036)  &nbsp;|&nbsp; [法轮功专题](indexes/prog1530.md?t=04280036) &nbsp;|&nbsp; [文史漫步](indexes/prog647.md?t=04280036) &nbsp;|&nbsp; [大陆新闻](indexes/prog204.md?t=04280036) &nbsp;|&nbsp; [美国新闻](indexes/prog203.md?t=04280036) &nbsp;|&nbsp; [国际新闻](indexes/prog202.md?t=04280036)
+#### 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/prog1138.md?t=04280037) &nbsp;|&nbsp; [共产党百年真相](indexes/prog1699.md?t=04280037)  &nbsp;|&nbsp; [法轮功专题](indexes/prog1530.md?t=04280037) &nbsp;|&nbsp; [文史漫步](indexes/prog647.md?t=04280037) &nbsp;|&nbsp; [大陆新闻](indexes/prog204.md?t=04280037) &nbsp;|&nbsp; [美国新闻](indexes/prog203.md?t=04280037) &nbsp;|&nbsp; [国际新闻](indexes/prog202.md?t=04280037)
 
-#### 下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?t=04280036)；
+#### 下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?t=04280037)；
 
 ----
 
