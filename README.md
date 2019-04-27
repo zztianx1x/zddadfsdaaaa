@@ -1,7 +1,5 @@
 ### 禁闻聚合【时事、政治、社会、评论等】
 
-#### 本项目旨在为不会翻墙的网友提供自由的新闻资讯。面对共产党的暴力与谎言的组合拳，我们无法对抗暴力，但能破除谎言。<br/>（微信用户请使用本页面底部图片中所示方法打开；若有安全警告, 敬请忽略: 党把不愿民众看到的内容全定义为“违法违规”）
-
 #### 精彩节目 &nbsp;- [《天亮时分》](http://159.65.77.23/tianliang/) | [《文昭谈古论今》](http://159.65.77.23/wenzhao/) | [《历史上的今天》](http://159.65.77.23/today-in-history/) |[《大陆新闻解读》](http://159.65.77.23/ntdtv-comedy/) | [《热点互动》](http://159.65.77.23/ntdtv-rdhd/)  | [《中国禁闻》](http://159.65.77.23/ntdtv-news/)
 
 #### 大纪元新闻网 &nbsp;-&nbsp; [大陆新闻](indexes/nsc413.md?t=04270120) &nbsp;|&nbsp; [美国新闻](indexes/nsc412.md?t=04270120) &nbsp;|&nbsp; [国际新闻](indexes/nsc418.md?t=04270120) &nbsp;|&nbsp; [专栏文集](indexes/nsc423.md?t=04270120) &nbsp;|&nbsp; [纪元社论](indexes/nsc422.md?t=04270120) &nbsp;|&nbsp; [纪元特稿](indexes/nsc424.md?t=04270120) &nbsp;|&nbsp; [自由广场](indexes/nsc993.md?t=04270120) &nbsp;|&nbsp; [文化历史](indexes/nsc975.md?t=04270120)
