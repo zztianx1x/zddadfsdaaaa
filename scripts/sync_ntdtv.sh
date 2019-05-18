@@ -1,7 +1,7 @@
 #!/bin/bash
 # author: gfw-breaker
 
-channels="prog1138 prog204 prog203 prog202 prog1530 prog647 prog1699"
+channels="prog1695 prog1138 prog204 prog203 prog202 prog1530 prog647 prog1699"
 
 ## create dirs
 for channel in $channels ; do
