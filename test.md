@@ -5,6 +5,8 @@
 						</div>
 					</div>
 
+					
+
 					<div class="art-content">
 					<p>【大纪元2019年05月12日讯】（大纪元记者关宇宁法国巴黎报导）5月11日下午，<a href="http://www.epochtimes.com/gb/tag/%E7%A5%9E%E9%9F%B5.html">神韵</a>纽约艺术团在<a href="http://www.epochtimes.com/gb/tag/%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE%E4%B8%AD%E5%BF%83.html">法国巴黎国际会议中心</a>(Palais des Congrès de Paris)的第四场演出继续掀起热浪。舞台上一个个短小精悍的故事蕴含着深厚的内涵，中国传统文化内涵令观众十分感动。</p>
 <p>妇产科医生Aristide Solidakis先生观看演出后表示钦佩，他十分赞赏艺术家们复兴传统的努力，并认为演出呈现的<a href="http://www.epochtimes.com/gb/tag/%E4%BB%B7%E5%80%BC%E8%A7%82.html">价值观</a>是“永恒的”。</p>
@@ -15,3 +17,8 @@
 <p>Solidakis认为演出所展现的<a href="http://www.epochtimes.com/gb/tag/%E4%BB%B7%E5%80%BC%E8%A7%82.html">价值观</a>是永恒的。他说：“演出传递了很多的精神价值观，这是中国的历史传说——正义永远战胜邪恶。对每个人来说，这是永恒的价值观。”</p>
 <p>责任编辑：张洁</p>
 					</div>
+
+					
+
+					
+				</div>
