@@ -62,9 +62,9 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path):
-		#print file_path
-		write_page(name, file_path, title, link, content)
+	#if not os.path.exists(file_path):
+	#print file_path
+	write_page(name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
