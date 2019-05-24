@@ -66,15 +66,14 @@ for article in articles:
 	link = a_links[1]
 	a_url = link.get('href').encode('utf-8')
 	a_title = link.text.encode('utf-8').strip()
-	#print a_url
-	#print a_title
 	name = get_name(a_url) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
-	content = get_content(a_url)
+	#content = get_content(a_url)
 
-	#if not os.path.exists(file_path):
-	#print file_path
-	write_page(name, file_path, a_title, a_url, content)
+	if not os.path.exists(file_path):
+		print file_path
+		content = get_content(a_url)
+		write_page(name, file_path, a_title, a_url, content)
 	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
 
 

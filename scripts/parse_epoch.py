@@ -57,14 +57,16 @@ for child in root[0]:
 		continue
 	link = child.find('link').text
 	title = child.find('title').text.encode('utf-8')
-	content = child.find('content').text.encode('utf-8')
-	content = get_content(content)
+	#content = child.find('content').text.encode('utf-8')
+	#content = get_content(content)
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	#if not os.path.exists(file_path):
-	#print file_path
-	write_page(name, file_path, title, link, content)
+	if not os.path.exists(file_path):
+		print file_path
+		content = child.find('content').text.encode('utf-8')
+		content = get_content(content)
+		write_page(name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
