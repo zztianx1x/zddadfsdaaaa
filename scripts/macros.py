@@ -3,9 +3,7 @@
 
 git_base_url = "https://github.com/gfw-breaker/banned-news/blob/master/pages"
 
-head = "#### [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) -  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)\n\n" 
-
-head += "#### 由于频繁封锁，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 \n\n"
+head = "#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 \n\n"
 
 head += "#### 明慧海外之窗：[褒奖决议](282.md) &nbsp;&nbsp;|&nbsp;&nbsp; [社会支持](140.md) &nbsp;&nbsp;|&nbsp;&nbsp; [社区报道](91.md) &nbsp;&nbsp;|&nbsp;&nbsp; [海外简讯](245.md) &nbsp;&nbsp;|&nbsp;&nbsp; [时事评论](251.md) &nbsp;&nbsp;|&nbsp;&nbsp; [迫害海外延伸](236.md) \n\n" 
 
