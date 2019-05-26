@@ -39,8 +39,7 @@ def write_page(f_name, f_path, title, link, content):
 	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
 	body = '### ' + title
 	body += "\n------------------------\n\n" + macros.menu + "\n\n" +  content
-	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
-	body += "\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
+	body += "\n<hr/>\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
 	body += "\n" + new_link + " <br/>"
 	body += "\n<a href='" + new_link + "'><img src='" + new_link + ".png'/></a> <br/>"
 	body += "\n原文地址（需翻墙访问）：" + link + "\n"
