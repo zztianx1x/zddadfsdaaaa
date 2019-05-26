@@ -26,7 +26,8 @@ def get_content(url):
 	if post_title is None:
 		post_title = ''
 	else:
-		post_title = post_title.prettify().encode('utf-8') + '<hr/>'
+		post_title = post_title.prettify().encode('utf-8') \
+			.replace('</figure>','</figure><br/>') + '<hr/>'
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
 		return '-'

@@ -19,6 +19,9 @@ root = tree.getroot()
 
 def get_content(text):
 	parser = BeautifulSoup(text, 'html.parser')
+	for img in parser.find_all('img'):
+		del img['width']
+		del img['height']
 	for iframe in parser.find_all('iframe'):
 		iframe.decompose()
 	for script in parser.find_all('script'):
