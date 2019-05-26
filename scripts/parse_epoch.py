@@ -17,7 +17,7 @@ links = macros.tail
 tree = ET.parse(xml_file)
 root = tree.getroot()
 
-def get_content(text):
+def get_content(text, link):
 	parser = BeautifulSoup(text, 'html.parser')
 	for img in parser.find_all('img'):
 		del img['width']
@@ -27,12 +27,31 @@ def get_content(text):
 	for script in parser.find_all('script'):
 		script.decompose()
 	content = parser.prettify().encode('utf-8')
-	return content.replace('</figure>','</figure><br/>') \
+	content = parser.prettify().encode('utf-8') \
+		.replace('</figure>','</figure><br/>') \
 		.replace('<figcaption','<br/><figcaption') \
 		.replace('</figcaption>','</figcaption><br/>') \
 		.replace('<h2>', '<h4>') \
 		.replace('<h2 ', '<h4 ') \
 		.replace('</h2>', '</h4>')
+	# get post image
+	response = requests.get(link)
+	text = response.text.encode('utf-8')
+	parser = BeautifulSoup(text, 'html.parser')
+	post_image = parser.find('div', attrs = {'class': 'arttop'})
+	if post_image is None:
+		post = ''
+	else:
+		img = post_image.find('img')
+		caption = post_image.find('div', attrs = {'class': 'caption'})
+		if img is None or caption is None:
+			post = ''
+		else:
+			del img['width']
+			del img['height']
+			post = img.prettify().encode('utf-8') + \
+				caption.prettify().encode('utf-8') + '<hr/>'
+	return post + content
 
 
 def write_page(f_name, f_path, title, link, content):
@@ -67,7 +86,7 @@ for child in root[0]:
 	if not os.path.exists(file_path):
 		print file_path
 		content = child.find('content').text.encode('utf-8')
-		content = get_content(content)
+		content = get_content(content, link)
 		write_page(name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
