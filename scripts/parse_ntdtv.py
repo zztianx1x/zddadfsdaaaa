@@ -19,6 +19,14 @@ def get_content(url):
 	response = requests.get(url)
 	text = response.text.encode('utf-8')
 	parser = BeautifulSoup(text, 'html.parser')
+	for img in parser.find_all('img'):
+		del img['width']
+		del img['height']
+	post_title = parser.find('div', attrs = {'class': 'feature-image'})
+	if post_title is None:
+		post_title = ''
+	else:
+		post_title = post_title.prettify().encode('utf-8') + '<hr/>'
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
 		return '-'
@@ -26,13 +34,14 @@ def get_content(url):
 		related.decompose()
 	for iframe in post_content.find_all('iframe'):
 		iframe.decompose()
-	return post_content.prettify().encode('utf-8') \
+	post_content = post_content.prettify().encode('utf-8') \
 		.replace('</figure>','</figure><br/>') \
         .replace('<figcaption','<br/><figcaption') \
         .replace('</figcaption>','</figcaption><br/>') \
         .replace('<h2>', '<h4>') \
         .replace('<h2 ', '<h4 ') \
         .replace('</h2>', '</h4>')
+	return post_title + post_content
 
 
 def get_name(link):
@@ -45,8 +54,7 @@ def write_page(name, path, title, link, content):
 	new_link = macros.git_base_url + '/' + channel + '/' + name 
 	body = '### ' + title
 	body += "\n------------------------\n\n" + macros.menu + "\n\n" + content
-	body += "\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/><br/>" 
-	body += "\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
+	body += "\n<hr/>\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
 	body += "\n" + new_link + " <br/>"
 	body += "\n<a href='" + new_link + "'><img src='" + new_link + ".png'/></a> <br/>"
 	body += "\n原文地址（需翻墙访问）：" + link + "\n"
