@@ -7,7 +7,7 @@ head = "#### 由于频繁封锁，请参考 [手把手翻墙教程](https://gith
 
 head += "#### [翻墙必看](https://github.com/gfw-breaker/guides/wiki/使用Nginx反向代理翻墙（平台通用）) &nbsp;&nbsp;|&nbsp;&nbsp; [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md)  \n\n"
 
-head += "### 旧版本[禁闻聚合 安卓APP](https://github.com/gfw-breaker/bn-android)已经失效，请删除后，重新下载安装新版本 \n\n"
+head += "### 旧版本禁闻聚合安卓APP已经失效，请删除，然后重新[下载安装新版本](https://github.com/gfw-breaker/bn-android) \n\n"
 
 tail = "#### [首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;|&nbsp; [Web代理](https://github.com/labour-camp/helloworld) &nbsp;|&nbsp; [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md) &nbsp;| [《九评共产党》](https://github.com/gfw-breaker/9ping.md/blob/master/README.md#九评之一评共产党是什么) | [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md/blob/master/README.md) | [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md/blob/master/README.md)\n\n"
 
