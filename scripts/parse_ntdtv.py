@@ -23,7 +23,7 @@ def get_content(url):
 		del img['width']
 		del img['height']
 	for link in parser.find_all('div', attrs = {'class': 'print_link'}):
-		del link
+		link.decompose()
 	post_title = parser.find('div', attrs = {'class': 'featured_image'})
 	if post_title is None:
 		post_title = ''
