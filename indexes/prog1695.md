@@ -1,6 +1,6 @@
 #### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=06141033) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
 
-#### &nbsp;&nbsp; [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=06141033) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=06141033)  
+#### [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=06141033) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=06141033)  
 
 ### 旧版本禁闻聚合安卓APP已经失效，请删除，然后重新[下载安装新版本](https://github.com/gfw-breaker/bn-android) 
 
