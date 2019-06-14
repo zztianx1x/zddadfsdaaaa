@@ -5,7 +5,7 @@ git_base_url = "https://github.com/gfw-breaker/banned-news/blob/master/pages"
 
 head = "#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 \n\n"
 
-head += "#### [翻墙必看](https://github.com/gfw-breaker/guides/wiki/使用Nginx反向代理翻墙（平台通用）) &nbsp;&nbsp;|&nbsp;&nbsp; [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md)  \n\n"
+head += "#### &nbsp;&nbsp; [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md)  \n\n"
 
 head += "### 旧版本禁闻聚合安卓APP已经失效，请删除，然后重新[下载安装新版本](https://github.com/gfw-breaker/bn-android) \n\n"
 
