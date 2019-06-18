@@ -26,14 +26,8 @@ def get_content(text, link):
 		iframe.decompose()
 	for script in parser.find_all('script'):
 		script.decompose()
-	content = parser.prettify().encode('utf-8')
-	content = parser.prettify().encode('utf-8') \
-		.replace('</figure>','</figure><br/>') \
-		.replace('<figcaption','<br/><figcaption') \
-		.replace('</figcaption>','</figcaption><br/>') \
-		.replace('<h2>', '<h4>') \
-		.replace('<h2 ', '<h4 ') \
-		.replace('</h2>', '</h4>')
+	content = parser.prettify().encode('utf-8') 
+
 	# get post image
 	response = requests.get(link)
 	text = response.text.encode('utf-8')
@@ -51,7 +45,14 @@ def get_content(text, link):
 			del img['height']
 			post = img.prettify().encode('utf-8') + \
 				caption.prettify().encode('utf-8') + '<hr/>'
-	return post + content
+	return (post + content) \
+		.replace('<a href', '<span href').replace('</a>', '</span>')
+		.replace('</figure>','</figure><br/>') \
+		.replace('<figcaption','<br/><figcaption') \
+		.replace('</figcaption>','</figcaption><br/>') \
+		.replace('<h2>', '<h4>') \
+		.replace('<h2 ', '<h4 ') \
+		.replace('</h2>', '</h4>')
 
 
 def write_page(f_name, f_path, title, link, content):

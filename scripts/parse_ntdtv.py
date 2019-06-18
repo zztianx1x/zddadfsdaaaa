@@ -37,14 +37,15 @@ def get_content(url):
 		related.decompose()
 	for iframe in post_content.find_all('iframe'):
 		iframe.decompose()
-	post_content = post_content.prettify().encode('utf-8') \
+	post_content = post_content.prettify().encode('utf-8') 
+	return (post_title + post_content) \
+		.replace('<a href', '<span href').replace('</a>', '</span>')
 		.replace('</figure>','</figure><br/>') \
         .replace('<figcaption','<br/><figcaption') \
         .replace('</figcaption>','</figcaption><br/>') \
         .replace('<h2>', '<h4>') \
         .replace('<h2 ', '<h4 ') \
         .replace('</h2>', '</h4>')
-	return post_title + post_content
 
 
 def get_name(link):
