@@ -46,7 +46,7 @@ def get_content(text, link):
 			post = img.prettify().encode('utf-8') + \
 				caption.prettify().encode('utf-8') + '<hr/>'
 	return (post + content) \
-		.replace('<a href', '<span href').replace('</a>', '</span>')
+		.replace('<a href', '<span href').replace('</a>', '</span>') \
 		.replace('</figure>','</figure><br/>') \
 		.replace('<figcaption','<br/><figcaption') \
 		.replace('</figcaption>','</figcaption><br/>') \
