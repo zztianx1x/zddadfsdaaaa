@@ -23,6 +23,10 @@ def get_content(url):
 		script.decompose()
 	for iframe in parser.find_all('iframe'):
 		iframe.decompose()
+	for img in parser.find_all('img'):
+		del img['width']
+		del img['height']
+		del img['sizes']
 	post_title = parser.find('div', attrs = {'class': 'zhidingtu'})
 	if post_title is None:
 		post_title = ''
