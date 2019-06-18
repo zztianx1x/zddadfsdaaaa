@@ -5,6 +5,8 @@
 
 #### 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/prog1138.md?t=06180935) &nbsp;|&nbsp; [共产党百年真相](indexes/prog1699.md?t=06180935) &nbsp;|&nbsp; [中共杀人历史](indexes/prog1695.md?t=06180935)  &nbsp;|&nbsp; [法轮功专题](indexes/prog1530.md?t=06180935) &nbsp;|&nbsp; [文史漫步](indexes/prog647.md?t=06180935) &nbsp;|&nbsp; [大陆新闻](indexes/prog204.md?t=06180935) &nbsp;|&nbsp; [美国新闻](indexes/prog203.md?t=06180935)
 
+#### 希望之声SOH &nbsp;-&nbsp; [热点追踪](indexes/soh_rdzz.md?t=06180931) &nbsp;|&nbsp; [名家谈时事](indexes/soh_mjtss.md?t=06180931) &nbsp;|&nbsp; [个人评论](indexes/soh_grpl.md?t=06180931)  &nbsp;|&nbsp; [红朝解密](indexes/soh_xcjm.md?t=06180931) &nbsp;|&nbsp; [文化寻根](indexes/soh_whxg.md?t=06180931) &nbsp;|&nbsp; [大陆新闻](indexes/soh_zgxw.md?t=06180931) &nbsp;|&nbsp; [港台新闻](indexes/soh_gtxw.md?t=06180931)
+
 #### 学习 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)，自由浏览互联网
 
 ----
