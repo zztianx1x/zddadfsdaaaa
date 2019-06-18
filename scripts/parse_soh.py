@@ -35,7 +35,7 @@ def get_content(url):
 	else:
 		post_content = post_content.prettify().encode('utf-8') \
 			.replace('//img.soundofhope.org', 'http://img.soundofhope.org') \
-			.replace('<h1>', '<h4>').replace('<h1 ', '<h4 ').replace('</h1>', '</h4>') \
+			.replace('<h1>', '<h3>').replace('<h1 ', '<h3 ').replace('</h1>', '</h3>') \
 			.replace('<h2>', '<h4>').replace('<h2 ', '<h4 ').replace('</h2>', '</h4>')
 	return post_title + '<hr/>\n' + post_content
 
