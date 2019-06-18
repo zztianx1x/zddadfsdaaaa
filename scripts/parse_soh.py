@@ -41,6 +41,9 @@ def get_content(url):
 			.replace('//img.soundofhope.org', 'http://img.soundofhope.org') \
 			.replace('<h1>', '<h3>').replace('<h1 ', '<h3 ').replace('</h1>', '</h3>') \
 			.replace('<h2>', '<h4>').replace('<h2 ', '<h4 ').replace('</h2>', '</h4>')
+			.replace('</figure>','</figure><br/>') \
+			.replace('<figcaption','<br/><figcaption') \
+			.replace('</figcaption>','</figcaption><br/>') 
 	return post_title + '<hr/>\n' + post_content
 
 
