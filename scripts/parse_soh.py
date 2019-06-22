@@ -31,8 +31,7 @@ def get_content(url):
 	if post_title is None:
 		post_title = ''
 	else:
-		post_title = post_title.prettify().encode('utf-8') \
-			.replace('//img.soundofhope.org', 'http://img.soundofhope.org')
+		post_title = post_title.prettify().encode('utf-8') 
 	post_content = parser.find('div', attrs = {'class': 'content'})
 	if post_content is None:
 		post_cotent =  '-'
