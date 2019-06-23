@@ -2,6 +2,8 @@
 
 手机上单击可以放大浏览、下载
 
+---
+
 <img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/21/mhzb_anhui_477_pdf-online1.png"/>
 
 <img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/21/mhzb_anhui_477_pdf-online2.png"/>
