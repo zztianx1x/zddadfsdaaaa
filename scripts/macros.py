@@ -7,7 +7,7 @@ head = "#### 由于频繁封锁，请参考 [手把手翻墙教程](https://gith
 
 head += "#### 旧版本禁闻聚合安卓APP已经失效，请删除，然后重新[下载安装新版本](https://github.com/gfw-breaker/bn-android) \n\n"
 
-head += "#### [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md)  \n\n"
+head += "#### [明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [中国古典舞神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) &nbsp;&nbsp;|&nbsp;&nbsp; [共产党迫害法轮功实录](https://github.com/gfw-breaker/mh-news/blob/master/README.md)  \n\n"
 
 menu = "#### [首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;&nbsp;|&nbsp;&nbsp; [禁闻聚合安卓版](https://github.com/gfw-breaker/bn-android) &nbsp;&nbsp;|&nbsp;&nbsp; [网门安卓版](https://github.com/oGate2/oGate) &nbsp;&nbsp;|&nbsp;&nbsp; [神州正道安卓版](https://github.com/SzzdOgate/update) \n\n"
 
