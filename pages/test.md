@@ -1,0 +1,7 @@
+<img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/21/mhzb_anhui_477_pdf-online1.png"/>
+
+<img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/21/mhzb_anhui_477_pdf-online2.png"/>
+
+<img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/21/mhzb_anhui_477_pdf-online3.png"/>
+
+<img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/21/mhzb_anhui_477_pdf-online4.png"/>
