@@ -1,4 +1,4 @@
-### 禁闻聚合【时事、政治、社会、评论等】
+### 禁闻聚合【新闻、历史、评论等】
 
 
 #### 大纪元新闻网 &nbsp;-&nbsp; [大头条集锦](indexes/nf4514.md?t=06292137) &nbsp;|&nbsp; [港澳新闻](indexes/nsc415.md?t=06292137)  &nbsp;|&nbsp; [大陆新闻](indexes/nsc413.md?t=06292137) &nbsp;|&nbsp; [美国新闻](indexes/nsc412.md?t=06292137) &nbsp;|&nbsp; [国际新闻](indexes/nsc418.md?t=06292137) &nbsp;|&nbsp; [专栏文集](indexes/nsc423.md?t=06292137) &nbsp;|&nbsp; [纪元社论](indexes/nsc422.md?t=06292137) &nbsp;|&nbsp; [纪元特稿](indexes/nsc424.md?t=06292137) 
