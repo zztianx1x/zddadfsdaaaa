@@ -46,44 +46,6 @@ def get_content(text, link):
 	return headerimg + storytext
 
 
-def get_content2(text, link):
-	parser = BeautifulSoup(text, 'html.parser')
-	for img in parser.find_all('img'):
-		del img['width']
-		del img['height']
-	for iframe in parser.find_all('iframe'):
-		iframe.decompose()
-	for script in parser.find_all('script'):
-		script.decompose()
-	content = parser.prettify().encode('utf-8') 
-
-	# get post image
-	response = requests.get(link)
-	text = response.text.encode('utf-8')
-	parser = BeautifulSoup(text, 'html.parser')
-	post_image = parser.find('div', attrs = {'class': 'arttop'})
-	if post_image is None:
-		post = ''
-	else:
-		img = post_image.find('img')
-		caption = post_image.find('div', attrs = {'class': 'caption'})
-		if img is None or caption is None:
-			post = ''
-		else:
-			del img['width']
-			del img['height']
-			post = img.prettify().encode('utf-8') + \
-				caption.prettify().encode('utf-8') + '<hr/>'
-	return (post + content) \
-		.replace('<a href', '<span href').replace('</a>', '</span>') \
-		.replace('</figure>','</figure><br/>') \
-		.replace('<figcaption','<br/><figcaption') \
-		.replace('</figcaption>','</figcaption><br/>') \
-		.replace('<h2>', '<h4>') \
-		.replace('<h2 ', '<h4 ') \
-		.replace('</h2>', '</h4>')
-
-
 def write_page(f_name, f_path, title, link, content):
 	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
 	body = '### ' + title
