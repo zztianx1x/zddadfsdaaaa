@@ -57,6 +57,7 @@ done
 
 
 ## write README.md
+rm *.xml
 sed -i "s/\.md?t=[0-9]*)/.md?t=$tt)/g" ../README.md
 git add ../README.md
 

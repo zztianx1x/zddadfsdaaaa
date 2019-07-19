@@ -11,7 +11,7 @@ done
 ## get feeds files
 for channel in $channels ; do
 	url="http://www.epochtimes.com/gb/$channel.xml"
-	wget -q $url
+	wget -q $url -O $channel.xml
 	sed -i 's/content:encoded/content/g' $channel.xml
 	echo "getting channel: $url"
 	python parse_epoch.py $channel
