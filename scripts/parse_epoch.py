@@ -28,6 +28,7 @@ def get_content(text, link):
 		script.decompose()
 	for a in parser.find_all('a'):
 		del a['title']
+		del a['class']
 	content = parser.prettify().encode('utf-8') 
 
 	# get post image
