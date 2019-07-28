@@ -40,12 +40,12 @@ def get_content(text, link):
 		post = ''
 	else:
 		img = post_image.find('img')
-		del img['width']
-		del img['height']
 		caption = post_image.find('div', attrs = {'class': 'caption'})
 		if img is None or caption is None:
 			post = ''
 		else:
+			del img['width']
+			del img['height']
 			post = img.prettify().encode('utf-8') + \
 				caption.prettify().encode('utf-8') + '<hr/>'
 
