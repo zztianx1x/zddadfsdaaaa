@@ -49,7 +49,7 @@ def get_content(text, link):
 
 	#.replace('<a href', '<span href').replace('</a>', '</span>') \
 	return (post + content) \
-		.replace('<a href', '<span href').replace('</a>', '</span>') \
+		.replace('<a href', '<ok href').replace('</a>', '</ok>') \
 		.replace('</figure>','</figure><br/>') \
 		.replace('<figcaption','<br/><figcaption') \
 		.replace('</figcaption>','</figcaption><br/>') \
@@ -87,8 +87,8 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path):
-	#if True:
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = child.find('content').text.encode('utf-8')
 		content = get_content(content, link)
