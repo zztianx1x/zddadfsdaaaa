@@ -26,8 +26,8 @@ def get_content(text, link):
 		iframe.decompose()
 	for script in parser.find_all('script'):
 		script.decompose()
-	for link in parser.find_all('a'):
-		del link['title']
+	for a in parser.find_all('a'):
+		del a['title']
 	content = parser.prettify().encode('utf-8') 
 
 	# get post image
