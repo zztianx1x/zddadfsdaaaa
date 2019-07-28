@@ -26,6 +26,8 @@ def get_content(text, link):
 		iframe.decompose()
 	for script in parser.find_all('script'):
 		script.decompose()
+	for link in parser.find_all('a'):
+		del link['title']
 	content = parser.prettify().encode('utf-8') 
 
 	# get post image
@@ -41,12 +43,11 @@ def get_content(text, link):
 		if img is None or caption is None:
 			post = ''
 		else:
-			del img['width']
-			del img['height']
 			post = img.prettify().encode('utf-8') + \
 				caption.prettify().encode('utf-8') + '<hr/>'
+
+	#.replace('<a href', '<span href').replace('</a>', '</span>') \
 	return (post + content) \
-		.replace('<a href', '<span href').replace('</a>', '</span>') \
 		.replace('</figure>','</figure><br/>') \
 		.replace('<figcaption','<br/><figcaption') \
 		.replace('</figcaption>','</figcaption><br/>') \
@@ -84,8 +85,8 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path):
-	#if True:
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = child.find('content').text.encode('utf-8')
 		content = get_content(content, link)
