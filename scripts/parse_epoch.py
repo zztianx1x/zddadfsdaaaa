@@ -40,6 +40,8 @@ def get_content(text, link):
 		post = ''
 	else:
 		img = post_image.find('img')
+		del img['width']
+		del img['height']
 		caption = post_image.find('div', attrs = {'class': 'caption'})
 		if img is None or caption is None:
 			post = ''
@@ -87,8 +89,8 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path):
-	#if True:
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = child.find('content').text.encode('utf-8')
 		content = get_content(content, link)
