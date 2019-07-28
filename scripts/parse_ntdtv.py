@@ -39,7 +39,7 @@ def get_content(url):
 		iframe.decompose()
 	post_content = post_content.prettify().encode('utf-8') 
 	return (post_title + post_content) \
-		.replace('<a href', '<span href').replace('</a>', '</span>') \
+		.replace('<a href', '<ok href').replace('</a>', '</ok>') \
 		.replace('</figure>','</figure><br/>') \
         .replace('<figcaption','<br/><figcaption') \
         .replace('</figcaption>','</figcaption><br/>') \
