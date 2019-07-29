@@ -28,8 +28,8 @@ def get_content(url):
 	if post_title is None:
 		post_title = ''
 	else:
-		post_title = post_title.prettify().encode('utf-8') \
-			.replace('</figure>','</figure><br/>') + '<hr/>'
+		post_title = '<div>' + post_title.prettify().encode('utf-8') \
+			.replace('</figure>','</figure><br/>') + '</div><hr/>'
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
 		return '-'
@@ -37,7 +37,7 @@ def get_content(url):
 		related.decompose()
 	for iframe in post_content.find_all('iframe'):
 		iframe.decompose()
-	post_content = post_content.prettify().encode('utf-8') 
+	post_content = '<div>' + post_content.prettify().encode('utf-8') + '</div>'
 	return (post_title + post_content) \
 		.replace('<a href', '<ok href').replace('</a>', '</ok>') \
 		.replace('</figure>','</figure><br/>') \
@@ -82,8 +82,8 @@ for article in articles:
 	file_path = '../pages/' + channel + '/' + name 
 	#content = get_content(a_url)
 
-	if not os.path.exists(file_path):
-	#if True:
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = get_content(a_url)
 		write_page(name, file_path, a_title, a_url, content)

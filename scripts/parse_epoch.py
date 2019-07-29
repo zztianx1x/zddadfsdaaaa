@@ -29,7 +29,7 @@ def get_content(text, link):
 	for a in parser.find_all('a'):
 		del a['title']
 		del a['class']
-	content = parser.prettify().encode('utf-8') 
+	content = '<div>' + parser.prettify().encode('utf-8')  + '</div>'
 
 	# get post image
 	response = requests.get(link)
@@ -46,11 +46,11 @@ def get_content(text, link):
 		else:
 			del img['width']
 			del img['height']
-			post = img.prettify().encode('utf-8') + \
-				caption.prettify().encode('utf-8') + '<hr/>'
+			post = '<div>' + img.prettify().encode('utf-8') + \
+				caption.prettify().encode('utf-8') + '</div><hr/>'
 
 	#.replace('<a href', '<span href').replace('</a>', '</span>') \
-	return (post + '<div>' + content + '</div>') \
+	return (post + content ) \
 		.replace('<a href', '<ok href').replace('</a>', '</ok>') \
 		.replace('</figure>','</figure><br/>') \
 		.replace('<figcaption','<br/><figcaption') \
@@ -101,5 +101,4 @@ for child in root[0]:
 index_file = open('../indexes/' + channel + '.md', 'w')
 index_file.write(index_page)
 index_file.close()
-
 
