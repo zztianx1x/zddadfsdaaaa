@@ -1,20 +1,20 @@
-#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08030420) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
+#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08030440) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08030420) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08030420) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08030420) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08030420) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08030440) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08030440) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08030440) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08030440) 
 
-#### [评论 | 江静玲： 英国硬脱欧 香港成祭品](../pages/pinglun/jjl-08012019163350.md?t=08030420) 
+#### [评论 | 江静玲： 英国硬脱欧 香港成祭品](../pages/pinglun/jjl-08012019163350.md?t=08030440) 
 
-#### [评论 | 胡平：一众大佬缺席李鹏遗体告别式无须过度解读](../pages/pinglun/hp-08012019162906.md?t=08030420) 
+#### [评论 | 胡平：一众大佬缺席李鹏遗体告别式无须过度解读](../pages/pinglun/hp-08012019162906.md?t=08030440) 
 
-#### [评论 | 傅申奇：李鹏与六四屠杀](../pages/pinglun/fs-07292019161254.md?t=08030420) 
+#### [评论 | 傅申奇：李鹏与六四屠杀](../pages/pinglun/fs-07292019161254.md?t=08030440) 
 
-#### [评论 | 傅申奇：香港的抗争](../pages/pinglun/fs-07292019160840.md?t=08030420) 
+#### [评论 | 傅申奇：香港的抗争](../pages/pinglun/fs-07292019160840.md?t=08030440) 
 
-#### [评论 | 魏京生：所谓的中美俄三角关系](../pages/pinglun/wjs-08012019113316.md?t=08030420) 
+#### [评论 | 魏京生：所谓的中美俄三角关系](../pages/pinglun/wjs-08012019113316.md?t=08030440) 
 
-#### [评论 | 刘荻：爱国愤青失望了，中央不打算干涉香港事务](../pages/pinglun/ld-07312019141938.md?t=08030420) 
+#### [评论 | 刘荻：爱国愤青失望了，中央不打算干涉香港事务](../pages/pinglun/ld-07312019141938.md?t=08030440) 
 
-#### [评论 | 江棋生：这里是我的祖国， 这里就应当自由起来](../pages/pinglun/jqs-07312019105506.md?t=08030420) 
+#### [评论 | 江棋生：这里是我的祖国， 这里就应当自由起来](../pages/pinglun/jqs-07312019105506.md?t=08030440) 
 
-#### [读者广场 |钟邢：习近平“四个自信”的真假对错（下）](../pages/pinglun/dz-07302019105833.md?t=08030420) 
+#### [读者广场 |钟邢：习近平“四个自信”的真假对错（下）](../pages/pinglun/dz-07302019105833.md?t=08030440) 
 
