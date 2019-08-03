@@ -9,8 +9,6 @@
 
 #### 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/p1.md?t=08031500) &nbsp;|&nbsp; [看官场](indexes/p2.md?t=08031500) &nbsp;|&nbsp; [看民生](indexes/p3.md?t=08031500)  &nbsp;|&nbsp; [看博谈](indexes/p4.md?t=08031500) &nbsp;|&nbsp; [看财经](indexes/p5.md?t=08031500) &nbsp;|&nbsp; [看史海](indexes/p6.md?t=08031500) &nbsp;|&nbsp; [看文化](indexes/p7.md?t=08031500) &nbsp;|&nbsp; [看生活](indexes/p8.md?t=08031500) &nbsp;|&nbsp; [看世界](indexes/p9.md?t=08031500)
 
-#### 自由亚洲电台 &nbsp;-&nbsp; [亚太报道](indexes/yataibaodao.md?t=08031500) &nbsp;|&nbsp; [中国一周](indexes/zhongguoyizhou.md?t=08031500) &nbsp;|&nbsp; [中国透视](indexes/zhongguotoushi.md?t=08031500)  &nbsp;|&nbsp; [国际视角](indexes/guojishijiao.md?t=08031500) &nbsp;|&nbsp; [夜话中南海](indexes/yehuazhongnanhai.md?t=08031500) &nbsp;|&nbsp; [不同的声音](indexes/butongdeshengyin.md?t=08031500) &nbsp;|&nbsp; [特约评论](indexes/pinglun.md?t=08031500)
-
 #### 学习 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)，自由浏览互联网
 
 ----
