@@ -1,59 +1,59 @@
-#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08062340) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
+#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08062358) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08062340) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08062340) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08062340) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08062340) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08062358) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08062358) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08062358) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08062358) 
 
-#### [美国将中国列为汇率操纵国 贸易战升级](../pages/prog202/a102639096.md?t=08062340) 
+#### [美国将中国列为汇率操纵国 贸易战升级](../pages/prog202/a102639096.md?t=08062358) 
 
-#### [【禁闻】港人召开民间记者会 抗衡政府一言堂](../pages/prog202/a102639030.md?t=08062340) 
+#### [【禁闻】港人召开民间记者会 抗衡政府一言堂](../pages/prog202/a102639030.md?t=08062358) 
 
-#### [法轮功芝加哥游行集会反迫害  政要支持](../pages/prog202/a102639011.md?t=08062340) 
+#### [法轮功芝加哥游行集会反迫害  政要支持](../pages/prog202/a102639011.md?t=08062358) 
 
-#### [加国华裔病毒学家被带走前 曾有埃博拉病毒密送北京](../pages/prog202/a102638984.md?t=08062340) 
+#### [加国华裔病毒学家被带走前 曾有埃博拉病毒密送北京](../pages/prog202/a102638984.md?t=08062358) 
 
-#### [川普下令 冻结委内瑞拉政府在美资产](../pages/prog202/a102638972.md?t=08062340) 
+#### [川普下令 冻结委内瑞拉政府在美资产](../pages/prog202/a102638972.md?t=08062358) 
 
-#### [关闭应答器还改名 中石油船只助伊朗偷运石油](../pages/prog202/a102638936.md?t=08062340) 
-
-
-#### [佩洛西：赞港人勇气强烈对比懦夫政府](../pages/prog202/a102638866.md?t=08062340) 
-
-#### [人民币破7 美国将中共列入货币操纵国](../pages/prog202/a102638855.md?t=08062340) 
-
-#### [【反迫害20周年访谈】国际宗教自由圆桌会议共同主席：专注行动施压中共](../pages/prog202/a102638878.md?t=08062340) 
-
-#### [【反迫害20周年访谈】美国之音主席：中共持续迫害是政治暴政](../pages/prog202/a102638872.md?t=08062340) 
+#### [关闭应答器还改名 中石油船只助伊朗偷运石油](../pages/prog202/a102638936.md?t=08062358) 
 
 
-#### [加拿大反对党领袖重申：加中关系必须重置](../pages/prog202/a102638628.md?t=08062340) 
+#### [佩洛西：赞港人勇气强烈对比懦夫政府](../pages/prog202/a102638866.md?t=08062358) 
 
-#### [8月6日国际重要讯息](../pages/prog202/a102638612.md?t=08062340) 
+#### [人民币破7 美国将中共列入货币操纵国](../pages/prog202/a102638855.md?t=08062358) 
 
-#### [范斯高直扑九州 210航班取消 和歌山沉船20多人坠海](../pages/prog202/a102638488.md?t=08062340) 
+#### [【反迫害20周年访谈】国际宗教自由圆桌会议共同主席：专注行动施压中共](../pages/prog202/a102638878.md?t=08062358) 
 
-#### [朝鲜又发两枚不明飞行物 13天内第4度](../pages/prog202/a102638444.md?t=08062340) 
-
-#### [联合国报告：朝鲜网攻窃20亿美元 发展杀伤武器](../pages/prog202/a102638411.md?t=08062340) 
-
-#### [专家揭人民币“破7”内幕：中共已成风箱里老鼠](../pages/prog202/a102638412.md?t=08062340) 
-
-#### [针对韩国？ 朝鲜2周内第4次试射飞弹](../pages/prog202/a102638373.md?t=08062340) 
+#### [【反迫害20周年访谈】美国之音主席：中共持续迫害是政治暴政](../pages/prog202/a102638872.md?t=08062358) 
 
 
-#### [俄罗斯西伯利亚军火库爆炸 万人被迫撤离](../pages/prog202/a102638240.md?t=08062340) 
+#### [加拿大反对党领袖重申：加中关系必须重置](../pages/prog202/a102638628.md?t=08062358) 
 
-#### [开罗恐袭: 多车相撞大爆炸 20死30伤](../pages/prog202/a102638207.md?t=08062340) 
+#### [8月6日国际重要讯息](../pages/prog202/a102638612.md?t=08062358) 
 
-#### [印度废止克什米尔自治 引发国会抗议民众谴责](../pages/prog202/a102638201.md?t=08062340) 
+#### [范斯高直扑九州 210航班取消 和歌山沉船20多人坠海](../pages/prog202/a102638488.md?t=08062358) 
 
-#### [俄罗斯传统驳船节 现代纤夫大比拼](../pages/prog202/a102638193.md?t=08062340) 
+#### [朝鲜又发两枚不明飞行物 13天内第4度](../pages/prog202/a102638444.md?t=08062358) 
 
-#### [【禁闻】中共恐怖笼罩留学生 美誓言12准则保护](../pages/prog202/a102638176.md?t=08062340) 
+#### [联合国报告：朝鲜网攻窃20亿美元 发展杀伤武器](../pages/prog202/a102638411.md?t=08062358) 
+
+#### [专家揭人民币“破7”内幕：中共已成风箱里老鼠](../pages/prog202/a102638412.md?t=08062358) 
+
+#### [针对韩国？ 朝鲜2周内第4次试射飞弹](../pages/prog202/a102638373.md?t=08062358) 
 
 
-#### [人权电影节在韩举行  法轮功真相震惊游客](../pages/prog202/a102637986.md?t=08062340) 
+#### [俄罗斯西伯利亚军火库爆炸 万人被迫撤离](../pages/prog202/a102638240.md?t=08062358) 
+
+#### [开罗恐袭: 多车相撞大爆炸 20死30伤](../pages/prog202/a102638207.md?t=08062358) 
+
+#### [印度废止克什米尔自治 引发国会抗议民众谴责](../pages/prog202/a102638201.md?t=08062358) 
+
+#### [俄罗斯传统驳船节 现代纤夫大比拼](../pages/prog202/a102638193.md?t=08062358) 
+
+#### [【禁闻】中共恐怖笼罩留学生 美誓言12准则保护](../pages/prog202/a102638176.md?t=08062358) 
 
 
-#### [开罗汽车冲车阵大爆炸 波及医院酿19死30伤](../pages/prog202/a102637848.md?t=08062340) 
+#### [人权电影节在韩举行  法轮功真相震惊游客](../pages/prog202/a102637986.md?t=08062358) 
 
-#### [8月4日国际新闻简讯](../pages/prog202/a102637857.md?t=08062340) 
+
+#### [开罗汽车冲车阵大爆炸 波及医院酿19死30伤](../pages/prog202/a102637848.md?t=08062358) 
+
+#### [8月4日国际新闻简讯](../pages/prog202/a102637857.md?t=08062358) 
 
