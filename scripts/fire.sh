@@ -38,7 +38,7 @@ for d in $(ls ../pages/); do
 		if [ ! -f $a_path.png ]; then
 			qrencode -o $a_path.png -s 4 $a_url
 		fi
-		echo -e "\n<img src='http://gfw-breaker.win/statistics.png' width='1px' height='1px'/>\n" >> a_path
+		echo -e "\n<img src='http://gfw-breaker.win/statistics.png' width='1px' height='1px'/>\n" >> $a_path
     done
 done
 
