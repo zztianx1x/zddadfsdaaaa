@@ -16,3 +16,17 @@ menu = "#### [首页](https://github.com/gfw-breaker/banned-news/blob/master/REA
 tail = "#### [首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;|&nbsp; [Web代理](https://github.com/labour-camp/helloworld) &nbsp;|&nbsp; [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md) &nbsp;| [《九评共产党》](https://github.com/gfw-breaker/9ping.md/blob/master/README.md#九评之一评共产党是什么) | [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md/blob/master/README.md) | [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md/blob/master/README.md)\n\n"
 
 
+def write_page(channel, f_name, f_path, title, link, content):
+	new_link = git_base_url + '/' + channel + '/' + f_name
+	body = '### ' + title
+	body += "\n------------------------\n\n" + menu + "\n\n" +  content
+	body += "\n<hr/>\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
+	body += "\n" + new_link + " <br/>"
+	body += "\n<a href='" + new_link + "'><img src='" + new_link + ".png'/></a> <br/>"
+	body += "\n原文地址（需翻墙访问）：" + link + "\n"
+	body += "\n\n------------------------\n" + tail 
+	fh = open(f_path, 'w')
+	fh.write(body)
+	fh.close()
+
+

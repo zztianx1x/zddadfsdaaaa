@@ -12,7 +12,6 @@ channel = sys.argv[1]
 xml_file = channel + '.xml'
 
 index_page = '' + macros.head
-links = macros.tail
 
 tree = ET.parse(xml_file)
 root = tree.getroot()
@@ -33,20 +32,6 @@ def get_content(text, link):
 				.replace('</a>', '</span>')
 
 
-def write_page(f_name, f_path, title, link, content):
-	new_link = macros.git_base_url + '/' + channel + '/' + f_name 
-	body = '### ' + title
-	body += "\n------------------------\n\n" + macros.menu + "\n\n" +  content
-	body += "\n<hr/>\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
-	body += "\n" + new_link + " <br/>"
-	body += "\n<a href='" + new_link + "'><img src='" + new_link + ".png'/></a> <br/>"
-	body += "\n原文地址（需翻墙访问）：" + link + "\n"
-	body += "\n\n------------------------\n" + links
-	fh = open(f_path, 'w')
-	fh.write(body)
-	fh.close()
-
-
 def get_name(link):
 	fname = link.split('/')[-1]
 	return fname.split('.')[0]
@@ -63,7 +48,7 @@ for child in root[0]:
 	if not os.path.exists(file_path):
 		print file_path
 		content = get_content(title, link)
-		write_page(name, file_path, title, link, content)
+		macros.write_page(name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
