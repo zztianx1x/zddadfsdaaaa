@@ -71,7 +71,7 @@ for article in articles:
 	if not os.path.exists(file_path):
 		print file_path
 		content = get_content(a_url)
-		macros.write_page(name, file_path, a_title, a_url, content)
+		macros.write_page(channel, name, file_path, a_title, a_url, content)
 	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
 
 

@@ -48,7 +48,7 @@ for child in root[0]:
 	if not os.path.exists(file_path):
 		print file_path
 		content = get_content(title, link)
-		macros.write_page(name, file_path, title, link, content)
+		macros.write_page(channel, name, file_path, title, link, content)
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
