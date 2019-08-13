@@ -15,8 +15,8 @@ for channel in $channels ; do
 	wget -q $url -O $channel.xml
 	python parse_sc.py $channel
 
-	for f in $(ls ../pages/$channel); do
-		echo $f
+	for f in $(ls ../pages/$channel/*.md); do
+		sed -i '/看中国网站 禁止建立鏡像網站/d' $f
 	done
 done
 
