@@ -37,10 +37,17 @@ for d in $(ls ../pages/); do
 		a_url="$base_url/pages/$d/$f"
 		if [ ! -f $a_path.png ]; then
 			qrencode -o $a_path.png -s 4 $a_url
-			echo -e "\n<img src='http://gfw-breaker.win/git-statistics/banned-news.png' width='1px' height='1px'/>\n" >> $a_path
 		fi
     done
 done
+
+
+## geneate indexes
+while read line; do
+	key=$(echo $line | cut -d',' -f1)
+	name=$(echo $line | cut -d',' -f2)
+	cp ../indexes/$key.md ../indexes/$name.md
+done < ../indexes/names.csv
 
 
 ## add to git
