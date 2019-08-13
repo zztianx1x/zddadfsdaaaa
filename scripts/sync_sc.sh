@@ -14,6 +14,10 @@ for channel in $channels ; do
 	echo "getting channel: $url"
 	wget -q $url -O $channel.xml
 	python parse_sc.py $channel
+
+	for f in $(ls ../pages/$channel); do
+		echo $f
+	done
 done
 
 
