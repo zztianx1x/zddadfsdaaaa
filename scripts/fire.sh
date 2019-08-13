@@ -48,6 +48,7 @@ while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
 	cp ../indexes/$key.md ../indexes/$name.md
+	echo -e "\n### 新页面已转移至 [$name]($name.md) \n" > $key.md
 done < ../indexes/names.csv
 
 
