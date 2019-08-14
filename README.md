@@ -6,7 +6,7 @@
 
 #### 希望之声SOH &nbsp;-&nbsp; [热点追踪](indexes/H热点追踪.md?t=08140038) &nbsp;|&nbsp; [名家谈时事](indexes/H名家谈时事.md?t=08140038) &nbsp;|&nbsp; [个人评论](indexes/H个人评论.md?t=08140038)  &nbsp;|&nbsp; [红朝解密](indexes/H红朝解密.md?t=08140038) &nbsp;|&nbsp; [文化寻根](indexes/H文化寻根.md?t=08140038) &nbsp;|&nbsp; [大陆新闻](indexes/H大陆新闻.md?t=08140038) &nbsp;|&nbsp; [港台新闻](indexes/H港台新闻.md?t=08140038)
 
-#### 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=08140038) &nbsp;|&nbsp; [看大陆](indexes/S看大陆.md?t=08140038) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=08140038)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=08140038) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=08140038) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=08140038) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=08140038) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=08140038) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=08140038)
+#### 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=08140038) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=08140038) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=08140038)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=08140038) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=08140038) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=08140038) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=08140038) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=08140038) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=08140038)
 
 #### 自由亚洲电台 &nbsp;-&nbsp; [亚太报道](indexes/yataibaodao.md?t=08140038) &nbsp;|&nbsp; [中国一周](indexes/zhongguoyizhou.md?t=08140038) &nbsp;|&nbsp; [中国透视](indexes/zhongguotoushi.md?t=08140038)  &nbsp;|&nbsp; [国际视角](indexes/guojishijiao.md?t=08140038) &nbsp;|&nbsp; [夜话中南海](indexes/yehuazhongnanhai.md?t=08140038) &nbsp;|&nbsp; [不同的声音](indexes/butongdeshengyin.md?t=08140038) &nbsp;|&nbsp; [特约评论](indexes/pinglun.md?t=08140038)
 
