@@ -1,59 +1,59 @@
-#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08150020) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
+#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08150040) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08150020) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08150020) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08150020) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08150020) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08150040) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08150040) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08150040) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08150040) 
 
-#### [8月14日时事拼盘](../pages/prog202/a102644386.md?t=08150020) 
+#### [川普称愿会晤习近平 相信习能人道解决香港问题](../pages/prog202/a102644474.md?t=08150040) 
 
-#### [德国总理：脱欧后欧英应保持密切关系](../pages/prog202/a102644373.md?t=08150020) 
+#### [8月14日时事拼盘](../pages/prog202/a102644386.md?t=08150040) 
 
-#### [两年禁令后 斗牛重现西班牙海岛 观众沸腾](../pages/prog202/a102644332.md?t=08150020) 
+#### [德国总理：脱欧后欧英应保持密切关系](../pages/prog202/a102644373.md?t=08150040) 
 
-#### [经多年谈判 美媒体巨头CBS与Viacom合并](../pages/prog202/a102644256.md?t=08150020) 
+#### [两年禁令后 斗牛重现西班牙海岛 观众沸腾](../pages/prog202/a102644332.md?t=08150040) 
 
-
-#### [遭控政变谋杀 吉尔吉斯前总统投降被捕](../pages/prog202/a102643993.md?t=08150020) 
-
-#### [8月13日国际新闻简讯](../pages/prog202/a102643981.md?t=08150020) 
-
-#### [超大型台风柯罗莎逼近日本 陆空交通受阻](../pages/prog202/a102643954.md?t=08150020) 
-
-#### [港警暴力升级 联合国吁独立调查](../pages/prog202/a102643836.md?t=08150020) 
-
-#### [川普：中共军队正向香港边界集结](../pages/prog202/a102643831.md?t=08150020) 
+#### [经多年谈判 美媒体巨头CBS与Viacom合并](../pages/prog202/a102644256.md?t=08150040) 
 
 
-#### [黑警混入香港抗议人群 小川普转推提醒](../pages/prog202/a102643794.md?t=08150020) 
+#### [遭控政变谋杀 吉尔吉斯前总统投降被捕](../pages/prog202/a102643993.md?t=08150040) 
 
-#### [俄飞弹爆炸 事发地传辐射值飙升16倍](../pages/prog202/a102643750.md?t=08150020) 
+#### [8月13日国际新闻简讯](../pages/prog202/a102643981.md?t=08150040) 
 
+#### [超大型台风柯罗莎逼近日本 陆空交通受阻](../pages/prog202/a102643954.md?t=08150040) 
 
+#### [港警暴力升级 联合国吁独立调查](../pages/prog202/a102643836.md?t=08150040) 
 
-#### [8月13日时事拼盘](../pages/prog202/a102643673.md?t=08150020) 
-
-#### [英首相：英欧自贸协议最重要 谈判尚未开始](../pages/prog202/a102643654.md?t=08150020) 
-
-#### [【禁闻】华为秘密计划被揭：手机伪装后在美销售](../pages/prog202/a102643657.md?t=08150020) 
-
-#### [川普推文 指中共派遣军队前往香港边境](../pages/prog202/a102643639.md?t=08150020) 
-
-#### [承传印度文化遗产 传统手工布料回潮](../pages/prog202/a102643592.md?t=08150020) 
-
-#### [硅谷童玩节热闹开幕 年轻一代展活力](../pages/prog202/a102643573.md?t=08150020) 
-
-#### [香港局势恶化 国际社会关注](../pages/prog202/a102643490.md?t=08150020) 
-
-#### [白宫高级顾问博尔顿访英 聚焦伊朗和脱欧](../pages/prog202/a102643477.md?t=08150020) 
+#### [川普：中共军队正向香港边界集结](../pages/prog202/a102643831.md?t=08150040) 
 
 
-#### [国际人权专家：中共活摘器官是一场大屠杀](../pages/prog202/a102643306.md?t=08150020) 
+#### [黑警混入香港抗议人群 小川普转推提醒](../pages/prog202/a102643794.md?t=08150040) 
 
-#### [国际关注香港局势恶化 美国加拿大发声](../pages/prog202/a102643302.md?t=08150020) 
+#### [俄飞弹爆炸 事发地传辐射值飙升16倍](../pages/prog202/a102643750.md?t=08150040) 
 
-#### [香港机场反送中遭封杀 美国会点名港警“非常危险”](../pages/prog202/a102643290.md?t=08150020) 
 
-#### [钢铁风暴？喷射客机发动机碎片四散 民众尖叫找掩护](../pages/prog202/a102643243.md?t=08150020) 
 
-#### [8月18日国际重要讯息](../pages/prog202/a102643255.md?t=08150020) 
+#### [8月13日时事拼盘](../pages/prog202/a102643673.md?t=08150040) 
 
-#### [哥伦比亚直升机秀 2士兵挂高空绳断坠地亡](../pages/prog202/a102643164.md?t=08150020) 
+#### [英首相：英欧自贸协议最重要 谈判尚未开始](../pages/prog202/a102643654.md?t=08150040) 
+
+#### [【禁闻】华为秘密计划被揭：手机伪装后在美销售](../pages/prog202/a102643657.md?t=08150040) 
+
+#### [川普推文 指中共派遣军队前往香港边境](../pages/prog202/a102643639.md?t=08150040) 
+
+#### [承传印度文化遗产 传统手工布料回潮](../pages/prog202/a102643592.md?t=08150040) 
+
+#### [硅谷童玩节热闹开幕 年轻一代展活力](../pages/prog202/a102643573.md?t=08150040) 
+
+#### [香港局势恶化 国际社会关注](../pages/prog202/a102643490.md?t=08150040) 
+
+#### [白宫高级顾问博尔顿访英 聚焦伊朗和脱欧](../pages/prog202/a102643477.md?t=08150040) 
+
+
+#### [国际人权专家：中共活摘器官是一场大屠杀](../pages/prog202/a102643306.md?t=08150040) 
+
+#### [国际关注香港局势恶化 美国加拿大发声](../pages/prog202/a102643302.md?t=08150040) 
+
+#### [香港机场反送中遭封杀 美国会点名港警“非常危险”](../pages/prog202/a102643290.md?t=08150040) 
+
+#### [钢铁风暴？喷射客机发动机碎片四散 民众尖叫找掩护](../pages/prog202/a102643243.md?t=08150040) 
+
+#### [8月18日国际重要讯息](../pages/prog202/a102643255.md?t=08150040) 
 
