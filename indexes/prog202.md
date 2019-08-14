@@ -1,58 +1,58 @@
-#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08141420) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
+#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=08141440) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08141420) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08141420) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08141420) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08141420) 
-
-
-#### [遭控政变谋杀 吉尔吉斯前总统投降被捕](../pages/prog202/a102643993.md?t=08141420) 
-
-#### [8月13日国际新闻简讯](../pages/prog202/a102643981.md?t=08141420) 
-
-#### [超大型台风柯罗莎逼近日本 陆空交通受阻](../pages/prog202/a102643954.md?t=08141420) 
-
-#### [港警暴力升级 联合国吁独立调查](../pages/prog202/a102643836.md?t=08141420) 
-
-#### [川普：中共军队正向香港边界集结](../pages/prog202/a102643831.md?t=08141420) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08141440) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08141440) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08141440) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08141440) 
 
 
-#### [黑警混入香港抗议人群 小川普转推提醒](../pages/prog202/a102643794.md?t=08141420) 
+#### [遭控政变谋杀 吉尔吉斯前总统投降被捕](../pages/prog202/a102643993.md?t=08141440) 
 
-#### [俄飞弹爆炸 事发地传辐射值飙升16倍](../pages/prog202/a102643750.md?t=08141420) 
+#### [8月13日国际新闻简讯](../pages/prog202/a102643981.md?t=08141440) 
 
+#### [超大型台风柯罗莎逼近日本 陆空交通受阻](../pages/prog202/a102643954.md?t=08141440) 
 
+#### [港警暴力升级 联合国吁独立调查](../pages/prog202/a102643836.md?t=08141440) 
 
-#### [8月13日时事拼盘](../pages/prog202/a102643673.md?t=08141420) 
-
-#### [英首相：英欧自贸协议最重要 谈判尚未开始](../pages/prog202/a102643654.md?t=08141420) 
-
-#### [【禁闻】华为秘密计划被揭：手机伪装后在美销售](../pages/prog202/a102643657.md?t=08141420) 
-
-#### [川普推文 指中共派遣军队前往香港边境](../pages/prog202/a102643639.md?t=08141420) 
-
-#### [承传印度文化遗产 传统手工布料回潮](../pages/prog202/a102643592.md?t=08141420) 
-
-#### [硅谷童玩节热闹开幕 年轻一代展活力](../pages/prog202/a102643573.md?t=08141420) 
-
-#### [香港局势恶化 国际社会关注](../pages/prog202/a102643490.md?t=08141420) 
-
-#### [白宫高级顾问博尔顿访英 聚焦伊朗和脱欧](../pages/prog202/a102643477.md?t=08141420) 
+#### [川普：中共军队正向香港边界集结](../pages/prog202/a102643831.md?t=08141440) 
 
 
-#### [国际人权专家：中共活摘器官是一场大屠杀](../pages/prog202/a102643306.md?t=08141420) 
+#### [黑警混入香港抗议人群 小川普转推提醒](../pages/prog202/a102643794.md?t=08141440) 
 
-#### [国际关注香港局势恶化 美国加拿大发声](../pages/prog202/a102643302.md?t=08141420) 
-
-#### [香港机场反送中遭封杀 美国会点名港警“非常危险”](../pages/prog202/a102643290.md?t=08141420) 
-
-#### [钢铁风暴？喷射客机发动机碎片四散 民众尖叫找掩护](../pages/prog202/a102643243.md?t=08141420) 
-
-#### [8月18日国际重要讯息](../pages/prog202/a102643255.md?t=08141420) 
-
-#### [哥伦比亚直升机秀 2士兵挂高空绳断坠地亡](../pages/prog202/a102643164.md?t=08141420) 
+#### [俄飞弹爆炸 事发地传辐射值飙升16倍](../pages/prog202/a102643750.md?t=08141440) 
 
 
-#### [【禁闻】澳洲校园挺“反送中” 陆生家人遭恐吓](../pages/prog202/a102642947.md?t=08141420) 
 
-#### [哈萨克传统武功 “天堂之刃”展现刀光剑影](../pages/prog202/a102642868.md?t=08141420) 
+#### [8月13日时事拼盘](../pages/prog202/a102643673.md?t=08141440) 
 
-#### [英伦“非洲时装周”南非工艺品放异彩](../pages/prog202/a102642861.md?t=08141420) 
+#### [英首相：英欧自贸协议最重要 谈判尚未开始](../pages/prog202/a102643654.md?t=08141440) 
+
+#### [【禁闻】华为秘密计划被揭：手机伪装后在美销售](../pages/prog202/a102643657.md?t=08141440) 
+
+#### [川普推文 指中共派遣军队前往香港边境](../pages/prog202/a102643639.md?t=08141440) 
+
+#### [承传印度文化遗产 传统手工布料回潮](../pages/prog202/a102643592.md?t=08141440) 
+
+#### [硅谷童玩节热闹开幕 年轻一代展活力](../pages/prog202/a102643573.md?t=08141440) 
+
+#### [香港局势恶化 国际社会关注](../pages/prog202/a102643490.md?t=08141440) 
+
+#### [白宫高级顾问博尔顿访英 聚焦伊朗和脱欧](../pages/prog202/a102643477.md?t=08141440) 
+
+
+#### [国际人权专家：中共活摘器官是一场大屠杀](../pages/prog202/a102643306.md?t=08141440) 
+
+#### [国际关注香港局势恶化 美国加拿大发声](../pages/prog202/a102643302.md?t=08141440) 
+
+#### [香港机场反送中遭封杀 美国会点名港警“非常危险”](../pages/prog202/a102643290.md?t=08141440) 
+
+#### [钢铁风暴？喷射客机发动机碎片四散 民众尖叫找掩护](../pages/prog202/a102643243.md?t=08141440) 
+
+#### [8月18日国际重要讯息](../pages/prog202/a102643255.md?t=08141440) 
+
+#### [哥伦比亚直升机秀 2士兵挂高空绳断坠地亡](../pages/prog202/a102643164.md?t=08141440) 
+
+
+#### [【禁闻】澳洲校园挺“反送中” 陆生家人遭恐吓](../pages/prog202/a102642947.md?t=08141440) 
+
+#### [哈萨克传统武功 “天堂之刃”展现刀光剑影](../pages/prog202/a102642868.md?t=08141440) 
+
+#### [英伦“非洲时装周”南非工艺品放异彩](../pages/prog202/a102642861.md?t=08141440) 
 
