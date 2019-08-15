@@ -25,6 +25,7 @@ def write_page(channel, f_name, f_path, title, link, content):
 	body += "\n<a href='" + new_link + "'><img src='" + new_link + ".png'/></a> <br/>"
 	body += "\n原文地址（需翻墙访问）：" + link + "\n"
 	body += "\n\n------------------------\n" + tail 
+	body += "\n<img src='http://gfw-breaker.win/banned-news/" + f_path[3:] + "' width='0px' height='0px'/>"
 	fh = open(f_path, 'w')
 	fh.write(body)
 	fh.close()
