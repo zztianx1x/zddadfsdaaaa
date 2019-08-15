@@ -5,11 +5,11 @@ git_base_url = "https://github.com/gfw-breaker/banned-news/blob/master/pages"
 
 head = ''
 
-head = "#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 \n\n"
+#head = "#### 由于频繁封锁，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki/)，安卓用户请使用 [网门](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md) 或 [禁闻聚合](https://github.com/gfw-breaker/bn-android) 免翻墙观看热门YouTube频道 \n\n"
 
 #head += "#### 旧版本禁闻聚合安卓APP已经失效，请删除，然后重新[下载安装新版本](https://github.com/gfw-breaker/bn-android) \n\n"
 
-head += "#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) \n\n"
+head += "#### [热点新闻](热点新闻.md) &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md) \n\n"
 
 menu = "#### [首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;&nbsp;|&nbsp;&nbsp; [禁闻聚合安卓版](https://github.com/gfw-breaker/bn-android) &nbsp;&nbsp;|&nbsp;&nbsp; [网门安卓版](https://github.com/oGate2/oGate) &nbsp;&nbsp;|&nbsp;&nbsp; [神州正道安卓版](https://github.com/SzzdOgate/update) \n\n"
 
