@@ -52,6 +52,16 @@ while read line; do
 done < ../indexes/names.csv
 
 
+## hotnews
+hot_page=../indexes/热点新闻.md
+echo > $hot_page
+while read line; do
+	link=$(echo $line | cut -d',' -f1)
+	title=$(echo $line | cut -d',' -f2)
+	$echo -e "#### [title](https://github.com/gfw-breaker/$link)" >> $hot_page
+done < /root/page_count/banned-news.hot
+
+
 ## add to git
 git add ../indexes/*
 git add ../pages/*
