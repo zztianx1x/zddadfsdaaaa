@@ -58,7 +58,7 @@ echo > $hot_page
 while read line; do
 	link=$(echo $line | cut -d',' -f1)
 	title=$(echo $line | cut -d',' -f2)
-	$echo -e "#### [title](https://github.com/gfw-breaker/$link)" >> $hot_page
+	echo -e "#### [title](https://github.com/gfw-breaker/$link)" >> $hot_page
 done < /root/page_count/banned-news.hot
 
 
