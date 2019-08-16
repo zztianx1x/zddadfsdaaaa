@@ -48,7 +48,7 @@ while read line; do
 	name=$(echo $line | cut -d',' -f2)
 	cname=$(echo $name | cut -c2-)
 	head -n 10 ../indexes/$key.md > tmp.md
-	cat videos.txt >> tmp.md
+	cat links.txt >> tmp.md
 	sed -n '11,$p' ../indexes/$key.md >> tmp.md	
 	mv tmp.md ../indexes/$name.md
 	echo -e "\n### 已转移至新页面 [$cname]($name.md) \n" > ../indexes/$key.md
