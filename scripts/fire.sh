@@ -47,7 +47,10 @@ while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
 	cname=$(echo $name | cut -c2-)
-	cp ../indexes/$key.md ../indexes/$name.md
+	head -n 10 ../indexes/$key.md > tmp.md
+	cat videos.txt >> tmp.md
+	sed -n '11,$p' ../indexes/$key.md >> tmp.md	
+	mv tmp.md ../indexes/$name.md
 	echo -e "\n### 已转移至新页面 [$cname]($name.md) \n" > ../indexes/$key.md
 done < ../indexes/names.csv
 
