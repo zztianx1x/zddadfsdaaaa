@@ -19,7 +19,7 @@ done
 ## remove video news
 tt=$(date "+%m%d%H%M")
 for f in $(ls ../indexes/*); do
-	sed -i "s/\.md/\.md?t=$tt/g" $f
+	sed -i "s/\.md)/\.md?t=$tt)/g" $f
 	sed -i "/翻墙必看】/d" $f
 	sed -i "/精彩推荐/d" $f
 	sed -i "/全球新闻/d" $f
