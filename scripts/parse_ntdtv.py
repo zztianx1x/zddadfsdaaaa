@@ -38,7 +38,7 @@ def get_content(url):
 	for iframe in post_content.find_all('iframe'):
 		iframe.decompose()
 	post_content = '<div>' + post_content.prettify().encode('utf-8') + '</div>'
-	return (post_title + post_content) \
+	return post_title + post_content \
 		.replace('<a href', '<ok href').replace('</a>', '</ok>') \
 		.replace('</figure>','</figure><br/>') \
         .replace('<figcaption','<br/><figcaption') \
