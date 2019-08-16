@@ -1,58 +1,58 @@
-#### [热点新闻](热点新闻.md?t=08161211)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08161211) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08161211) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08161211) 
+#### [热点新闻](热点新闻.md?t=08161222)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08161222) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08161222) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08161222) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08161211) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08161211) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08161211)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08161211) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08161211) 
-
-
-#### [8月15日国际新闻简讯](../pages/prog202/a102645408.md?t=08161211) 
-
-#### [日本法轮功学员和平征签 吁制止中共迫害](../pages/prog202/a102645412.md?t=08161211) 
-
-#### [专家：中共若对香港动武 美国有王牌制裁](../pages/prog202/a102645309.md?t=08161211) 
-
-#### [香港或有人道危机？川普：我不愿意看到暴力镇压](../pages/prog202/a102645276.md?t=08161211) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08161222) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08161222) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08161222)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08161222) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08161222) 
 
 
-#### [航空奇迹！俄客机遭鸟击迫降玉米田全部生还](../pages/prog202/a102645165.md?t=08161211) 
+#### [8月15日国际新闻简讯](../pages/prog202/a102645408.md?t=08161222) 
 
-#### [数字极权帮凶 华为监控系统助非洲政府打压异己](../pages/prog202/a102645160.md?t=08161211) 
+#### [日本法轮功学员和平征签 吁制止中共迫害](../pages/prog202/a102645412.md?t=08161222) 
 
-#### [【禁闻】防渗透！澳媒揭华裔女议员与中共关系](../pages/prog202/a102645120.md?t=08161211) 
+#### [专家：中共若对香港动武 美国有王牌制裁](../pages/prog202/a102645309.md?t=08161222) 
 
-#### [8月15日时事拼盘](../pages/prog202/a102645093.md?t=08161211) 
-
-#### [华为秀爱国作茧自缚 手机列台湾为国家被轰滚出中国](../pages/prog202/a102645004.md?t=08161211) 
-
-#### [直布罗陀法庭裁定 释放被扣押伊朗油轮](../pages/prog202/a102645044.md?t=08161211) 
+#### [香港或有人道危机？川普：我不愿意看到暴力镇压](../pages/prog202/a102645276.md?t=08161222) 
 
 
-#### [川普推特约见习近平 促人道解决香港问题](../pages/prog202/a102644980.md?t=08161211) 
+#### [航空奇迹！俄客机遭鸟击迫降玉米田全部生还](../pages/prog202/a102645165.md?t=08161222) 
+
+#### [数字极权帮凶 华为监控系统助非洲政府打压异己](../pages/prog202/a102645160.md?t=08161222) 
+
+#### [【禁闻】防渗透！澳媒揭华裔女议员与中共关系](../pages/prog202/a102645120.md?t=08161222) 
+
+#### [8月15日时事拼盘](../pages/prog202/a102645093.md?t=08161222) 
+
+#### [华为秀爱国作茧自缚 手机列台湾为国家被轰滚出中国](../pages/prog202/a102645004.md?t=08161222) 
+
+#### [直布罗陀法庭裁定 释放被扣押伊朗油轮](../pages/prog202/a102645044.md?t=08161222) 
 
 
-#### [香港镇压升级 日本发旅警 新西兰拟撤侨](../pages/prog202/a102644768.md?t=08161211) 
-
-#### [柯罗莎登陆日本广岛 酿至少1死21伤](../pages/prog202/a102644758.md?t=08161211) 
-
-#### [8月15日国际重要讯息](../pages/prog202/a102644761.md?t=08161211) 
-
-#### [贸易战吁对话 文在寅：如日本愿意 会开心握手](../pages/prog202/a102644704.md?t=08161211) 
-
-#### [台风柯罗莎直扑日本 陆海空交通大乱](../pages/prog202/a102644623.md?t=08161211) 
+#### [川普推特约见习近平 促人道解决香港问题](../pages/prog202/a102644980.md?t=08161222) 
 
 
-#### [【禁闻】中澳大学合作索教授个资 21澳学者拒绝](../pages/prog202/a102644470.md?t=08161211) 
+#### [香港镇压升级 日本发旅警 新西兰拟撤侨](../pages/prog202/a102644768.md?t=08161222) 
 
-#### [解决棘手问题 川普邀请习近平:私人会晤？](../pages/prog202/a102644474.md?t=08161211) 
+#### [柯罗莎登陆日本广岛 酿至少1死21伤](../pages/prog202/a102644758.md?t=08161222) 
 
-#### [8月14日时事拼盘](../pages/prog202/a102644386.md?t=08161211) 
+#### [8月15日国际重要讯息](../pages/prog202/a102644761.md?t=08161222) 
 
-#### [德国总理：脱欧后欧英应保持密切关系](../pages/prog202/a102644373.md?t=08161211) 
+#### [贸易战吁对话 文在寅：如日本愿意 会开心握手](../pages/prog202/a102644704.md?t=08161222) 
 
-#### [两年禁令后 斗牛重现西班牙海岛 观众沸腾](../pages/prog202/a102644332.md?t=08161211) 
-
-#### [经多年谈判 美媒体巨头CBS与Viacom合并](../pages/prog202/a102644256.md?t=08161211) 
+#### [台风柯罗莎直扑日本 陆海空交通大乱](../pages/prog202/a102644623.md?t=08161222) 
 
 
-#### [遭控政变谋杀 吉尔吉斯前总统投降被捕](../pages/prog202/a102643993.md?t=08161211) 
+#### [【禁闻】中澳大学合作索教授个资 21澳学者拒绝](../pages/prog202/a102644470.md?t=08161222) 
 
-#### [8月13日国际新闻简讯](../pages/prog202/a102643981.md?t=08161211) 
+#### [解决棘手问题 川普邀请习近平:私人会晤？](../pages/prog202/a102644474.md?t=08161222) 
+
+#### [8月14日时事拼盘](../pages/prog202/a102644386.md?t=08161222) 
+
+#### [德国总理：脱欧后欧英应保持密切关系](../pages/prog202/a102644373.md?t=08161222) 
+
+#### [两年禁令后 斗牛重现西班牙海岛 观众沸腾](../pages/prog202/a102644332.md?t=08161222) 
+
+#### [经多年谈判 美媒体巨头CBS与Viacom合并](../pages/prog202/a102644256.md?t=08161222) 
+
+
+#### [遭控政变谋杀 吉尔吉斯前总统投降被捕](../pages/prog202/a102643993.md?t=08161222) 
+
+#### [8月13日国际新闻简讯](../pages/prog202/a102643981.md?t=08161222) 
 
