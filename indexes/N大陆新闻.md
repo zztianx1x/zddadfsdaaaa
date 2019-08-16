@@ -1,60 +1,60 @@
-#### [热点新闻](热点新闻.md?t=08161701)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08161701) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08161701) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08161701) 
+#### [热点新闻](热点新闻.md?t=08161711)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08161711) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08161711) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08161711) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08161701) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08161701) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08161701)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08161701) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08161701) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08161711) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08161711) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08161711)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08161711) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08161711) 
 
-#### [美媒实拍深圳体育馆 士兵携有武器 暂无移动迹象](../pages/prog204/a102645555.md?t=08161701) 
+#### [美媒实拍深圳体育馆 士兵携有武器 暂无移动迹象](../pages/prog204/a102645555.md?t=08161711) 
 
 
-#### [川普警告中共：将采取“终极报复手段”](../pages/prog204/a102645459.md?t=08161701) 
+#### [川普警告中共：将采取“终极报复手段”](../pages/prog204/a102645459.md?t=08161711) 
 
-#### [无惧打压 陆大学退休教师声援反送中](../pages/prog204/a102645410.md?t=08161701) 
+#### [无惧打压 陆大学退休教师声援反送中](../pages/prog204/a102645410.md?t=08161711) 
 #### [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
 
-#### [川普打赌习近平：15分钟内解决香港问题，但习不会](../pages/prog204/a102645420.md?t=08161701) 
+#### [川普打赌习近平：15分钟内解决香港问题，但习不会](../pages/prog204/a102645420.md?t=08161711) 
 
-#### [香港反送中宣传 中共造假大曝光](../pages/prog204/a102645361.md?t=08161701) 
+#### [香港反送中宣传 中共造假大曝光](../pages/prog204/a102645361.md?t=08161711) 
 
-#### [美媒：香港同胞捐款最多 为何一夜变“暴徒”](../pages/prog204/a102645386.md?t=08161701) 
+#### [美媒：香港同胞捐款最多 为何一夜变“暴徒”](../pages/prog204/a102645386.md?t=08161711) 
 
-#### [8字广告什么意思？李嘉诚发中英声明解释](../pages/prog204/a102645348.md?t=08161701) 
+#### [8字广告什么意思？李嘉诚发中英声明解释](../pages/prog204/a102645348.md?t=08161711) 
 
-#### [付国豪被曝住国安部集体宿舍 被打全程漏洞多](../pages/prog204/a102645335.md?t=08161701) 
+#### [付国豪被曝住国安部集体宿舍 被打全程漏洞多](../pages/prog204/a102645335.md?t=08161711) 
 
-#### [中共武攻香港怎么办？有人祭诸葛亮奇招](../pages/prog204/a102645319.md?t=08161701) 
+#### [中共武攻香港怎么办？有人祭诸葛亮奇招](../pages/prog204/a102645319.md?t=08161711) 
 
-#### [专家：中共若对香港动武 美国有王牌制裁](../pages/prog204/a102645309.md?t=08161701) 
+#### [专家：中共若对香港动武 美国有王牌制裁](../pages/prog204/a102645309.md?t=08161711) 
 
-#### [川普要与习谈香港问题 “女袁木”没答应](../pages/prog204/a102645291.md?t=08161701) 
+#### [川普要与习谈香港问题 “女袁木”没答应](../pages/prog204/a102645291.md?t=08161711) 
 
-#### [内蒙古落马高官受贿4.49亿 出庭受审](../pages/prog204/a102645294.md?t=08161701) 
+#### [内蒙古落马高官受贿4.49亿 出庭受审](../pages/prog204/a102645294.md?t=08161711) 
 
-#### [香港或有人道危机？川普：我不愿意看到暴力镇压](../pages/prog204/a102645276.md?t=08161701) 
+#### [香港或有人道危机？川普：我不愿意看到暴力镇压](../pages/prog204/a102645276.md?t=08161711) 
 
-#### [香港危急 李嘉诚首表态：黄台之瓜，何堪再摘](../pages/prog204/a102645230.md?t=08161701) 
+#### [香港危急 李嘉诚首表态：黄台之瓜，何堪再摘](../pages/prog204/a102645230.md?t=08161711) 
 
-#### [加强迫害异议者？乌干达砸巨资装华为监视系统](../pages/prog204/a102645095.md?t=08161701) 
-
-
-#### [【禁闻】佳木斯法轮功学员杨胜军被迫害致死](../pages/prog204/a102645114.md?t=08161701) 
-
-#### [【禁闻】武警集结香港边境 各国呼吁中共当局三思](../pages/prog204/a102645123.md?t=08161701) 
-
-#### [高级反串？网友吁8·18天安门大游行挺港警遭删](../pages/prog204/a102645046.md?t=08161701) 
-
-#### [反送中再登《时代》封面:保卫香港灵魂之战](../pages/prog204/a102645027.md?t=08161701) 
-
-#### [【禁闻】从中国公民到外国人 中共扩大限制出境](../pages/prog204/a102645070.md?t=08161701) 
-
-#### [【禁闻】对香港信息战 中共控制媒体引国际关注](../pages/prog204/a102645066.md?t=08161701) 
-
-#### [川普再发推文 吁习近平亲见香港抗议者](../pages/prog204/a102644944.md?t=08161701) 
-
-#### [多国律师团体：制止中共打压维权律师](../pages/prog204/a102644829.md?t=08161701) 
-
-#### [台风利奇马重创寿光 北京蔬菜涨价30%](../pages/prog204/a102644793.md?t=08161701) 
-
-#### [反送中吓坏中共 港人被大陆查手机、采指纹血液](../pages/prog204/a102644791.md?t=08161701) 
+#### [加强迫害异议者？乌干达砸巨资装华为监视系统](../pages/prog204/a102645095.md?t=08161711) 
 
 
-#### [中共最怕的来了？港人呼吁816银行大挤兑](../pages/prog204/a102644740.md?t=08161701) 
+#### [【禁闻】佳木斯法轮功学员杨胜军被迫害致死](../pages/prog204/a102645114.md?t=08161711) 
+
+#### [【禁闻】武警集结香港边境 各国呼吁中共当局三思](../pages/prog204/a102645123.md?t=08161711) 
+
+#### [高级反串？网友吁8·18天安门大游行挺港警遭删](../pages/prog204/a102645046.md?t=08161711) 
+
+#### [反送中再登《时代》封面:保卫香港灵魂之战](../pages/prog204/a102645027.md?t=08161711) 
+
+#### [【禁闻】从中国公民到外国人 中共扩大限制出境](../pages/prog204/a102645070.md?t=08161711) 
+
+#### [【禁闻】对香港信息战 中共控制媒体引国际关注](../pages/prog204/a102645066.md?t=08161711) 
+
+#### [川普再发推文 吁习近平亲见香港抗议者](../pages/prog204/a102644944.md?t=08161711) 
+
+#### [多国律师团体：制止中共打压维权律师](../pages/prog204/a102644829.md?t=08161711) 
+
+#### [台风利奇马重创寿光 北京蔬菜涨价30%](../pages/prog204/a102644793.md?t=08161711) 
+
+#### [反送中吓坏中共 港人被大陆查手机、采指纹血液](../pages/prog204/a102644791.md?t=08161711) 
+
+
+#### [中共最怕的来了？港人呼吁816银行大挤兑](../pages/prog204/a102644740.md?t=08161711) 
 
