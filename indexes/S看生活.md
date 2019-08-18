@@ -1,57 +1,57 @@
-#### [热点新闻](热点新闻.md?t=08190633)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08190633) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08190633) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08190633) 
+#### [热点新闻](热点新闻.md?t=08190644)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08190644) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08190644) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08190644) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08190633) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08190633) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08190633)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08190633) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08190633) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08190644) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08190644) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08190644)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08190644) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08190644) 
 
-#### [人恶人怕天不怕 人善人欺天不欺(图)](../pages/p8/903708.md?t=08190633) 
+#### [人恶人怕天不怕 人善人欺天不欺(图)](../pages/p8/903708.md?t=08190644) 
 
-#### [正确洗发５步骤(组图)](../pages/p8/904066.md?t=08190633) 
+#### [正确洗发５步骤(组图)](../pages/p8/904066.md?t=08190644) 
 
-#### [美味的食物 男女表现方法大不同(组图)](../pages/p8/904038.md?t=08190633) 
+#### [美味的食物 男女表现方法大不同(组图)](../pages/p8/904038.md?t=08190644) 
 
 #### [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
-#### [“房间”反映我们的生命状态(组图)](../pages/p8/903625.md?t=08190633) 
+#### [“房间”反映我们的生命状态(组图)](../pages/p8/903625.md?t=08190644) 
 
-#### [85款假冒相机与游戏 App 遭恶意广告入侵(图)](../pages/p8/904001.md?t=08190633) 
+#### [85款假冒相机与游戏 App 遭恶意广告入侵(图)](../pages/p8/904001.md?t=08190644) 
 
-#### [从饮食中 看一个人的修养(组图)](../pages/p8/904020.md?t=08190633) 
+#### [从饮食中 看一个人的修养(组图)](../pages/p8/904020.md?t=08190644) 
 
-#### [容易中毒的６种常见食物及预防之道(组图)](../pages/p8/904019.md?t=08190633) 
+#### [容易中毒的６种常见食物及预防之道(组图)](../pages/p8/904019.md?t=08190644) 
 
-#### [真心称赞对方的一句话(图)](../pages/p8/903899.md?t=08190633) 
+#### [真心称赞对方的一句话(图)](../pages/p8/903899.md?t=08190644) 
 
-#### [人生要自在 学会对欲望说“不”(图)](../pages/p8/903822.md?t=08190633) 
+#### [人生要自在 学会对欲望说“不”(图)](../pages/p8/903822.md?t=08190644) 
 
-#### [开车听见７种声音 赶快进厂检查(组图)](../pages/p8/903792.md?t=08190633) 
+#### [开车听见７种声音 赶快进厂检查(组图)](../pages/p8/903792.md?t=08190644) 
 
-#### [使用“免费Wi-Fi”不想被骇 10件事要注意(图)](../pages/p8/903693.md?t=08190633) 
+#### [使用“免费Wi-Fi”不想被骇 10件事要注意(图)](../pages/p8/903693.md?t=08190644) 
 
-#### [两性情绪激动时 说话倾向大不同(图)](../pages/p8/903896.md?t=08190633) 
+#### [两性情绪激动时 说话倾向大不同(图)](../pages/p8/903896.md?t=08190644) 
 
-#### [面对挫折的心态 决定未来命运(图)](../pages/p8/903615.md?t=08190633) 
+#### [面对挫折的心态 决定未来命运(图)](../pages/p8/903615.md?t=08190644) 
 
-#### [【人生感悟】正气贯千秋(图)](../pages/p8/903658.md?t=08190633) 
+#### [【人生感悟】正气贯千秋(图)](../pages/p8/903658.md?t=08190644) 
 
-#### [迫切想要改变自己？ 试试“5秒法则”(组图)](../pages/p8/903788.md?t=08190633) 
+#### [迫切想要改变自己？ 试试“5秒法则”(组图)](../pages/p8/903788.md?t=08190644) 
 
-#### [让“亲情交流”不再成为折磨(图)](../pages/p8/903787.md?t=08190633) 
+#### [让“亲情交流”不再成为折磨(图)](../pages/p8/903787.md?t=08190644) 
 
-#### [面对以貌取人的军官 国王的应对令人赞赏(图)](../pages/p8/903601.md?t=08190633) 
+#### [面对以貌取人的军官 国王的应对令人赞赏(图)](../pages/p8/903601.md?t=08190644) 
 
-#### [受欢迎的女性 拥有５大特质(组图)](../pages/p8/903664.md?t=08190633) 
+#### [受欢迎的女性 拥有５大特质(组图)](../pages/p8/903664.md?t=08190644) 
 
-#### [人生最难的７件事(组图)](../pages/p8/903690.md?t=08190633) 
+#### [人生最难的７件事(组图)](../pages/p8/903690.md?t=08190644) 
 
-#### [一人公司 胜负自负(图)](../pages/p8/903592.md?t=08190633) 
+#### [一人公司 胜负自负(图)](../pages/p8/903592.md?t=08190644) 
 
-#### [平均收入相差9倍的关键 在这个“习惯”(组图)](../pages/p8/903609.md?t=08190633) 
+#### [平均收入相差9倍的关键 在这个“习惯”(组图)](../pages/p8/903609.md?t=08190644) 
 
-#### [想改变命运 先从“这件事”做起(图)](../pages/p8/903613.md?t=08190633) 
+#### [想改变命运 先从“这件事”做起(图)](../pages/p8/903613.md?t=08190644) 
 
-#### [曾任美国总统 却在2次公司破产后重返荣耀(图)](../pages/p8/903065.md?t=08190633) 
+#### [曾任美国总统 却在2次公司破产后重返荣耀(图)](../pages/p8/903065.md?t=08190644) 
 
-#### [染发的白鹭鸶－－黄头鹭(组图)](../pages/p8/903550.md?t=08190633) 
+#### [染发的白鹭鸶－－黄头鹭(组图)](../pages/p8/903550.md?t=08190644) 
 
-#### [气囊越多颗越安全？美国 IIHS 研究指出疑虑！(图)](../pages/p8/903548.md?t=08190633) 
+#### [气囊越多颗越安全？美国 IIHS 研究指出疑虑！(图)](../pages/p8/903548.md?t=08190644) 
 
-#### [“螃蟹文化”对企业的伤害(图)](../pages/p8/903064.md?t=08190633) 
+#### [“螃蟹文化”对企业的伤害(图)](../pages/p8/903064.md?t=08190644) 
 
