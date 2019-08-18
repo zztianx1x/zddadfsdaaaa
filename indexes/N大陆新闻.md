@@ -1,62 +1,62 @@
-#### [热点新闻](热点新闻.md?t=08190711)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08190711) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08190711) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08190711) 
+#### [热点新闻](热点新闻.md?t=08190722)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08190722) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08190722) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08190722) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08190711) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08190711) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08190711)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08190711) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08190711) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08190722) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08190722) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08190722)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08190722) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08190722) 
 
-#### [中国体操天才遭暗算致残 被抛弃后寒心移民](../pages/prog204/a102646903.md?t=08190711) 
+#### [中国体操天才遭暗算致残 被抛弃后寒心移民](../pages/prog204/a102646903.md?t=08190722) 
 
-#### [徐晓冬直播赞香港 暗讽环时记者付国豪“丢人”](../pages/prog204/a102646878.md?t=08190711) 
+#### [徐晓冬直播赞香港 暗讽环时记者付国豪“丢人”](../pages/prog204/a102646878.md?t=08190722) 
 
-#### [游莫斯科 中国游客巴士撞电线杆酿11伤](../pages/prog204/a102646867.md?t=08190711) 
+#### [游莫斯科 中国游客巴士撞电线杆酿11伤](../pages/prog204/a102646867.md?t=08190722) 
 
 #### [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
-#### [揭秘：毛死后太湖“鬼哭”惊动中央 重机枪扫射3天仍无效](../pages/prog204/a102642523.md?t=08190711) 
+#### [揭秘：毛死后太湖“鬼哭”惊动中央 重机枪扫射3天仍无效](../pages/prog204/a102642523.md?t=08190722) 
 
-#### [内幕：北京施阴招 伺机对香港动手](../pages/prog204/a102646837.md?t=08190711) 
+#### [内幕：北京施阴招 伺机对香港动手](../pages/prog204/a102646837.md?t=08190722) 
 
-#### [“如此高素质港民”咋是暴民？一台女谈亲身经历](../pages/prog204/a102646808.md?t=08190711) 
-
-
-#### [【禁闻】成龙护旗成天安门见 中共陷尴尬](../pages/prog204/a102646793.md?t=08190711) 
-
-#### [【禁闻】8月18日退党精选](../pages/prog204/a102646764.md?t=08190711) 
-
-#### [【禁闻】8月18日维权动态](../pages/prog204/a102646742.md?t=08190711) 
-
-#### [【禁闻】躲避美国制裁 中国油轮乔装改名](../pages/prog204/a102646735.md?t=08190711) 
-
-#### [【禁闻】煞停警黑乱港 香港170万人维园集会](../pages/prog204/a102646726.md?t=08190711) 
-
-#### [【禁闻】澳洲华裔教授与中共合作内幕曝光](../pages/prog204/a102646711.md?t=08190711) 
-
-#### [中国一分钟：成龙护旗手被恶搞成天安门见 戳到中共痛处](../pages/prog204/a102646617.md?t=08190711) 
+#### [“如此高素质港民”咋是暴民？一台女谈亲身经历](../pages/prog204/a102646808.md?t=08190722) 
 
 
-#### [杨洁篪访美内幕：出兵香港前去探口风?](../pages/prog204/a102646494.md?t=08190711) 
+#### [【禁闻】成龙护旗成天安门见 中共陷尴尬](../pages/prog204/a102646793.md?t=08190722) 
 
-#### [香港市区惊见大量中共军车 港人忧清场镇压](../pages/prog204/a102646476.md?t=08190711) 
+#### [【禁闻】8月18日退党精选](../pages/prog204/a102646764.md?t=08190722) 
 
-#### [这个夏天香港发生了什么？7分钟震撼视频告诉你](../pages/prog204/a102646490.md?t=08190711) 
+#### [【禁闻】8月18日维权动态](../pages/prog204/a102646742.md?t=08190722) 
 
-#### [中共公安潜入香港被曝光 有港警高喊“同志们”](../pages/prog204/a102646471.md?t=08190711) 
+#### [【禁闻】躲避美国制裁 中国油轮乔装改名](../pages/prog204/a102646735.md?t=08190722) 
 
-#### [黄之锋：香港可能重演六四 不主张香港独立](../pages/prog204/a102646458.md?t=08190711) 
+#### [【禁闻】煞停警黑乱港 香港170万人维园集会](../pages/prog204/a102646726.md?t=08190722) 
 
-#### [专家揭北京开枪六大代价 川普发声话中有话](../pages/prog204/a102646453.md?t=08190711) 
+#### [【禁闻】澳洲华裔教授与中共合作内幕曝光](../pages/prog204/a102646711.md?t=08190722) 
 
-#### [中共屯兵深圳 欧盟加拿大联合声明警告](../pages/prog204/a102646437.md?t=08190711) 
-
-#### [北戴河会刚开完 胡春华又接一最大烫手山芋](../pages/prog204/a102646412.md?t=08190711) 
-
-#### [真要打稀土牌？中共借口环保整改国内稀土公司](../pages/prog204/a102646363.md?t=08190711) 
-
-#### [犹如平行时空 北京版香港故事为何与全世界不同](../pages/prog204/a102646328.md?t=08190711) 
-
-#### [胡锡进信口胡编？付国豪特情身份呼之欲出](../pages/prog204/a102646316.md?t=08190711) 
-
-#### [上海30多名访民进京上访被刑拘](../pages/prog204/a102646226.md?t=08190711) 
+#### [中国一分钟：成龙护旗手被恶搞成天安门见 戳到中共痛处](../pages/prog204/a102646617.md?t=08190722) 
 
 
-#### [香港吁300万人18日上街 全球30城市响应](../pages/prog204/a102646146.md?t=08190711) 
+#### [杨洁篪访美内幕：出兵香港前去探口风?](../pages/prog204/a102646494.md?t=08190722) 
 
-#### [六四重演？传北戴河会议已为反送中定调](../pages/prog204/a102646113.md?t=08190711) 
+#### [香港市区惊见大量中共军车 港人忧清场镇压](../pages/prog204/a102646476.md?t=08190722) 
+
+#### [这个夏天香港发生了什么？7分钟震撼视频告诉你](../pages/prog204/a102646490.md?t=08190722) 
+
+#### [中共公安潜入香港被曝光 有港警高喊“同志们”](../pages/prog204/a102646471.md?t=08190722) 
+
+#### [黄之锋：香港可能重演六四 不主张香港独立](../pages/prog204/a102646458.md?t=08190722) 
+
+#### [专家揭北京开枪六大代价 川普发声话中有话](../pages/prog204/a102646453.md?t=08190722) 
+
+#### [中共屯兵深圳 欧盟加拿大联合声明警告](../pages/prog204/a102646437.md?t=08190722) 
+
+#### [北戴河会刚开完 胡春华又接一最大烫手山芋](../pages/prog204/a102646412.md?t=08190722) 
+
+#### [真要打稀土牌？中共借口环保整改国内稀土公司](../pages/prog204/a102646363.md?t=08190722) 
+
+#### [犹如平行时空 北京版香港故事为何与全世界不同](../pages/prog204/a102646328.md?t=08190722) 
+
+#### [胡锡进信口胡编？付国豪特情身份呼之欲出](../pages/prog204/a102646316.md?t=08190722) 
+
+#### [上海30多名访民进京上访被刑拘](../pages/prog204/a102646226.md?t=08190722) 
+
+
+#### [香港吁300万人18日上街 全球30城市响应](../pages/prog204/a102646146.md?t=08190722) 
+
+#### [六四重演？传北戴河会议已为反送中定调](../pages/prog204/a102646113.md?t=08190722) 
 
