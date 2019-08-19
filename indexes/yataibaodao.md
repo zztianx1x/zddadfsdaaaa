@@ -1,34 +1,34 @@
-#### [热点新闻](热点新闻.md?t=08192011)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08192011) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08192011) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08192011) 
+#### [热点新闻](热点新闻.md?t=08192022)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08192022) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08192022) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08192022) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08192011) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08192011) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08192011)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08192011) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08192011) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08192022) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08192022) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08192022)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08192022) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08192022) 
 
-#### [关注香港    加中两国政府和华人社区各抒立场](../pages/yataibaodao/lf-08192019085247.md?t=08192011) 
+#### [关注香港    加中两国政府和华人社区各抒立场](../pages/yataibaodao/lf-08192019085247.md?t=08192022) 
 
-#### [170万港人集会   特朗普警告     8·31再上街](../pages/yataibaodao/rc-08192019110852.md?t=08192011) 
+#### [170万港人集会   特朗普警告     8·31再上街](../pages/yataibaodao/rc-08192019110852.md?t=08192022) 
 
-#### [韩国瑜支持度急跌   最新民调输蔡英文6%](../pages/yataibaodao/hx2-08192019084450.md?t=08192011) 
+#### [韩国瑜支持度急跌   最新民调输蔡英文6%](../pages/yataibaodao/hx2-08192019084450.md?t=08192022) 
 
-#### [美国将华为临时许可再延90天](../pages/yataibaodao/cheng-08192019125029.md?t=08192011) 
+#### [美国将华为临时许可再延90天](../pages/yataibaodao/cheng-08192019125029.md?t=08192022) 
 
-#### [售台八十亿美元F16V     特朗普：我批准了！](../pages/yataibaodao/hx1-08192019084052.md?t=08192011) 
+#### [售台八十亿美元F16V     特朗普：我批准了！](../pages/yataibaodao/hx1-08192019084052.md?t=08192022) 
 
-#### [支持香港反修例 陈云飞出狱后屡遭逼迁](../pages/yataibaodao/gf2-08192019081116.md?t=08192011) 
+#### [支持香港反修例 陈云飞出狱后屡遭逼迁](../pages/yataibaodao/gf2-08192019081116.md?t=08192022) 
 
-#### [中国留学生在示威中表现  破坏华人国际形象](../pages/yataibaodao/gf1-08192019071030.md?t=08192011) 
+#### [中国留学生在示威中表现  破坏华人国际形象](../pages/yataibaodao/gf1-08192019071030.md?t=08192022) 
 
-#### [香港情势吃紧 新疆反恐力度得以舒缓    ](../pages/yataibaodao/ql1-08192019065340.md?t=08192011) 
+#### [香港情势吃紧 新疆反恐力度得以舒缓    ](../pages/yataibaodao/ql1-08192019065340.md?t=08192022) 
 
-#### [美国西岸华人集会 警惕香港重演六四](../pages/yataibaodao/ck-08182019095239.md?t=08192011) 
+#### [美国西岸华人集会 警惕香港重演六四](../pages/yataibaodao/ck-08182019095239.md?t=08192022) 
 
-#### [名车堵医院通道 京城女子痛哭道歉](../pages/yataibaodao/hc-08162019140525.md?t=08192011) 
+#### [名车堵医院通道 京城女子痛哭道歉](../pages/yataibaodao/hc-08162019140525.md?t=08192022) 
 
-#### [陈建刚妹妹一度被警方带走    只因住在哥哥家](../pages/yataibaodao/lh-08162019134933.md?t=08192011) 
+#### [陈建刚妹妹一度被警方带走    只因住在哥哥家](../pages/yataibaodao/lh-08162019134933.md?t=08192022) 
 
-#### [李嘉诚登广告   北京、港人两边讨好？](../pages/yataibaodao/yl-08162019120348.md?t=08192011) 
+#### [李嘉诚登广告   北京、港人两边讨好？](../pages/yataibaodao/yl-08162019120348.md?t=08192022) 
 
-#### [刘亦菲表态  《花木兰》躺枪](../pages/yataibaodao/rc-08162019125332.md?t=08192011) 
+#### [刘亦菲表态  《花木兰》躺枪](../pages/yataibaodao/rc-08162019125332.md?t=08192022) 
 
-#### [78岁高龄异议人士姚凯文流亡美国](../pages/yataibaodao/ck-08162019090920.md?t=08192011) 
+#### [78岁高龄异议人士姚凯文流亡美国](../pages/yataibaodao/ck-08162019090920.md?t=08192022) 
 
-#### [美媒：特朗普政府推动历来最大规模对台军售](../pages/yataibaodao/hcm2-08162019093618.md?t=08192011) 
+#### [美媒：特朗普政府推动历来最大规模对台军售](../pages/yataibaodao/hcm2-08162019093618.md?t=08192022) 
 
