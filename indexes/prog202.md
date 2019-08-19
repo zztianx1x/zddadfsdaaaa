@@ -1,60 +1,60 @@
-#### [热点新闻](热点新闻.md?t=08200633)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08200633) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08200633) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08200633) 
+#### [热点新闻](热点新闻.md?t=08200644)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08200644) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08200644) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08200644) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08200633) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08200633) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08200633)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08200633) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08200633) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08200644) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08200644) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08200644)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08200644) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08200644) 
 
-#### [中国旅行团老挝翻落深谷 至少14死31伤](../pages/prog202/a102647602.md?t=08200633) 
+#### [中国旅行团老挝翻落深谷 至少14死31伤](../pages/prog202/a102647602.md?t=08200644) 
 
-#### [推特拒绝抹黑香港 中共936个账号被封](../pages/prog202/a102647572.md?t=08200633) 
+#### [推特拒绝抹黑香港 中共936个账号被封](../pages/prog202/a102647572.md?t=08200644) 
 
-#### [巴西外海军演 美向委国放话：准备执行任务](../pages/prog202/a102647521.md?t=08200633) 
-
-
-#### [陆留学生集体高骂港人 属于“言论自由”吗？](../pages/prog202/a102647422.md?t=08200633) 
-
-#### [英内阁评估硬脱欧：数月内燃料粮食短缺港口混乱](../pages/prog202/a102647413.md?t=08200633) 
-
-#### [【禁闻】全球声援香港反送中 五星旗入场爆冲突](../pages/prog202/a102647392.md?t=08200633) 
-
-#### [巴黎圣母院重建慢 铅污染后重新开工](../pages/prog202/a102647377.md?t=08200633) 
-
-#### [新款超级跑车惊艳亮相蒙特利汽车周](../pages/prog202/a102647345.md?t=08200633) 
-
-#### [惧美国制裁 中石油停止装载委国石油](../pages/prog202/a102647341.md?t=08200633) 
-
-#### [川普: 有意购买格陵兰岛 但非当务之急](../pages/prog202/a102647332.md?t=08200633) 
+#### [巴西外海军演 美向委国放话：准备执行任务](../pages/prog202/a102647521.md?t=08200644) 
 
 
-#### [加国劣质五毛撑港警喊Free China  警察脸笑红](../pages/prog202/a102647234.md?t=08200633) 
+#### [陆留学生集体高骂港人 属于“言论自由”吗？](../pages/prog202/a102647422.md?t=08200644) 
+
+#### [英内阁评估硬脱欧：数月内燃料粮食短缺港口混乱](../pages/prog202/a102647413.md?t=08200644) 
+
+#### [【禁闻】全球声援香港反送中 五星旗入场爆冲突](../pages/prog202/a102647392.md?t=08200644) 
+
+#### [巴黎圣母院重建慢 铅污染后重新开工](../pages/prog202/a102647377.md?t=08200644) 
+
+#### [新款超级跑车惊艳亮相蒙特利汽车周](../pages/prog202/a102647345.md?t=08200644) 
+
+#### [惧美国制裁 中石油停止装载委国石油](../pages/prog202/a102647341.md?t=08200644) 
+
+#### [川普: 有意购买格陵兰岛 但非当务之急](../pages/prog202/a102647332.md?t=08200644) 
 
 
-#### [“反送中”广告10国刊登 血腥内幕震憾曝光](../pages/prog202/a102647040.md?t=08200633) 
-
-#### [8月18日国际新闻简讯](../pages/prog202/a102646990.md?t=08200633) 
-
-#### [印度克什米尔反恐  专家﹕挑战一带一路](../pages/prog202/a102646982.md?t=08200633) 
-
-#### [美智库主席：中共是所有人的噩梦](../pages/prog202/a102646967.md?t=08200633) 
-
-#### [直击冰川坍塌 巨大波浪溅起瞬间险灭顶](../pages/prog202/a102646969.md?t=08200633) 
-
-#### [意大利不让救援船靠岸 移民跳海游向岸遭阻[影]](../pages/prog202/a102646933.md?t=08200633) 
-
-#### [川普再释信号：贸易协议不急，香港人命关天](../pages/prog202/a102646935.md?t=08200633) 
-
-#### [洪都拉斯球场足球迷爆冲突 酿3死至少10伤](../pages/prog202/a102646905.md?t=08200633) 
-
-#### [美声请扣押遭驳回 伊朗油轮改名驶入国际水域](../pages/prog202/a102646884.md?t=08200633) 
-
-#### [游莫斯科 中国游客巴士撞电线杆酿11伤](../pages/prog202/a102646867.md?t=08200633) 
-
-#### [克什米尔多处爆抗议冲突 部分地区再实施严管](../pages/prog202/a102646825.md?t=08200633) 
+#### [加国劣质五毛撑港警喊Free China  警察脸笑红](../pages/prog202/a102647234.md?t=08200644) 
 
 
-#### [阿富汗婚礼自杀炸弹63人死 ISIS宣称负责](../pages/prog202/a102646731.md?t=08200633) 
+#### [“反送中”广告10国刊登 血腥内幕震憾曝光](../pages/prog202/a102647040.md?t=08200644) 
 
-#### [全球数十城市声援香港 坚持“反送中”争民主](../pages/prog202/a102646758.md?t=08200633) 
+#### [8月18日国际新闻简讯](../pages/prog202/a102646990.md?t=08200644) 
 
-#### [内部文件遭泄 英大臣：那是脱欧“最糟情况”](../pages/prog202/a102646722.md?t=08200633) 
+#### [印度克什米尔反恐  专家﹕挑战一带一路](../pages/prog202/a102646982.md?t=08200644) 
 
-#### [留学“红卫兵”撑港警:狂飙粗口 亮豪车队坑爹](../pages/prog202/a102646707.md?t=08200633) 
+#### [美智库主席：中共是所有人的噩梦](../pages/prog202/a102646967.md?t=08200644) 
+
+#### [直击冰川坍塌 巨大波浪溅起瞬间险灭顶](../pages/prog202/a102646969.md?t=08200644) 
+
+#### [意大利不让救援船靠岸 移民跳海游向岸遭阻[影]](../pages/prog202/a102646933.md?t=08200644) 
+
+#### [川普再释信号：贸易协议不急，香港人命关天](../pages/prog202/a102646935.md?t=08200644) 
+
+#### [洪都拉斯球场足球迷爆冲突 酿3死至少10伤](../pages/prog202/a102646905.md?t=08200644) 
+
+#### [美声请扣押遭驳回 伊朗油轮改名驶入国际水域](../pages/prog202/a102646884.md?t=08200644) 
+
+#### [游莫斯科 中国游客巴士撞电线杆酿11伤](../pages/prog202/a102646867.md?t=08200644) 
+
+#### [克什米尔多处爆抗议冲突 部分地区再实施严管](../pages/prog202/a102646825.md?t=08200644) 
+
+
+#### [阿富汗婚礼自杀炸弹63人死 ISIS宣称负责](../pages/prog202/a102646731.md?t=08200644) 
+
+#### [全球数十城市声援香港 坚持“反送中”争民主](../pages/prog202/a102646758.md?t=08200644) 
+
+#### [内部文件遭泄 英大臣：那是脱欧“最糟情况”](../pages/prog202/a102646722.md?t=08200644) 
+
+#### [留学“红卫兵”撑港警:狂飙粗口 亮豪车队坑爹](../pages/prog202/a102646707.md?t=08200644) 
 
