@@ -1,59 +1,59 @@
-#### [热点新闻](热点新闻.md?t=08202033)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08202033) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08202033) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08202033) 
+#### [热点新闻](热点新闻.md?t=08202044)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08202044) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08202044) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08202044) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08202033) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08202033) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08202033)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08202033) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08202033) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08202044) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08202044) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08202044)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08202044) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08202044) 
 
-#### [与制造2025相关？德内政部指控中共工业间谍活跃](../pages/prog202/a102648058.md?t=08202033) 
+#### [与制造2025相关？德内政部指控中共工业间谍活跃](../pages/prog202/a102648058.md?t=08202044) 
 
-#### [人质外交再现？英驻港领馆职员被扣引严重关切](../pages/prog202/a102648010.md?t=08202033) 
+#### [人质外交再现？英驻港领馆职员被扣引严重关切](../pages/prog202/a102648010.md?t=08202044) 
 
-#### [意大利总理孔特辞职 执政联盟瓦解](../pages/prog202/a102648047.md?t=08202033) 
-
-
-#### [《李天笑快评》川普为何建议习直接见香港民众？](../pages/prog202/a102647984.md?t=08202033) 
-
-#### [驻港领馆雇员遭中共拘留 英国强烈关注](../pages/prog202/a102647961.md?t=08202033) 
+#### [意大利总理孔特辞职 执政联盟瓦解](../pages/prog202/a102648047.md?t=08202044) 
 
 
-#### [一位中国老太在欧洲不平凡的20年（上）](../pages/prog202/a102641062.md?t=08202033) 
+#### [《李天笑快评》川普为何建议习直接见香港民众？](../pages/prog202/a102647984.md?t=08202044) 
 
-#### [俄核监测站悄悄下线 疑掩盖飞弹神秘爆炸案](../pages/prog202/a102647732.md?t=08202033) 
-
-#### [中共涉对德国大规模工业间谍 德国正调查](../pages/prog202/a102647708.md?t=08202033) 
-
-#### [阿富汗庆独立百周年 东部城市遭逾10起爆炸酿123伤](../pages/prog202/a102647651.md?t=08202033) 
-
-#### [8月20日国际重要讯息](../pages/prog202/a102647690.md?t=08202033) 
-
-#### [关系恶化 大韩航空停飞或减班日韩航线](../pages/prog202/a102647624.md?t=08202033) 
-
-#### [加国劣质五毛撑港警喊Free China  警察脸笑红（视频）](../pages/prog202/a102647234.md?t=08202033) 
-
-#### [中国旅行团老挝翻落深谷 至少14死31伤](../pages/prog202/a102647602.md?t=08202033) 
-
-#### [推特拒绝抹黑香港 中共936个账号被封](../pages/prog202/a102647572.md?t=08202033) 
-
-#### [巴西外海军演 美向委国放话：准备执行任务](../pages/prog202/a102647521.md?t=08202033) 
+#### [驻港领馆雇员遭中共拘留 英国强烈关注](../pages/prog202/a102647961.md?t=08202044) 
 
 
-#### [陆留学生集体高骂港人 属于“言论自由”吗？](../pages/prog202/a102647422.md?t=08202033) 
+#### [一位中国老太在欧洲不平凡的20年（上）](../pages/prog202/a102641062.md?t=08202044) 
 
-#### [英内阁评估硬脱欧：数月内燃料粮食短缺港口混乱](../pages/prog202/a102647413.md?t=08202033) 
+#### [俄核监测站悄悄下线 疑掩盖飞弹神秘爆炸案](../pages/prog202/a102647732.md?t=08202044) 
 
-#### [【禁闻】全球声援香港反送中 五星旗入场爆冲突](../pages/prog202/a102647392.md?t=08202033) 
+#### [中共涉对德国大规模工业间谍 德国正调查](../pages/prog202/a102647708.md?t=08202044) 
 
-#### [巴黎圣母院重建慢 铅污染后重新开工](../pages/prog202/a102647377.md?t=08202033) 
+#### [阿富汗庆独立百周年 东部城市遭逾10起爆炸酿123伤](../pages/prog202/a102647651.md?t=08202044) 
 
-#### [新款超级跑车惊艳亮相蒙特利汽车周](../pages/prog202/a102647345.md?t=08202033) 
+#### [8月20日国际重要讯息](../pages/prog202/a102647690.md?t=08202044) 
 
-#### [惧美国制裁 中石油停止装载委国石油](../pages/prog202/a102647341.md?t=08202033) 
+#### [关系恶化 大韩航空停飞或减班日韩航线](../pages/prog202/a102647624.md?t=08202044) 
 
-#### [川普: 有意购买格陵兰岛 但非当务之急](../pages/prog202/a102647332.md?t=08202033) 
+#### [加国劣质五毛撑港警喊Free China  警察脸笑红（视频）](../pages/prog202/a102647234.md?t=08202044) 
+
+#### [中国旅行团老挝翻落深谷 至少14死31伤](../pages/prog202/a102647602.md?t=08202044) 
+
+#### [推特拒绝抹黑香港 中共936个账号被封](../pages/prog202/a102647572.md?t=08202044) 
+
+#### [巴西外海军演 美向委国放话：准备执行任务](../pages/prog202/a102647521.md?t=08202044) 
+
+
+#### [陆留学生集体高骂港人 属于“言论自由”吗？](../pages/prog202/a102647422.md?t=08202044) 
+
+#### [英内阁评估硬脱欧：数月内燃料粮食短缺港口混乱](../pages/prog202/a102647413.md?t=08202044) 
+
+#### [【禁闻】全球声援香港反送中 五星旗入场爆冲突](../pages/prog202/a102647392.md?t=08202044) 
+
+#### [巴黎圣母院重建慢 铅污染后重新开工](../pages/prog202/a102647377.md?t=08202044) 
+
+#### [新款超级跑车惊艳亮相蒙特利汽车周](../pages/prog202/a102647345.md?t=08202044) 
+
+#### [惧美国制裁 中石油停止装载委国石油](../pages/prog202/a102647341.md?t=08202044) 
+
+#### [川普: 有意购买格陵兰岛 但非当务之急](../pages/prog202/a102647332.md?t=08202044) 
 
 
 
-#### [“反送中”广告10国刊登 血腥内幕震憾曝光](../pages/prog202/a102647040.md?t=08202033) 
+#### [“反送中”广告10国刊登 血腥内幕震憾曝光](../pages/prog202/a102647040.md?t=08202044) 
 
-#### [8月18日国际新闻简讯](../pages/prog202/a102646990.md?t=08202033) 
+#### [8月18日国际新闻简讯](../pages/prog202/a102646990.md?t=08202044) 
 
-#### [印度克什米尔反恐  专家﹕挑战一带一路](../pages/prog202/a102646982.md?t=08202033) 
+#### [印度克什米尔反恐  专家﹕挑战一带一路](../pages/prog202/a102646982.md?t=08202044) 
 
