@@ -1,57 +1,57 @@
-#### [热点新闻](热点新闻.md?t=08201811)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08201811) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08201811) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08201811) 
+#### [热点新闻](热点新闻.md?t=08201822)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08201822) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08201822) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08201822) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08201811) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08201811) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08201811)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08201811) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08201811) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08201822) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08201822) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08201822)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08201822) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08201822) 
 
-#### [“菜不摆三 筷不成五 席不成六”的用餐之道(组图)](../pages/p8/904364.md?t=08201811) 
+#### [“菜不摆三 筷不成五 席不成六”的用餐之道(组图)](../pages/p8/904364.md?t=08201822) 
 
-#### [退休族日渐兴起的“新型养老”(组图)](../pages/p8/904025.md?t=08201811) 
+#### [退休族日渐兴起的“新型养老”(组图)](../pages/p8/904025.md?t=08201822) 
 
-#### [22岁立下的梦想(图)](../pages/p8/904247.md?t=08201811) 
+#### [22岁立下的梦想(图)](../pages/p8/904247.md?t=08201822) 
 
 #### [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
-#### [不管鞋子有多脏 不用一滴水可以擦干净(组图)](../pages/p8/903833.md?t=08201811) 
+#### [不管鞋子有多脏 不用一滴水可以擦干净(组图)](../pages/p8/903833.md?t=08201822) 
 
-#### [工作成果受肯定 却无法升迁的“关键”(组图)](../pages/p8/904239.md?t=08201811) 
+#### [工作成果受肯定 却无法升迁的“关键”(组图)](../pages/p8/904239.md?t=08201822) 
 
-#### [命好的女性 有５种特质(组图)](../pages/p8/904008.md?t=08201811) 
+#### [命好的女性 有５种特质(组图)](../pages/p8/904008.md?t=08201822) 
 
-#### [转个念头 人生更美好(图)](../pages/p8/903829.md?t=08201811) 
+#### [转个念头 人生更美好(图)](../pages/p8/903829.md?t=08201822) 
 
-#### [人恶人怕天不怕 人善人欺天不欺(图)](../pages/p8/903708.md?t=08201811) 
+#### [人恶人怕天不怕 人善人欺天不欺(图)](../pages/p8/903708.md?t=08201822) 
 
-#### [正确洗发５步骤(组图)](../pages/p8/904066.md?t=08201811) 
+#### [正确洗发５步骤(组图)](../pages/p8/904066.md?t=08201822) 
 
-#### [美味的食物 男女表现方法大不同(组图)](../pages/p8/904038.md?t=08201811) 
+#### [美味的食物 男女表现方法大不同(组图)](../pages/p8/904038.md?t=08201822) 
 
-#### [“房间”反映我们的生命状态(组图)](../pages/p8/903625.md?t=08201811) 
+#### [“房间”反映我们的生命状态(组图)](../pages/p8/903625.md?t=08201822) 
 
-#### [85款假冒相机与游戏 App 遭恶意广告入侵(图)](../pages/p8/904001.md?t=08201811) 
+#### [85款假冒相机与游戏 App 遭恶意广告入侵(图)](../pages/p8/904001.md?t=08201822) 
 
-#### [从饮食中 看一个人的修养(组图)](../pages/p8/904020.md?t=08201811) 
+#### [从饮食中 看一个人的修养(组图)](../pages/p8/904020.md?t=08201822) 
 
-#### [容易中毒的６种常见食物及预防之道(组图)](../pages/p8/904019.md?t=08201811) 
+#### [容易中毒的６种常见食物及预防之道(组图)](../pages/p8/904019.md?t=08201822) 
 
-#### [真心称赞对方的一句话(图)](../pages/p8/903899.md?t=08201811) 
+#### [真心称赞对方的一句话(图)](../pages/p8/903899.md?t=08201822) 
 
-#### [人生要自在 学会对欲望说“不”(图)](../pages/p8/903822.md?t=08201811) 
+#### [人生要自在 学会对欲望说“不”(图)](../pages/p8/903822.md?t=08201822) 
 
-#### [开车听见７种声音 赶快进厂检查(组图)](../pages/p8/903792.md?t=08201811) 
+#### [开车听见７种声音 赶快进厂检查(组图)](../pages/p8/903792.md?t=08201822) 
 
-#### [使用“免费Wi-Fi”不想被骇 10件事要注意(图)](../pages/p8/903693.md?t=08201811) 
+#### [使用“免费Wi-Fi”不想被骇 10件事要注意(图)](../pages/p8/903693.md?t=08201822) 
 
-#### [两性情绪激动时 说话倾向大不同(图)](../pages/p8/903896.md?t=08201811) 
+#### [两性情绪激动时 说话倾向大不同(图)](../pages/p8/903896.md?t=08201822) 
 
-#### [面对挫折的心态 决定未来命运(图)](../pages/p8/903615.md?t=08201811) 
+#### [面对挫折的心态 决定未来命运(图)](../pages/p8/903615.md?t=08201822) 
 
-#### [【人生感悟】正气贯千秋(图)](../pages/p8/903658.md?t=08201811) 
+#### [【人生感悟】正气贯千秋(图)](../pages/p8/903658.md?t=08201822) 
 
-#### [迫切想要改变自己？ 试试“5秒法则”(组图)](../pages/p8/903788.md?t=08201811) 
+#### [迫切想要改变自己？ 试试“5秒法则”(组图)](../pages/p8/903788.md?t=08201822) 
 
-#### [让“亲情交流”不再成为折磨(图)](../pages/p8/903787.md?t=08201811) 
+#### [让“亲情交流”不再成为折磨(图)](../pages/p8/903787.md?t=08201822) 
 
-#### [面对以貌取人的军官 国王的应对令人赞赏(图)](../pages/p8/903601.md?t=08201811) 
+#### [面对以貌取人的军官 国王的应对令人赞赏(图)](../pages/p8/903601.md?t=08201822) 
 
-#### [受欢迎的女性 拥有５大特质(组图)](../pages/p8/903664.md?t=08201811) 
+#### [受欢迎的女性 拥有５大特质(组图)](../pages/p8/903664.md?t=08201822) 
 
-#### [人生最难的７件事(组图)](../pages/p8/903690.md?t=08201811) 
+#### [人生最难的７件事(组图)](../pages/p8/903690.md?t=08201822) 
 
