@@ -1,60 +1,60 @@
-#### [热点新闻](热点新闻.md?t=08210755)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08210755) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08210755) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08210755) 
+#### [热点新闻](热点新闻.md?t=08210801)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08210801) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08210801) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08210801) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08210755) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08210755) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08210755)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08210755) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08210755) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08210801) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08210801) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08210801)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08210801) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08210801) 
 
-#### [参与波斯湾护航 澳总理调派护卫舰及侦察机](../pages/prog202/a102648412.md?t=08210755) 
+#### [参与波斯湾护航 澳总理调派护卫舰及侦察机](../pages/prog202/a102648412.md?t=08210801) 
 
-#### [巴塞罗那犯罪率飙升 歹徒撂倒阿富汗大使抢手表](../pages/prog202/a102648342.md?t=08210755) 
+#### [巴塞罗那犯罪率飙升 歹徒撂倒阿富汗大使抢手表](../pages/prog202/a102648342.md?t=08210801) 
 
-#### [中国留学生法拉利车队“撑港警”吓坏国内父母](../pages/prog202/a102648332.md?t=08210755) 
+#### [中国留学生法拉利车队“撑港警”吓坏国内父母](../pages/prog202/a102648332.md?t=08210801) 
 
-#### [阿根廷大选反对党暂领先 股汇受影响 波及巴西经济](../pages/prog202/a102648320.md?t=08210755) 
+#### [阿根廷大选反对党暂领先 股汇受影响 波及巴西经济](../pages/prog202/a102648320.md?t=08210801) 
 
-#### [G7变回G8 川普支持普京重返峰会](../pages/prog202/a102648311.md?t=08210755) 
+#### [G7变回G8 川普支持普京重返峰会](../pages/prog202/a102648311.md?t=08210801) 
 
-#### [重回卡塔尔 美国特使盼与塔利班敲定和平协议](../pages/prog202/a102648305.md?t=08210755) 
+#### [重回卡塔尔 美国特使盼与塔利班敲定和平协议](../pages/prog202/a102648305.md?t=08210801) 
 
-#### [意大利总理孔特辞职 执政联盟瓦解](../pages/prog202/a102648047.md?t=08210755) 
+#### [意大利总理孔特辞职 执政联盟瓦解](../pages/prog202/a102648047.md?t=08210801) 
 
-#### [巴西劫车人被警方击毙 37人质获释](../pages/prog202/a102648112.md?t=08210755) 
-
-
-#### [驻港领馆雇员遭中共拘留 英国强烈关注](../pages/prog202/a102647961.md?t=08210755) 
-
-#### [【禁闻】中共水军抹黑香港 推特封近千账号](../pages/prog202/a102648242.md?t=08210755) 
-
-#### [香港局势敏感 英央行总裁不愿与中共大使同台](../pages/prog202/a102648210.md?t=08210755) 
-
-#### [神秘爆炸后 俄罗斯核监测站恢复传输数据](../pages/prog202/a102648141.md?t=08210755) 
-
-#### [美副总统彭斯:美国正在重塑太空领先地位](../pages/prog202/a102648129.md?t=08210755) 
-
-#### [与制造2025相关？德内政部指控中共工业间谍活跃](../pages/prog202/a102648058.md?t=08210755) 
-
-#### [人质外交再现？英驻港领馆职员被扣引严重关切](../pages/prog202/a102648010.md?t=08210755) 
+#### [巴西劫车人被警方击毙 37人质获释](../pages/prog202/a102648112.md?t=08210801) 
 
 
-#### [《李天笑快评》川普为何建议习直接见香港民众？](../pages/prog202/a102647984.md?t=08210755) 
+#### [驻港领馆雇员遭中共拘留 英国强烈关注](../pages/prog202/a102647961.md?t=08210801) 
+
+#### [【禁闻】中共水军抹黑香港 推特封近千账号](../pages/prog202/a102648242.md?t=08210801) 
+
+#### [香港局势敏感 英央行总裁不愿与中共大使同台](../pages/prog202/a102648210.md?t=08210801) 
+
+#### [神秘爆炸后 俄罗斯核监测站恢复传输数据](../pages/prog202/a102648141.md?t=08210801) 
+
+#### [美副总统彭斯:美国正在重塑太空领先地位](../pages/prog202/a102648129.md?t=08210801) 
+
+#### [与制造2025相关？德内政部指控中共工业间谍活跃](../pages/prog202/a102648058.md?t=08210801) 
+
+#### [人质外交再现？英驻港领馆职员被扣引严重关切](../pages/prog202/a102648010.md?t=08210801) 
 
 
-#### [一位中国老太在欧洲不平凡的20年（上）](../pages/prog202/a102641062.md?t=08210755) 
+#### [《李天笑快评》川普为何建议习直接见香港民众？](../pages/prog202/a102647984.md?t=08210801) 
 
-#### [俄核监测站悄悄下线 疑掩盖飞弹神秘爆炸案](../pages/prog202/a102647732.md?t=08210755) 
 
-#### [中共涉对德国大规模工业间谍 德国正调查](../pages/prog202/a102647708.md?t=08210755) 
+#### [一位中国老太在欧洲不平凡的20年（上）](../pages/prog202/a102641062.md?t=08210801) 
 
-#### [阿富汗庆独立百周年 东部城市遭逾10起爆炸酿123伤](../pages/prog202/a102647651.md?t=08210755) 
+#### [俄核监测站悄悄下线 疑掩盖飞弹神秘爆炸案](../pages/prog202/a102647732.md?t=08210801) 
 
-#### [8月20日国际重要讯息](../pages/prog202/a102647690.md?t=08210755) 
+#### [中共涉对德国大规模工业间谍 德国正调查](../pages/prog202/a102647708.md?t=08210801) 
 
-#### [关系恶化 大韩航空停飞或减班日韩航线](../pages/prog202/a102647624.md?t=08210755) 
+#### [阿富汗庆独立百周年 东部城市遭逾10起爆炸酿123伤](../pages/prog202/a102647651.md?t=08210801) 
 
-#### [加国劣质五毛撑港警喊Free China  警察脸笑红（视频）](../pages/prog202/a102647234.md?t=08210755) 
+#### [8月20日国际重要讯息](../pages/prog202/a102647690.md?t=08210801) 
 
-#### [中国旅行团老挝翻落深谷 至少14死31伤](../pages/prog202/a102647602.md?t=08210755) 
+#### [关系恶化 大韩航空停飞或减班日韩航线](../pages/prog202/a102647624.md?t=08210801) 
 
-#### [推特拒绝抹黑香港 中共936个账号被封](../pages/prog202/a102647572.md?t=08210755) 
+#### [加国劣质五毛撑港警喊Free China  警察脸笑红（视频）](../pages/prog202/a102647234.md?t=08210801) 
 
-#### [巴西外海军演 美向委国放话：准备执行任务](../pages/prog202/a102647521.md?t=08210755) 
+#### [中国旅行团老挝翻落深谷 至少14死31伤](../pages/prog202/a102647602.md?t=08210801) 
+
+#### [推特拒绝抹黑香港 中共936个账号被封](../pages/prog202/a102647572.md?t=08210801) 
+
+#### [巴西外海军演 美向委国放话：准备执行任务](../pages/prog202/a102647521.md?t=08210801) 
 
 
