@@ -1,65 +1,65 @@
-#### [热点新闻](热点新闻.md?t=08230722)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08230722) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08230722) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08230722) 
+#### [热点新闻](热点新闻.md?t=08230733)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08230733) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08230733) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08230733) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08230722) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08230722) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08230722)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08230722) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08230722) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08230733) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08230733) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08230733)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08230733) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08230733) 
 
-#### [YouTube删210个频道 处理抹黑香港抗议宣传](../pages/prog203/a102649849.md?t=08230722) 
+#### [YouTube删210个频道 处理抹黑香港抗议宣传](../pages/prog203/a102649849.md?t=08230733) 
 
-#### [专访班农：美中贸易战 中共谎话连篇（下）](../pages/prog203/a102649819.md?t=08230722) 
+#### [专访班农：美中贸易战 中共谎话连篇（下）](../pages/prog203/a102649819.md?t=08230733) 
 
-#### [桑德斯加盟福克斯新闻 前白宫发言人出任电视嘉宾](../pages/prog203/a102649776.md?t=08230722) 
+#### [桑德斯加盟福克斯新闻 前白宫发言人出任电视嘉宾](../pages/prog203/a102649776.md?t=08230733) 
 
 #### [新闻拍案惊奇](http://167.71.119.71/dayu/) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
-#### [“双面教授”露馅 美华裔学者被控欺骗政府](../pages/prog203/a102649624.md?t=08230722) 
+#### [“双面教授”露馅 美华裔学者被控欺骗政府](../pages/prog203/a102649624.md?t=08230733) 
 
-#### [【禁闻】贸易上对付中共 川普：我是被选中者](../pages/prog203/a102649585.md?t=08230722) 
+#### [【禁闻】贸易上对付中共 川普：我是被选中者](../pages/prog203/a102649585.md?t=08230733) 
 
-#### [NBC抹黑英文大纪元 川普：NBC不可信](../pages/prog203/a102649423.md?t=08230722) 
+#### [NBC抹黑英文大纪元 川普：NBC不可信](../pages/prog203/a102649423.md?t=08230733) 
 
-#### [受美资助却为中国工作 华裔学者被诉重罪或囚50年](../pages/prog203/a102649365.md?t=08230722) 
+#### [受美资助却为中国工作 华裔学者被诉重罪或囚50年](../pages/prog203/a102649365.md?t=08230733) 
 
-#### [川普谈贸易战：我被选中挑战中共](../pages/prog203/a102649403.md?t=08230722) 
+#### [川普谈贸易战：我被选中挑战中共](../pages/prog203/a102649403.md?t=08230733) 
 
-#### [美财政部：三名中国人和一家公司为贩毒者](../pages/prog203/a102649395.md?t=08230722) 
+#### [美财政部：三名中国人和一家公司为贩毒者](../pages/prog203/a102649395.md?t=08230733) 
 
-#### [狙击手暗处放冷枪 洛杉矶1警受伤](../pages/prog203/a102649162.md?t=08230722) 
+#### [狙击手暗处放冷枪 洛杉矶1警受伤](../pages/prog203/a102649162.md?t=08230733) 
 
-#### [新唐人武术大赛在即 评委谈传统武术内涵](../pages/prog203/a102649155.md?t=08230722) 
+#### [新唐人武术大赛在即 评委谈传统武术内涵](../pages/prog203/a102649155.md?t=08230733) 
 
-#### [专访班农：香港若重演六四 中共将灭亡(上)](../pages/prog203/a102649139.md?t=08230722) 
+#### [专访班农：香港若重演六四 中共将灭亡(上)](../pages/prog203/a102649139.md?t=08230733) 
 
-#### [NBC替中共发声 攻击抹黑英文大纪元](../pages/prog203/a102649022.md?t=08230722) 
+#### [NBC替中共发声 攻击抹黑英文大纪元](../pages/prog203/a102649022.md?t=08230733) 
 
-#### [【晓天访谈】破坏大纪元报箱 纽约州议员谴责 律师警告：严重犯罪](../pages/prog203/a102649015.md?t=08230722) 
+#### [【晓天访谈】破坏大纪元报箱 纽约州议员谴责 律师警告：严重犯罪](../pages/prog203/a102649015.md?t=08230733) 
 
-#### [千钧一发 小飞机北加州滑出跑道起火 机上人员速撤](../pages/prog203/a102649008.md?t=08230722) 
+#### [千钧一发 小飞机北加州滑出跑道起火 机上人员速撤](../pages/prog203/a102649008.md?t=08230733) 
 
-#### [谈对付中共 川普仰望天空:我是天选之人(视频)](../pages/prog203/a102648976.md?t=08230722) 
+#### [谈对付中共 川普仰望天空:我是天选之人(视频)](../pages/prog203/a102648976.md?t=08230733) 
 
-#### [美将展开反托拉斯调查 瞄准谷歌等科技公司](../pages/prog203/a102648925.md?t=08230722) 
+#### [美将展开反托拉斯调查 瞄准谷歌等科技公司](../pages/prog203/a102648925.md?t=08230733) 
 
-#### [美国太空司令部下周正式成立 负责指挥太空军](../pages/prog203/a102648888.md?t=08230722) 
+#### [美国太空司令部下周正式成立 负责指挥太空军](../pages/prog203/a102648888.md?t=08230733) 
 
-#### [美国国务院：马杜罗已来日无多](../pages/prog203/a102648914.md?t=08230722) 
+#### [美国国务院：马杜罗已来日无多](../pages/prog203/a102648914.md?t=08230733) 
 
-#### [擅闯川普庄园 张玉婧装傻激怒联邦法官](../pages/prog203/a102648847.md?t=08230722) 
+#### [擅闯川普庄园 张玉婧装傻激怒联邦法官](../pages/prog203/a102648847.md?t=08230733) 
 
-#### [美不在乎贸战短期冲击 川普:必须对抗中共](../pages/prog203/a102648827.md?t=08230722) 
+#### [美不在乎贸战短期冲击 川普:必须对抗中共](../pages/prog203/a102648827.md?t=08230733) 
 
-#### [弥补漏洞 美推出针对非法越境儿童规定](../pages/prog203/a102648872.md?t=08230722) 
+#### [弥补漏洞 美推出针对非法越境儿童规定](../pages/prog203/a102648872.md?t=08230733) 
 
-#### [绕过美国安检查 中共被曝换手法获取美技术](../pages/prog203/a102648702.md?t=08230722) 
+#### [绕过美国安检查 中共被曝换手法获取美技术](../pages/prog203/a102648702.md?t=08230733) 
 
-#### [美参院多数党领袖力挺香港:迟早全球同抗中共](../pages/prog203/a102648650.md?t=08230722) 
+#### [美参院多数党领袖力挺香港:迟早全球同抗中共](../pages/prog203/a102648650.md?t=08230733) 
 
-#### [【直播预告】新唐人全世界华人武术大赛](../pages/prog203/a102648677.md?t=08230722) 
+#### [【直播预告】新唐人全世界华人武术大赛](../pages/prog203/a102648677.md?t=08230733) 
 
-#### [川普谈贸易战：对抗中共势在必行](../pages/prog203/a102648655.md?t=08230722) 
+#### [川普谈贸易战：对抗中共势在必行](../pages/prog203/a102648655.md?t=08230733) 
 
-#### [免费青少年道路安全项目 新推VR体验提升判断力](../pages/prog203/a102648591.md?t=08230722) 
+#### [免费青少年道路安全项目 新推VR体验提升判断力](../pages/prog203/a102648591.md?t=08230733) 
 
-#### [专家警告﹕中共鼓励留学生做“机会间谍”](../pages/prog203/a102648493.md?t=08230722) 
+#### [专家警告﹕中共鼓励留学生做“机会间谍”](../pages/prog203/a102648493.md?t=08230733) 
 
-#### [川普再添孙 1日发2推展家庭和美](../pages/prog203/a102648237.md?t=08230722) 
+#### [川普再添孙 1日发2推展家庭和美](../pages/prog203/a102648237.md?t=08230733) 
 
-#### [重回卡塔尔 美国特使盼与塔利班敲定和平协议](../pages/prog203/a102648305.md?t=08230722) 
+#### [重回卡塔尔 美国特使盼与塔利班敲定和平协议](../pages/prog203/a102648305.md?t=08230733) 
 
