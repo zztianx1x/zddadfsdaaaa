@@ -1,62 +1,62 @@
-#### [热点新闻](热点新闻.md?t=08220944)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08220944) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08220944) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08220944) 
+#### [热点新闻](热点新闻.md?t=08220955)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08220955) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08220955) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08220955) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08220944) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08220944) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08220944)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08220944) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08220944) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08220955) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08220955) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08220955)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08220955) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08220955) 
 
 
-#### [中共维稳 抓捕媒体人 整肃高校老师](../pages/prog204/a102649219.md?t=08220944) 
+#### [中共维稳 抓捕媒体人 整肃高校老师](../pages/prog204/a102649219.md?t=08220955) 
 
-#### [楼房起火 湖南老人背孙从8楼爬墙逃生(视频)](../pages/prog204/a102649224.md?t=08220944) 
+#### [楼房起火 湖南老人背孙从8楼爬墙逃生(视频)](../pages/prog204/a102649224.md?t=08220955) 
 
-#### [香港怒火如何烧向习近平？专家揭王沪宁的招术](../pages/prog204/a102649209.md?t=08220944) 
+#### [香港怒火如何烧向习近平？专家揭王沪宁的招术](../pages/prog204/a102649209.md?t=08220955) 
 #### [新闻拍案惊奇](http://167.71.119.71/dayu/) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
 
-#### [北京律师肉身翻墙 赴港直播引热议](../pages/prog204/a102649140.md?t=08220944) 
+#### [北京律师肉身翻墙 赴港直播引热议](../pages/prog204/a102649140.md?t=08220955) 
 
-#### [中共突禁“境外卧底”电影 疑与付国豪丑闻有关](../pages/prog204/a102649109.md?t=08220944) 
+#### [中共突禁“境外卧底”电影 疑与付国豪丑闻有关](../pages/prog204/a102649109.md?t=08220955) 
 
-#### [出兵香港？传习下紧急指令 急死各路人马](../pages/prog204/a102649090.md?t=08220944) 
+#### [出兵香港？传习下紧急指令 急死各路人马](../pages/prog204/a102649090.md?t=08220955) 
 
-#### [美媒：面对香港 北京的声音已无人敢信](../pages/prog204/a102649062.md?t=08220944) 
+#### [美媒：面对香港 北京的声音已无人敢信](../pages/prog204/a102649062.md?t=08220955) 
 
-#### [台商赴大陆投资悲剧 连厂房土地都被二老板盗卖](../pages/prog204/a102649044.md?t=08220944) 
+#### [台商赴大陆投资悲剧 连厂房土地都被二老板盗卖](../pages/prog204/a102649044.md?t=08220955) 
 
-#### [涉薄熙来案 央视前女主播姜丰现身](../pages/prog204/a102649012.md?t=08220944) 
+#### [涉薄熙来案 央视前女主播姜丰现身](../pages/prog204/a102649012.md?t=08220955) 
 
-#### [英国驻港领馆职员被抓 首获中共证实](../pages/prog204/a102648994.md?t=08220944) 
+#### [英国驻港领馆职员被抓 首获中共证实](../pages/prog204/a102648994.md?t=08220955) 
 
-#### [谈对付中共 川普仰望天空:我是天选之人(视频)](../pages/prog204/a102648976.md?t=08220944) 
+#### [谈对付中共 川普仰望天空:我是天选之人(视频)](../pages/prog204/a102648976.md?t=08220955) 
 
 
-#### [孟晚舟招供伊朗有办公室 另两家大银行被卷入孟案](../pages/prog204/a102648858.md?t=08220944) 
+#### [孟晚舟招供伊朗有办公室 另两家大银行被卷入孟案](../pages/prog204/a102648858.md?t=08220955) 
 
-#### [【禁闻】8月21日退党精选](../pages/prog204/a102648897.md?t=08220944) 
+#### [【禁闻】8月21日退党精选](../pages/prog204/a102648897.md?t=08220955) 
 
-#### [中国遍布2亿监视器 3年后或1个镜头监视2个人](../pages/prog204/a102648804.md?t=08220944) 
+#### [中国遍布2亿监视器 3年后或1个镜头监视2个人](../pages/prog204/a102648804.md?t=08220955) 
 
-#### [国铁承认中欧班列空载往返 一带一路又成笑料](../pages/prog204/a102648787.md?t=08220944) 
+#### [国铁承认中欧班列空载往返 一带一路又成笑料](../pages/prog204/a102648787.md?t=08220955) 
 
-#### [【禁闻】8月20日维权动态](../pages/prog204/a102648865.md?t=08220944) 
+#### [【禁闻】8月20日维权动态](../pages/prog204/a102648865.md?t=08220955) 
 
-#### [【禁闻】日本联署举报江泽民 一天近两千人签名](../pages/prog204/a102648860.md?t=08220944) 
+#### [【禁闻】日本联署举报江泽民 一天近两千人签名](../pages/prog204/a102648860.md?t=08220955) 
 
-#### [央视叫嚣《中英联合声明》过时无效 美律师:至少有效50年](../pages/prog204/a102648699.md?t=08220944) 
+#### [央视叫嚣《中英联合声明》过时无效 美律师:至少有效50年](../pages/prog204/a102648699.md?t=08220955) 
 
-#### [【禁闻】留学生“豪车爱国”大陆全网急删视频](../pages/prog204/a102648831.md?t=08220944) 
+#### [【禁闻】留学生“豪车爱国”大陆全网急删视频](../pages/prog204/a102648831.md?t=08220955) 
 
-#### [【禁闻】全球监控最严城市排名 前10名中国占8](../pages/prog204/a102648824.md?t=08220944) 
+#### [【禁闻】全球监控最严城市排名 前10名中国占8](../pages/prog204/a102648824.md?t=08220955) 
 
-#### [【禁闻】香港警察动私刑 6旬老翁遭酷刑虐打](../pages/prog204/a102648800.md?t=08220944) 
+#### [【禁闻】香港警察动私刑 6旬老翁遭酷刑虐打](../pages/prog204/a102648800.md?t=08220955) 
 
-#### [【禁闻】五反运动 消灭城市菁英与巧取豪夺](../pages/prog204/a102648802.md?t=08220944) 
+#### [【禁闻】五反运动 消灭城市菁英与巧取豪夺](../pages/prog204/a102648802.md?t=08220955) 
 
-#### [14载冤狱酷刑 三级警督商锡平矢志不渝](../pages/prog204/a102648778.md?t=08220944) 
+#### [14载冤狱酷刑 三级警督商锡平矢志不渝](../pages/prog204/a102648778.md?t=08220955) 
 
-#### [【预告】热点互动：中共推深圳“示范区”，做给香港看？](../pages/prog204/a102648717.md?t=08220944) 
+#### [【预告】热点互动：中共推深圳“示范区”，做给香港看？](../pages/prog204/a102648717.md?t=08220955) 
 
-#### [菲籍留学生获北大47万奖学金 引挞伐](../pages/prog204/a102648581.md?t=08220944) 
+#### [菲籍留学生获北大47万奖学金 引挞伐](../pages/prog204/a102648581.md?t=08220955) 
 
-#### [大陆非洲猪瘟疫情持续爆发 肉价疯涨](../pages/prog204/a102648573.md?t=08220944) 
+#### [大陆非洲猪瘟疫情持续爆发 肉价疯涨](../pages/prog204/a102648573.md?t=08220955) 
 
-#### [华为大改组？任正非内部邮件:公司处危亡关头](../pages/prog204/a102647927.md?t=08220944) 
+#### [华为大改组？任正非内部邮件:公司处危亡关头](../pages/prog204/a102647927.md?t=08220955) 
 
 
