@@ -1,60 +1,60 @@
-#### [热点新闻](热点新闻.md?t=08231011)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08231011) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08231011) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08231011) 
+#### [热点新闻](热点新闻.md?t=08231022)  &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=08231022) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=08231022) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=08231022) 
 
-#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08231011) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08231011) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08231011)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08231011) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08231011) 
+#### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=08231022) &nbsp;&nbsp;|&nbsp;&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md?t=08231022) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md?t=08231022)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md?t=08231022) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md?t=08231022) 
 
-#### [8月22日国际新闻简讯](../pages/prog202/a102649904.md?t=08231011) 
+#### [8月22日国际新闻简讯](../pages/prog202/a102649904.md?t=08231022) 
 
-#### [日国会议员曝光NHK：依附中共并传递负面消息](../pages/prog202/a102649915.md?t=08231011) 
+#### [日国会议员曝光NHK：依附中共并传递负面消息](../pages/prog202/a102649915.md?t=08231022) 
 
-#### [美防长：中共是五角大楼密切关察的第一要务](../pages/prog202/a102649895.md?t=08231011) 
+#### [美防长：中共是五角大楼密切关察的第一要务](../pages/prog202/a102649895.md?t=08231022) 
 
-#### [谷歌抵制中共 关闭210个反香港抗议Youtube频道](../pages/prog202/a102649872.md?t=08231011) 
+#### [谷歌抵制中共 关闭210个反香港抗议Youtube频道](../pages/prog202/a102649872.md?t=08231022) 
 
-#### [习近平日子不好过 专家揭他头都大了](../pages/prog202/a102649775.md?t=08231011) 
-
-
-#### [回归自然 泰坦尼克号沉没海底逾百年迅速腐化](../pages/prog202/a102649580.md?t=08231011) 
-
-#### [美国防部长证实 本‧拉登之子韩萨已死](../pages/prog202/a102649568.md?t=08231011) 
-
-#### [推特删“信息战”账户 冒犯言论自由吗？](../pages/prog202/a102649636.md?t=08231011) 
-
-#### [信仰受迫害者纪念日 多国发声促信仰自由](../pages/prog202/a102649633.md?t=08231011) 
+#### [习近平日子不好过 专家揭他头都大了](../pages/prog202/a102649775.md?t=08231022) 
 
 
-#### [川普施压欧洲：不接收ISIS战俘就释放回去](../pages/prog202/a102649618.md?t=08231011) 
+#### [回归自然 泰坦尼克号沉没海底逾百年迅速腐化](../pages/prog202/a102649580.md?t=08231022) 
 
-#### [【禁闻】砸大钱买海外账号被删 中共大外宣碰壁](../pages/prog202/a102649592.md?t=08231011) 
+#### [美国防部长证实 本‧拉登之子韩萨已死](../pages/prog202/a102649568.md?t=08231022) 
 
-#### [纽约国际航展 英美空军顶级特技飞行](../pages/prog202/a102649598.md?t=08231011) 
+#### [推特删“信息战”账户 冒犯言论自由吗？](../pages/prog202/a102649636.md?t=08231022) 
 
-#### [柏林墙倒塌30年 时空旅行带你回到东柏林](../pages/prog202/a102649563.md?t=08231011) 
-
-#### [意大利总理辞职  强硬反共派或接任](../pages/prog202/a102649553.md?t=08231011) 
-
-#### [篷佩奥首访加拿大 聚焦中共扣押加国人质](../pages/prog202/a102649558.md?t=08231011) 
-
-#### [咒骂香港抗议者该枪决 华女被澳洲老板解雇](../pages/prog202/a102649497.md?t=08231011) 
-
-#### [加法院公开孟晚舟案资料 机场被抓视频曝光](../pages/prog202/a102649482.md?t=08231011) 
+#### [信仰受迫害者纪念日 多国发声促信仰自由](../pages/prog202/a102649633.md?t=08231022) 
 
 
-#### [特鲁多：永远捍卫加拿大人不会向中共退缩](../pages/prog202/a102649391.md?t=08231011) 
+#### [川普施压欧洲：不接收ISIS战俘就释放回去](../pages/prog202/a102649618.md?t=08231022) 
+
+#### [【禁闻】砸大钱买海外账号被删 中共大外宣碰壁](../pages/prog202/a102649592.md?t=08231022) 
+
+#### [纽约国际航展 英美空军顶级特技飞行](../pages/prog202/a102649598.md?t=08231022) 
+
+#### [柏林墙倒塌30年 时空旅行带你回到东柏林](../pages/prog202/a102649563.md?t=08231022) 
+
+#### [意大利总理辞职  强硬反共派或接任](../pages/prog202/a102649553.md?t=08231022) 
+
+#### [篷佩奥首访加拿大 聚焦中共扣押加国人质](../pages/prog202/a102649558.md?t=08231022) 
+
+#### [咒骂香港抗议者该枪决 华女被澳洲老板解雇](../pages/prog202/a102649497.md?t=08231022) 
+
+#### [加法院公开孟晚舟案资料 机场被抓视频曝光](../pages/prog202/a102649482.md?t=08231022) 
 
 
-#### [抗议学生被捕 印尼巴布亚示威者各处纵火](../pages/prog202/a102649215.md?t=08231011) 
+#### [特鲁多：永远捍卫加拿大人不会向中共退缩](../pages/prog202/a102649391.md?t=08231022) 
 
-#### [香港问题绑贸易战 台产业大佬看美中争端](../pages/prog202/a102649183.md?t=08231011) 
 
-#### [希腊拒伊朗油轮 美对伊压力最大化见效](../pages/prog202/a102649173.md?t=08231011) 
+#### [抗议学生被捕 印尼巴布亚示威者各处纵火](../pages/prog202/a102649215.md?t=08231022) 
 
-#### [久违家乡味 台湾美食香飘澳洲珀斯](../pages/prog202/a102649169.md?t=08231011) 
+#### [香港问题绑贸易战 台产业大佬看美中争端](../pages/prog202/a102649183.md?t=08231022) 
 
-#### [8月22日国际重要讯息](../pages/prog202/a102649164.md?t=08231011) 
+#### [希腊拒伊朗油轮 美对伊压力最大化见效](../pages/prog202/a102649173.md?t=08231022) 
 
-#### [时速280公里 日新干线车门突然开启40秒后急停](../pages/prog202/a102649100.md?t=08231011) 
+#### [久违家乡味 台湾美食香飘澳洲珀斯](../pages/prog202/a102649169.md?t=08231022) 
 
-#### [维持中立 卡塔尔退出挺新疆再教育营联名信](../pages/prog202/a102649040.md?t=08231011) 
+#### [8月22日国际重要讯息](../pages/prog202/a102649164.md?t=08231022) 
 
-#### [涉薄熙来案 央视前女主播姜丰现身](../pages/prog202/a102649012.md?t=08231011) 
+#### [时速280公里 日新干线车门突然开启40秒后急停](../pages/prog202/a102649100.md?t=08231022) 
+
+#### [维持中立 卡塔尔退出挺新疆再教育营联名信](../pages/prog202/a102649040.md?t=08231022) 
+
+#### [涉薄熙来案 央视前女主播姜丰现身](../pages/prog202/a102649012.md?t=08231022) 
 
