@@ -60,7 +60,7 @@ while read line; do
 	cat links1.txt > tmp.md
 	head -n 3 ../indexes/$key.md >> tmp.md
 	cat links2.txt >> tmp.md
-	sed -n '4,6' ../indexes/$key.md >> tmp.md	
+	sed -n '4,6p' ../indexes/$key.md >> tmp.md	
 	cat links3.txt >> tmp.md
 	sed -n '7,$p' ../indexes/$key.md >> tmp.md	
 	mv tmp.md ../indexes/$name.md
