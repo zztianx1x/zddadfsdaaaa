@@ -82,7 +82,7 @@ for child in root[0]:
 		content = get_content(content, link)
 		write_page(name, file_path, title, link, content)
 		#print content
-	index_page += '#### [' + title + '](' + file_path + ') \n\n'
+	index_page += '#### [' + title + '](' + file_path + ') \n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
