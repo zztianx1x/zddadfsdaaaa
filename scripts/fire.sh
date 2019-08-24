@@ -62,7 +62,9 @@ while read line; do
 	cat links2.txt >> tmp.md
 	sed -n '4,6p' ../indexes/$key.md >> tmp.md	
 	cat links3.txt >> tmp.md
-	sed -n '7,$p' ../indexes/$key.md >> tmp.md	
+	sed -n '7,9p' ../indexes/$key.md >> tmp.md	
+	cat links4.txt >> tmp.md
+	sed -n '10,$p' ../indexes/$key.md >> tmp.md	
 	mv tmp.md ../indexes/$name.md
 	echo -e "\n### 已转移至新页面 [$cname]($name.md) \n" > ../indexes/$key.md
 done < ../indexes/names.csv
