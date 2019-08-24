@@ -43,7 +43,7 @@ done
 
 
 ## hotnews
-hot_page=../indexes/热点新闻.md
+hot_page=../indexes/hotnews.md
 echo > $hot_page
 while read line; do
 	link=$(echo $line | cut -d',' -f1)
