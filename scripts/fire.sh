@@ -58,9 +58,11 @@ while read line; do
 	name=$(echo $line | cut -d',' -f2)
 	cname=$(echo $name | cut -c2-)
 	cat links1.txt > tmp.md
-	head -n 5 ../indexes/$key.md >> tmp.md
+	head -n 3 ../indexes/$key.md >> tmp.md
 	cat links2.txt >> tmp.md
-	sed -n '6,$p' ../indexes/$key.md >> tmp.md	
+	sed -n '4,6' ../indexes/$key.md >> tmp.md	
+	cat links3.txt >> tmp.md
+	sed -n '7,$p' ../indexes/$key.md >> tmp.md	
 	mv tmp.md ../indexes/$name.md
 	echo -e "\n### 已转移至新页面 [$cname]($name.md) \n" > ../indexes/$key.md
 done < ../indexes/names.csv
