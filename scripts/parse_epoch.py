@@ -68,6 +68,7 @@ def get_name(link):
 def keep_updating(title):
 	return title.find('更新') > -1
 
+
 for child in root[0]:
 	if child.tag != 'item':
 		continue
