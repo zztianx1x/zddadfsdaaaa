@@ -42,6 +42,16 @@ for d in $(ls ../pages/); do
 done
 
 
+## hotnews
+hot_page=../indexes/热点新闻.md
+echo > $hot_page
+while read line; do
+	link=$(echo $line | cut -d',' -f1)
+	title=$(echo $line | cut -d',' -f2)
+	echo -e "#### [$title](https://github.com/gfw-breaker$link)" >> $hot_page
+done < /root/page_count/banned-news.hot
+
+
 ## geneate indexes
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
@@ -53,16 +63,6 @@ while read line; do
 	mv tmp.md ../indexes/$name.md
 	echo -e "\n### 已转移至新页面 [$cname]($name.md) \n" > ../indexes/$key.md
 done < ../indexes/names.csv
-
-
-## hotnews
-hot_page=../indexes/热点新闻.md
-echo > $hot_page
-while read line; do
-	link=$(echo $line | cut -d',' -f1)
-	title=$(echo $line | cut -d',' -f2)
-	echo -e "#### [$title](https://github.com/gfw-breaker$link)" >> $hot_page
-done < /root/page_count/banned-news.hot
 
 
 ## add to git
