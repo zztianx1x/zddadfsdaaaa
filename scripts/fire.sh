@@ -44,7 +44,7 @@ done
 
 ## hotnews
 hot_page=../indexes/hotnews.md
-echo > $hot_page
+echo -n > $hot_page
 while read line; do
 	link=$(echo $line | cut -d',' -f1)
 	title=$(echo $line | cut -d',' -f2)
