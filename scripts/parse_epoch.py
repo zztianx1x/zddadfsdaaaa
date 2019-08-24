@@ -65,6 +65,9 @@ def get_name(link):
 	return fname.split('.')[0]
 
 
+def keep_updating(title):
+	return title.find('更新') > -1
+
 for child in root[0]:
 	if child.tag != 'item':
 		continue
@@ -75,7 +78,7 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path):
+	if not os.path.exists(file_path) or keep_updating(title):
 	#if True:
 		print file_path
 		content = child.find('content').text.encode('utf-8')
