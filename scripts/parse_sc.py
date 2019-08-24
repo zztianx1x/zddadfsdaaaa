@@ -49,7 +49,7 @@ for child in root[0]:
 		print file_path
 		content = get_content(title, link)
 		macros.write_page(channel, name, file_path, title, link, content)
-	index_page += '#### [' + title + '](' + file_path + ') \n\n'
+	index_page += '#### [' + title + '](' + file_path + ') \n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')

@@ -85,7 +85,7 @@ for child in root[0]:
 		content = child.find('content').text.encode('utf-8')
 		content = get_content(content, link)
 		macros.write_page(channel, name, file_path, title, link, content)
-	index_page += '#### [' + title + '](' + file_path + ') \n\n'
+	index_page += '#### [' + title + '](' + file_path + ') \n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
