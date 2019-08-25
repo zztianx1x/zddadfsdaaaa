@@ -93,4 +93,3 @@ ts=$(date "+-%m月-%d日-%H时-%M分" | sed 's/-0//g' | sed 's/-//g')
 git commit -a -m "同步于: $ts"
 git push
 
-
