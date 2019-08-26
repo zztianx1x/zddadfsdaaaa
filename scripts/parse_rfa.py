@@ -80,7 +80,7 @@ for child in root[0]:
 		print file_path
 		content = child.find('content').text.encode('utf-8')
 		content = get_content(content, link)
-		write_page(name, file_path, title, link, content)
+		macros.write_page(channel, name, file_path, title, link, content)
 		#print content
 	index_page += '#### [' + title + '](' + file_path + ') \n'
 
