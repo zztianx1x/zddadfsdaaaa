@@ -44,7 +44,7 @@ done
 
 ## older entry list
 for d in $(ls ../pages/); do
-	echo -e "\n----\n#### [ >>> 更早内容 <<< ]()" >> ../indexes/$d-earlier.md
+	echo -e "\n----\n#### [ >>> 更早内容 <<< ]($d-earlier.md)" >> ../indexes/$d.md
 done
 
 
