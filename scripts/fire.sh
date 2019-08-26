@@ -47,8 +47,12 @@ for d in $(ls ../pages/); do
 	idx=../indexes/$d.md
 	old=../indexes/$d-earlier.md
 	echo -e "\n----\n#### [ >>> 更早内容 <<< ]($old)" >> $idx
-	lines=$(wc -l $idx)
 	echo -n > $old
+	lines=$(wc -l $idx)
+	for p in $(ls -t ../pages/$d/*.md | sed -n "$lines,250p"); do
+		title=$(head -n 1 $p | cut -c6-)
+		echo "#### [$title]($p)" >> $old
+	done
 done
 
 
