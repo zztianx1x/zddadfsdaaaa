@@ -42,6 +42,12 @@ for d in $(ls ../pages/); do
 done
 
 
+## older entry list
+for d in $(ls ../pages/); do
+	echo -e "\n----\n#### [ >>> 更早内容 <<< ]()" >> ../indexes/$d-earlier.md
+done
+
+
 ## hotnews
 hot_page=../indexes/hotnews.md
 echo -n > $hot_page
