@@ -50,7 +50,7 @@ for d in $(ls ../pages/); do
 	echo -n > $old
 	lines=$(wc -l $idx)
 	for p in $(ls -t ../pages/$d/*.md); do  # | sed -n "$lines,250p"); do
-		title=$(head -n 1 $p | cut -c6-)
+		title=$(head -n 1 $p | cut -c5-)
 		echo "#### [$title]($p)" >> $old
 	done
 done
