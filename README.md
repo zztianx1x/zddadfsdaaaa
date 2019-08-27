@@ -8,7 +8,7 @@
 
 #### 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=08270051) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=08270051) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=08270051)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=08270051) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=08270051) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=08270051) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=08270051) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=08270051) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=08270051)
 
-#### 自由亚洲电台 &nbsp;-&nbsp; [亚太报道](indexes/yataibaodao.md?t=08270051) &nbsp;|&nbsp; [中国一周](indexes/zhongguoyizhou.md?t=08270051) &nbsp;|&nbsp; [中国透视](indexes/zhongguotoushi.md?t=08270051)  &nbsp;|&nbsp; [国际视角](indexes/guojishijiao.md?t=08270051) &nbsp;|&nbsp; [夜话中南海](indexes/yehuazhongnanhai.md?t=08270051) &nbsp;|&nbsp; [不同的声音](indexes/butongdeshengyin.md?t=08270051) &nbsp;|&nbsp; [特约评论](indexes/pinglun.md?t=08270051)
+#### 自由亚洲电台 &nbsp;-&nbsp; [亚太报道](indexes/R亚太报道.md?t=08270051) &nbsp;|&nbsp; [中国一周](indexes/R中国一周.md?t=08270051) &nbsp;|&nbsp; [中国透视](indexes/R中国透视.md?t=08270051)  &nbsp;|&nbsp; [国际视角](indexes/R国际视角.md?t=08270051) &nbsp;|&nbsp; [夜话中南海](indexes/R夜话中南海.md?t=08270051) &nbsp;|&nbsp; [不同的声音](indexes/R不同的声音.md?t=08270051) &nbsp;|&nbsp; [特约评论](indexes/R特约评论.md?t=08270051)
 
 #### 学习 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)，自由浏览互联网
 
