@@ -10,7 +10,7 @@
 #### [【共产主义的终极目的】之廿九 把人变非人(下)](../pages/nsc422/n11344140.md?t=09120244) 
 #### [【共产主义的终极目的】之三十二 结语](../pages/nsc422/n11360535.md?t=09120244) 
 #### [【共产主义的终极目的】之三十一 末世景观](../pages/nsc422/n11351129.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [【共产主义的终极目的】之三十 几成狼世界](../pages/nsc422/n11348280.md?t=09120244) 
 #### [【共产主义的终极目的】之廿八 把人变非人(上)](../pages/nsc422/n11340492.md?t=09120244) 
 #### [【共产主义的终极目的】之廿七 以恨立国](../pages/nsc422/n11336944.md?t=09120244) 
@@ -64,4 +64,4 @@
 #### [魔鬼在统治着我们的世界(9)：信仰篇](../pages/nsc422/n10432159.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc422-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc422-earlier.md?t=09120255)

@@ -10,7 +10,7 @@
 #### [港议员曝内部文件 8.31事件疑点重重](../pages/nf4514/n11514619.md?t=09120244) 
 #### [曾目睹飞机撞世贸大楼 川普悼9.11遇难者](../pages/nf4514/n11514626.md?t=09120244) 
 #### [香港反送中 为何美应该对抗中共信息战](../pages/nf4514/n11514006.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [美商会新调查：外企加速撤离中国大陆](../pages/nf4514/n11513604.md?t=09120244) 
 #### [德国外长柏林见黄之锋 中共跳脚遭驳斥](../pages/nf4514/n11513958.md?t=09120244) 
 #### [新唐人钢琴大赛在即 钢琴家黄子芳力荐大赛](../pages/nf4514/n11494667.md?t=09120244) 
@@ -64,4 +64,4 @@
 #### [多伦多法轮功学员中秋谢师恩](../pages/nf4514/n11507997.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=09120255)

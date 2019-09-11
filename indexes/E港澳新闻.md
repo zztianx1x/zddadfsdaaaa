@@ -10,7 +10,7 @@
 #### [反释法游行案宣判 吴文远：政治判决要上诉](../pages/nsc415/n11514473.md?t=09120244) 
 #### [香港反送中 为何美应该对抗中共信息战](../pages/nsc415/n11514006.md?t=09120244) 
 #### [美众议员提新法案 禁止向香港出口特定装备](../pages/nsc415/n11513657.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [鲁比奥：美国会当务是通过香港人权民主法](../pages/nsc415/n11513369.md?t=09120244) 
 #### [【拍案惊奇】视频：自由歌声 响彻香港全城](../pages/nsc415/n11513112.md?t=09120244) 
 #### [组图：港足迎战伊朗 球迷唱《愿荣光归香港》](../pages/nsc415/n11512398.md?t=09120244) 
@@ -64,4 +64,4 @@
 #### [组图：香港屯门4校学生筑人链 声援被捕同学](../pages/nsc415/n11500651.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md?t=09120255)

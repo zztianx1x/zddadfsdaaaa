@@ -10,7 +10,7 @@
 #### [河南艾滋血祸舞台剧伦敦上演 中共阻止未果](../pages/nsc413/n11514931.md?t=09120244) 
 #### [南宁一市场“猪肉票”使用2天即停](../pages/nsc413/n11515007.md?t=09120244) 
 #### [黄之锋访德成焦点 洪堡大学演讲支持声鼎沸](../pages/nsc413/n11514923.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [53位老人被辽宁女子监狱关押迫害](../pages/nsc413/n11513494.md?t=09120244) 
 #### [【新闻看点】中共官媒9.11造谣 被指无人性](../pages/nsc413/n11514450.md?t=09120244) 
 #### [中方取消部分对美产品关税 川普：不惊讶](../pages/nsc413/n11514904.md?t=09120244) 
@@ -63,4 +63,4 @@
 #### [外国人支持香港抗争 中国机场险被拘](../pages/nsc413/n11510988.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=09120255)

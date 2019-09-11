@@ -10,7 +10,7 @@
 #### [【千古英雄人物】韩信(6) 忠心不二](../pages/nsc424/n7552572.md?t=09120244) 
 #### [【千古英雄人物】韩信(2) 怀才不遇](../pages/nsc424/n7547691.md?t=09120244) 
 #### [【千古英雄人物】韩信(1) 胸怀大志](../pages/nsc424/n7544501.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [【千古英雄人物】曹操(8) 丞汉相 挫赤壁](../pages/nsc424/n7662490.md?t=09120244) 
 #### [【2019新年特稿】远离中共是福](../pages/nsc424/n10942748.md?t=09120244) 
 #### [【千古英雄人物】尧舜禹(9) 开创华夏新纪元](../pages/nsc424/n7519873.md?t=09120244) 
@@ -64,4 +64,4 @@
 #### [【声明】谴责中共骚扰恐吓《大纪元》作者及家属](../pages/nsc424/n4442933.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc424-earlier.md?t=09120255)

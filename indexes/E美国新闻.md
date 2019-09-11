@@ -10,7 +10,7 @@
 #### [中方取消部分对美产品关税 川普：不惊讶](../pages/nsc412/n11514904.md?t=09120244) 
 #### [【组图】历史永远不忘“9.11”事件](../pages/nsc412/n11514648.md?t=09120244) 
 #### [孟晚舟被捕后 华为偷偷启动“脱钩”计划](../pages/nsc412/n11514647.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [曾目睹飞机撞世贸大楼 川普悼9.11遇难者](../pages/nsc412/n11514626.md?t=09120244) 
 #### [川普发推：美联储应把利率降为零 或更低](../pages/nsc412/n11514303.md?t=09120244) 
 #### [加州优胜美地神秘地下大火烧了近五年](../pages/nsc412/n11514418.md?t=09120244) 
@@ -64,4 +64,4 @@
 #### [蓬佩奥：近期有望与朝鲜恢复无核化谈判](../pages/nsc412/n11509179.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=09120255)

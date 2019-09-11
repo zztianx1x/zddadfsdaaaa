@@ -10,7 +10,7 @@
 #### [香港交易所开价并伦敦证交所 分析师不看好](../pages/nsc418/n11514449.md?t=09120244) 
 #### [欧洲大国力挺香港 推倒中国柏林墙](../pages/nsc418/n11514821.md?t=09120244) 
 #### [孟晚舟被捕后 华为偷偷启动“脱钩”计划](../pages/nsc418/n11514647.md?t=09120244) 
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=09120255)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=09120255) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=09120255) 
 #### [揭露中共谣言 港人为悼念9.11暂停抗议](../pages/nsc418/n11514517.md?t=09120244) 
 #### [朝鲜提出重启美朝核谈后 发了两枚射弹](../pages/nsc418/n11514461.md?t=09120244) 
 #### [川普发推：美联储应把利率降为零 或更低](../pages/nsc418/n11514303.md?t=09120244) 
@@ -64,4 +64,4 @@
 #### [享受简单的快乐 全球12个禁私家车的地方](../pages/nsc418/n11497097.md?t=09120244) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=09120255)
