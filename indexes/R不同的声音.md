@@ -1,14 +1,13 @@
-#### [禁闻聚合安卓APP](https://github.com/gfw-breaker/bn-android)  &nbsp;&nbsp;|&nbsp;&nbsp; [翻墙教程](https://github.com/gfw-breaker/guides/)
+#### [禁闻热榜](热点新闻.md?=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?=0)
+#### [专栏 | 不同的声音：由反送中亲善大使黄之锋的“国际窜访”说开去](../pages/butongdeshengyin/jkdv-09132019184848.md?t=09200830) 
+#### [专栏 | 不同的声音：香港学生领袖 “众志”秘书长黄之锋台北演讲](../pages/butongdeshengyin/jkdv-09042019154401.md?t=09200830) 
+#### [专栏 | 不同的声音：既是同舟 狮子山下且共济](../pages/butongdeshengyin/jkdv-08292019144139.md?t=09200830) 
+#### [新唐人电视台](http://104.248.211.97:8000/) &nbsp;&nbsp;|&nbsp;&nbsp; [新闻拍案惊奇](http://167.71.119.71/dayu/) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) 
+#### [专栏 | 不同的声音：十年寻衅不成滋事张贾龙 一旦秋后问斩倒算糊涂账](../pages/butongdeshengyin/jkdv-08162019140705.md?t=09200830) 
+#### [专栏 | 不同的声音：返中后：一趟涉港公差触发的慈善式颠覆](../pages/butongdeshengyin/jkdv-08092019134813.md?t=09200830) 
+#### [专栏 | 不同的声音：虹口变堂口 倭区成红区：景云里强迁新语](../pages/butongdeshengyin/jkdv-08022019104512.md?t=09200830) 
+#### [视频 &nbsp;-&nbsp; 天安门自焚真相](http://104.248.211.97:10000/videos/truth.html) &nbsp;&nbsp;|&nbsp;&nbsp; [百年共产党](http://104.248.211.97:10000/videos/ccp.html) &nbsp;&nbsp;|&nbsp;&nbsp; [八九六四大屠杀](http://104.248.211.97:10000/videos/88/)  &nbsp;&nbsp;|&nbsp;&nbsp; [活摘器官黑幕](http://104.248.211.97:10000/videos/res/Organs/)  &nbsp;&nbsp;|&nbsp;&nbsp; [香港反送中](http://104.248.211.97:10000/videos/res/hk/) 
 
-### [新唐人电视台镜像网站](http://104.248.211.97:8000/gb/news) 
-
-### [希望之声镜像网站](http://104.248.211.97:8200/gb/category/红朝解密) 
-
-### [看中国镜像网站](http://104.248.211.97:8300/) 
-
-### [自由亚洲电台镜像网站](http://104.248.211.97:9800/mandarin/) 
-
-#### [新闻拍案惊奇](http://167.71.119.71/dayu/) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](http://167.71.119.71/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://167.71.119.71/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://167.71.119.71/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://167.71.119.71/simonegao/)  &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://167.71.119.71/teahouse/) &nbsp;&nbsp;|&nbsp;&nbsp; [《大裤衩》](http://167.71.119.71:10000/videos/res/big-shorts/) 
-
-#### [法轮功真相](http://104.248.211.97:10000/videos/truth.html) &nbsp;&nbsp;|&nbsp;&nbsp; [百年共产党](http://104.248.211.97:10000/videos/ccp.html) &nbsp;&nbsp;|&nbsp;&nbsp; [八九六四大屠杀](http://104.248.211.97:10000/videos/88/)  &nbsp;&nbsp;|&nbsp;&nbsp; [活摘器官黑幕](http://104.248.211.97:10000/videos/res/Organs/)  &nbsp;&nbsp;|&nbsp;&nbsp; [香港反送中](http://104.248.211.97:10000/videos/res/hk/)  &nbsp;&nbsp;|&nbsp;&nbsp; [709维权律师大抓捕](http://104.248.211.97:10000/videos/709/) 
-
+----
+#### [ >>> 更早内容 <<< ](../indexes/butongdeshengyin-earlier.md)
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
