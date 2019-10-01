@@ -47,7 +47,7 @@ def get_content(text, link):
 			del img['width']
 			del img['height']
 			post = '<div>' + img.prettify().encode('utf-8') + \
-				caption.prettify().encode('utf-8') + '</div><hr/>'
+				caption.prettify().encode('utf-8') + '</div><hr/>' + macros.proxy
 
 	#.replace('<a href', '<span href').replace('</a>', '</span>') \
 	return (post + content ) \
@@ -79,8 +79,8 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	if not os.path.exists(file_path) or keep_updating(title):
-	#if True:
+	#if not os.path.exists(file_path) or keep_updating(title):
+	if True:
 		print file_path
 		content = child.find('content').text.encode('utf-8')
 		content = get_content(content, link)
