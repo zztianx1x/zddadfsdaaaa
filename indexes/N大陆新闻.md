@@ -1,10 +1,34 @@
 #### [禁闻热榜](热点新闻.md?=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?=0)
-
-### 已转移至新页面 [大陆新闻](N大陆新闻.md?t=10020349) 
-
+#### [江泽民诡异消失半小时 传北京阅兵有死亡预案](../pages/prog204/a102677247.md?t=10020351) 
+#### [百度浏览器停止服务 高管陆续离职](../pages/prog204/a102677260.md?t=10020351) 
+#### [组图：国殇日港人背水一战 港警倾巢出动大抓捕](../pages/prog204/a102677141.md?t=10020351) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](http://134.209.8.202/dayu/) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](http://134.209.8.202/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://134.209.8.202/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://134.209.8.202/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://134.209.8.202/simonegao/) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://134.209.8.202/teahouse/) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [北京阅兵胆战心惊 普通百姓不准靠近](../pages/prog204/a102677212.md?t=10020351) 
+#### [【禁闻】中共执政70年 内外交迫 危机重重](../pages/prog204/a102677016.md?t=10020351) 
+#### [【禁闻】10月1日退党精选](../pages/prog204/a102677062.md?t=10020351) 
+#### [中共十一炫肌肉 媒体人:外强中干内外交困](../pages/prog204/a102677021.md?t=10020351) 
+#### [【禁闻】10月1日维权动态](../pages/prog204/a102677040.md?t=10020351) 
+#### [【禁闻】以子弹和流血庆祝？港警实弹射击学生](../pages/prog204/a102677023.md?t=10020351) 
+#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [中共十一阅兵 党先国后 阴霾笼罩](../pages/prog204/a102676991.md?t=10020351) 
+#### [台媒:中共建政70年阅兵画面酷似纳粹纪录片](../pages/prog204/a102676987.md?t=10020351) 
+#### [媒体:被港人啪啪打脸 中共十一灰头土脸](../pages/prog204/a102676965.md?t=10020351) 
+#### [【禁闻】中共要在港打土豪？香港富豪郑氏捐地](../pages/prog204/a102676946.md?t=10020351) 
+#### [习近平阅兵讲话重提一国两制 台陆委会:绝不接受](../pages/prog204/a102676842.md?t=10020351) 
+#### [至清：中国民营企业家命运如待宰羔羊](../pages/prog204/a102676738.md?t=10020351) 
+#### [港警近距开真枪 中学生左胸中弹情况危殆（视频）](../pages/prog204/a102676714.md?t=10020351) 
+#### [组图：国殇日香港大游行 港警疯狂镇压](../pages/prog204/a102676636.md?t=10020351) 
+#### [庐山大火连烧三昼夜 中共官媒齐噤声](../pages/prog204/a102676683.md?t=10020351) 
+#### [中共持续在全国各地强拆佛像](../pages/prog204/a102676629.md?t=10020351) 
+#### [中共十一 港商界首富与港澳办主任缺席](../pages/prog204/a102676620.md?t=10020351) 
+#### [中共“十一”阅兵 薄一波之子举相现身游行惹议](../pages/prog204/a102676572.md?t=10020351) 
+#### [江泽民被架上天安门 朱镕基罕见未露面](../pages/prog204/a102676550.md?t=10020351) 
+#### [港版“土改”升温 陆媒“逼捐”李嘉诚？](../pages/prog204/a102676067.md?t=10020351) 
+#### [中共“灭佛”：58佛像被铲 800罗汉像被拆](../pages/prog204/a102676538.md?t=10020351) 
+#### [港府闭门过十一 场外示威抬棺材](../pages/prog204/a102676517.md?t=10020351) 
+#### [薄熙来曾对太子党放狠话 6年后应验](../pages/prog204/a102676493.md?t=10020351) 
+#### [外媒：中共70年大限 习近平面临诸多难题](../pages/prog204/a102676421.md?t=10020351) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
-#### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
