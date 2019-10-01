@@ -1,16 +1,7 @@
 #### [禁闻热榜](热点新闻.md?=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?=0)
-#### [专栏 | 不同的声音：美余在黎明前死去](../pages/butongdeshengyin/jkdv-09232019165235.md?t=10020011) 
-#### [专栏 | 不同的声音：读《香港第一课》](../pages/butongdeshengyin/jkdv-09202019192455.md?t=10020011) 
-#### [专栏 | 不同的声音：由反送中亲善大使黄之锋的“国际窜访”说开去](../pages/butongdeshengyin/jkdv-09132019184848.md?t=10020011) 
+
+### 已转移至新页面 [不同的声音](R不同的声音.md) 
+
 #### 推荐内容：[揭秘央视运作喜剧《大裤衩》](http://165.22.161.199:10000/videos/res/big-shorts/) &nbsp;&nbsp;|&nbsp;&nbsp;[揭秘红朝乱象喜剧《雷人水浒》](http://165.22.161.199:10000/videos/res/OutlawsOfMarsh/) &nbsp;&nbsp;|&nbsp;&nbsp;[新唐人时事小品](http://165.22.161.199:10000/videos/res/comedy/)
 #### 推荐内容：[热点互动](http://165.22.161.199/ntdtv-rdhd/) &nbsp;&nbsp;|&nbsp;&nbsp;[大陆新闻解读](http://165.22.161.199/ntdtv-comedy/) &nbsp;&nbsp;|&nbsp;&nbsp;[新闻看点](http://165.22.161.199/news-insight/) &nbsp;&nbsp;|&nbsp;&nbsp;[中国禁闻](http://165.22.161.199/ntdtv-news/) &nbsp;&nbsp;|&nbsp;&nbsp; [新闻拍案惊奇](http://165.22.161.199/dayu/) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](http://165.22.161.199/today-in-history/) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](http://165.22.161.199/wenzhao/) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](http://165.22.161.199/tianliang/) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](http://165.22.161.199/simonegao/) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](http://165.22.161.199/teahouse/) &nbsp;&nbsp;|&nbsp;&nbsp; [财经冷眼](http://165.22.161.199/finance/)
-#### [专栏 | 不同的声音：香港学生领袖 “众志”秘书长黄之锋台北演讲](../pages/butongdeshengyin/jkdv-09042019154401.md?t=10020011) 
-#### [专栏 | 不同的声音：既是同舟 狮子山下且共济](../pages/butongdeshengyin/jkdv-08292019144139.md?t=10020011) 
-#### [专栏 | 不同的声音：十年寻衅不成滋事张贾龙 一旦秋后问斩倒算糊涂账](../pages/butongdeshengyin/jkdv-08162019140705.md?t=10020011) 
-
-----
-#### [ >>> 更早内容 <<< ](../indexes/butongdeshengyin-earlier.md?t=10020012)
 #### [《九评共产党》](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-
-----
-#### [ >>> 更早内容 <<< ](../indexes/butongdeshengyin-earlier.md)
