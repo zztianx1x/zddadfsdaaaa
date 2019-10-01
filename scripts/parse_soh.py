@@ -37,7 +37,7 @@ def get_content(url):
 		post_cotent =  '-'
 	else:
 		post_content = post_content.prettify().encode('utf-8')
-	return (post_title + '<hr/>\n' + post_content ) \
+	return (post_title + '<hr/>\n' + macros.proxy + post_content ) \
 		.replace('//img.soundofhope.org', 'http://img.soundofhope.org') \
 		.replace('<h1>', '<h3>').replace('<h1 ', '<h3 ').replace('</h1>', '</h3>') \
 		.replace('<h2>', '<h4>').replace('<h2 ', '<h4 ').replace('</h2>', '</h4>') \
@@ -68,7 +68,8 @@ for article in articles:
 	file_path = '../pages/' + channel + '/' + name 
 	#content = get_content(a_url)
 
-	if not os.path.exists(file_path):
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = get_content(a_url)
 		macros.write_page(channel, name, file_path, a_title, a_url, content)
