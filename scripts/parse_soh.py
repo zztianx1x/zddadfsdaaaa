@@ -68,8 +68,8 @@ for article in articles:
 	file_path = '../pages/' + channel + '/' + name 
 	#content = get_content(a_url)
 
-	#if not os.path.exists(file_path):
-	if True:
+	if not os.path.exists(file_path):
+	#if True:
 		print file_path
 		content = get_content(a_url)
 		macros.write_page(channel, name, file_path, a_title, a_url, content)

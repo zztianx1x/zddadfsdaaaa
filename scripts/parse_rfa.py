@@ -41,7 +41,7 @@ def get_content(text, link):
 	if headerimg is None:
 		headerimg = ''
 	else:
-		headerimg = headerimg.prettify().encode('utf-8') + '\n<hr/>\n'
+		headerimg = headerimg.prettify().encode('utf-8') + '\n<hr/>\n' + macros.proxy
 	storytext = parser.find('div', id='storytext').prettify().encode('utf-8') 
 	return headerimg + storytext
 
