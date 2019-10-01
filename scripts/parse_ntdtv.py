@@ -29,7 +29,7 @@ def get_content(url):
 		post_title = ''
 	else:
 		post_title = '<div>' + post_title.prettify().encode('utf-8') \
-			.replace('</figure>','</figure><br/>') + '</div><hr/>'
+			.replace('</figure>','</figure><br/>') + '</div><hr/>' + macros.proxy
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
 		return '-'
@@ -68,8 +68,8 @@ for article in articles:
 	file_path = '../pages/' + channel + '/' + name 
 	#content = get_content(a_url)
 
-	if not os.path.exists(file_path):
-	#if True:
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = get_content(a_url)
 		macros.write_page(channel, name, file_path, a_title, a_url, content)
