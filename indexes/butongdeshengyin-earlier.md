@@ -1,3 +1,6 @@
+#### [专栏 | 不同的声音：香港学生领袖 “众志”秘书长黄之锋台北演讲](../pages/butongdeshengyin/jkdv-09042019154401.md)
+#### [专栏 | 不同的声音：既是同舟 狮子山下且共济](../pages/butongdeshengyin/jkdv-08292019144139.md)
+#### [专栏 | 不同的声音：十年寻衅不成滋事张贾龙 一旦秋后问斩倒算糊涂账](../pages/butongdeshengyin/jkdv-08162019140705.md)
 #### [专栏 | 不同的声音：六四到七四的传承  董瑶琼泼墨周年赋](../pages/butongdeshengyin/jkdv-06282019161700.md)
 #### [专栏 | 不同的声音：访本土市民吕新华：第三只眼看阳逻“骚乱”](../pages/butongdeshengyin/jkdv-07102019155732.md)
 #### [专栏 | 不同的声音：向日葵农庄：骚乱、维稳间动荡的家园](../pages/butongdeshengyin/jkdv-07192019123832.md)
