@@ -1,3 +1,4 @@
+#### [专栏 | 中国一周（2019年8月24日-8月30日）](../pages/zhongguoyizhou/review-08302019144543.md)
 #### [专栏 | 中国一周（2019年8月17日-8月23日）](../pages/zhongguoyizhou/review-08222019153909.md)
 #### [专栏 |中国一周（2019年7月13日-7月19日）](../pages/zhongguoyizhou/review-07182019160525.md)
 #### [专栏 | 中国一周（2019年7月20日-7月26日）](../pages/zhongguoyizhou/review-07252019164356.md)
