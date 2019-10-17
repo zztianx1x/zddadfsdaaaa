@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视： 纪念巫宁坤先生  ](../pages/zhongguotoushi/panel-08212019171029.md)
 #### [ 专栏 | 中国透视：九龙游行、大陆游客及中英美关系](../pages/zhongguotoushi/panel-07152019102313.md)
 #### [专栏 | 中国透视：刘晓波辞世两周年纪念](../pages/zhongguotoushi/panel-07162019172039.md)
 #### [专栏 | 中国透视：中共的网络主权论与世界人权宣言](../pages/zhongguotoushi/ckd-07242019190106.md)
