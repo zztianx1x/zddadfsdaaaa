@@ -3,4 +3,7 @@
 
 
 ----
+#### [ >>> 更早内容 <<< ](../indexes/soh_grpl-earlier.md?t=11250811)
+
+----
 #### [ >>> 更早内容 <<< ](../indexes/soh_grpl-earlier.md)
