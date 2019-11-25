@@ -1,6 +1,3 @@
-#### [【成语故事】肥马轻裘](../pages/soh_whxg/n2298495.md)
-#### [【成语故事】城下之盟](../pages/soh_whxg/n2311587.md)
-#### [【成语故事】洛阳纸贵](../pages/soh_whxg/n2324670.md)
 #### [【借古问今】不老的黑狗](../pages/soh_whxg/n2356623.md)
 #### [【成语故事】画饼充饥](../pages/soh_whxg/n2353989.md)
 #### [【成语故事】集腋成裘](../pages/soh_whxg/n2375190.md)
