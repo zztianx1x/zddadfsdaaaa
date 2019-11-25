@@ -1,6 +1,3 @@
-#### [【借古问今】不老的黑狗](../pages/soh_whxg/n2356623.md)
-#### [【成语故事】画饼充饥](../pages/soh_whxg/n2353989.md)
-#### [【成语故事】集腋成裘](../pages/soh_whxg/n2375190.md)
 #### [【成语故事】当局者迷](../pages/soh_whxg/n2386855.md)
 #### [【成语故事】满城风雨](../pages/soh_whxg/n2410600.md)
 #### [【成语故事】祸起萧墙](../pages/soh_whxg/n2422570.md)
