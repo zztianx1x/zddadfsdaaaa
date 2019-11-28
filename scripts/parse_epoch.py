@@ -17,7 +17,8 @@ links = macros.tail
 tree = ET.parse(xml_file)
 root = tree.getroot()
 
-def get_content(text, link):
+def get_content(orgText, link):
+	text = orgText.replace('</p>\n</p>','</p>')
 	parser = BeautifulSoup(text, 'html.parser')
 	for img in parser.find_all('img'):
 		del img['width']
