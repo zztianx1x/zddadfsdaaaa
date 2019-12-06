@@ -1,3 +1,6 @@
+#### [专栏 | 夜话中南海：备而不战，习近平称“不到火候不揭锅”？](../pages/yehuazhongnanhai/gx-11152019153242.md)
+#### [专栏 | 夜话中南海：确立个人极权后的习近平   选对奴才至关重要](../pages/yehuazhongnanhai/gx-11112019141019.md)
+#### [专栏 | 夜话中南海：韩正接班李克强的可能性有多大？](../pages/yehuazhongnanhai/gx-11082019142147.md)
 #### [专栏 | 夜话中南海：下届国务院总理会是李强还是胡春华](../pages/yehuazhongnanhai/gx-11042019140419.md)
 #### [专栏 | 夜话中南海：确定总理接班人  才是习近平的当务之急](../pages/yehuazhongnanhai/gx-11012019135210.md)
 #### [专栏 | 夜话中南海：   高层人事频繁异动已成历史，习近平安了！](../pages/yehuazhongnanhai/gx-10282019171447.md)
