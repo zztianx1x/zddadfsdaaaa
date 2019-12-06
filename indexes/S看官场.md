@@ -3,15 +3,15 @@
 #### [尹弘将出任河南省长 林武任山西省代理省长 (图)](../pages/p2/915800.md?t=12062355) 
 #### [北京撕破脸 传首度内部明示 “战狼”升级？(图)](../pages/p2/915717.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [薄熙来狱中给亡姐送花圈(组图)](../pages/p2/915692.md?t=12062355) 
 #### [习近平“全民脱贫”大限将至 全国官员忙演戏(图)](../pages/p2/915680.md?t=12062355) 
 #### [中共内部恐现多方势力投诚(图)](../pages/p2/915606.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [京剧演员姜亦珊离奇去世 传国资委高官丈夫被查(组图)](../pages/p2/915819.md?t=12062355) 
 #### [尹弘将出任河南省长 林武任山西省代理省长 (图)](../pages/p2/915800.md?t=12062355) 
 #### [出身中纪委背景神秘 中国社科院副所长被查(图)](../pages/p2/915783.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [京剧女星突离世传自杀 网曝军官丈夫受查(图)](../pages/p2/915776.md?t=12062355) 
 #### [传潜规则32名女下属 工行前高管被逮捕(组图)](../pages/p2/915722.md?t=12062355) 
 #### [北京撕破脸 传首度内部明示 “战狼”升级？(图)](../pages/p2/915717.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [港媒：向心呆头呆脑人小气 聘用火箭总指挥(组图)](../pages/p2/915413.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md?t=12070001)

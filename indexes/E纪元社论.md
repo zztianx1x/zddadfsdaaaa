@@ -3,15 +3,15 @@
 #### [【共产主义的终极目的】第五章 （完整版）](../pages/nsc422/n11428912.md?t=12062355) 
 #### [【共产主义的终极目的】第四章 （完整版）](../pages/nsc422/n11428907.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【共产主义的终极目的】第三章（完整版）](../pages/nsc422/n11428848.md?t=12062355) 
 #### [【共产主义的终极目的】第二章（完整版）](../pages/nsc422/n11428831.md?t=12062355) 
 #### [【共产主义的终极目的】第一章（完整版）](../pages/nsc422/n11417651.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [【共产主义的终极目的】之廿九 把人变非人(下)](../pages/nsc422/n11344140.md?t=12062355) 
 #### [【共产主义的终极目的】之三十二 结语](../pages/nsc422/n11360535.md?t=12062355) 
 #### [【共产主义的终极目的】之三十一 末世景观](../pages/nsc422/n11351129.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [【共产主义的终极目的】之三十 几成狼世界](../pages/nsc422/n11348280.md?t=12062355) 
 #### [【共产主义的终极目的】之廿八 把人变非人(上)](../pages/nsc422/n11340492.md?t=12062355) 
 #### [【共产主义的终极目的】之廿七 以恨立国](../pages/nsc422/n11336944.md?t=12062355) 
@@ -65,4 +65,4 @@
 #### [魔鬼在统治着我们的世界(9)：信仰篇](../pages/nsc422/n10432159.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc422-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc422-earlier.md?t=12070001)

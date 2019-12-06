@@ -3,15 +3,15 @@
 #### [薄熙来狱中送花圈 薄洁莹葬礼不见习家人](../pages/prog1138/a102722456.md?t=12062355) 
 #### [吉林帮帮主高狄病亡 曾怠慢邓小平丢掉副国级](../pages/prog1138/a102721810.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美众院压倒性通过新疆法案 明确制裁中共官员](../pages/prog1138/a102721683.md?t=12062355) 
 #### [中港局势敏感时刻 栗战书脱稿提香港](../pages/prog1138/a102721143.md?t=12062355) 
 #### [习近平幕僚：我们已走投无路 错一步恐粉身碎骨](../pages/prog1138/a102720053.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [美中专家：建议川普政府考虑中共垮台方案](../pages/prog1138/a102720078.md?t=12062355) 
 #### [二姐病死 薄熙来近况传出：一边啃馍，一边流泪](../pages/prog1138/a102719606.md?t=12062355) 
 #### [香港的呐喊听到了吗？华邮问习近平](../pages/prog1138/a102719160.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [香港法案签署黑警难逃 10万人集会感谢川普](../pages/prog1138/a102718272.md?t=12062355) 
 #### [习近平误判香港选情 两大原因曝光](../pages/prog1138/a102717816.md?t=12062355) 
 #### [爆料：驻港部队大校花8万买官 还想升副司令](../pages/prog1138/a102717765.md?t=12062355) 
@@ -35,4 +35,4 @@
 #### [四中全会真出大事？王小洪兼任特勤局长不寻常](../pages/prog1138/a102701045.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md?t=12070001)

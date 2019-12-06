@@ -3,15 +3,15 @@
 #### [【直播预告】神韵2020开启 专访主持人和指挥](../pages/nsc413/n11705814.md?t=12062355) 
 #### [【十字路口】房企集体破产 中国债务风暴来袭](../pages/nsc413/n11704130.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [高盛：中国料下调2020经济增长至6%左右](../pages/nsc413/n11705789.md?t=12062355) 
 #### [赴白宫见川普 郭台铭：谈美中贸易与经济](../pages/nsc413/n11705391.md?t=12062355) 
 #### [中方将豁免部分美国大豆和猪肉进口关税](../pages/nsc413/n11705623.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [陕西官场持续地震 华阴政法委前书记被双开](../pages/nsc413/n11705484.md?t=12062355) 
 #### [兰州兽研所65人血清学阳性 疑似布病感染](../pages/nsc413/n11705412.md?t=12062355) 
 #### [佛山山火持续24小时 火势随风力加大蔓延](../pages/nsc413/n11705039.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [京二手房报价下跌 中介：杀价三四十万算正常](../pages/nsc413/n11705185.md?t=12062355) 
 #### [美中贸谈在农产品和降税幅度上分歧大](../pages/nsc413/n11705271.md?t=12062355) 
 #### [民阵公布12.8大游行路线细节 吁全民上街](../pages/nsc413/n11705228.md?t=12062355) 
@@ -64,4 +64,4 @@
 #### [内蒙落马公安厅长马明 所涉迫害法轮功案例](../pages/nsc413/n11702792.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=12070001)

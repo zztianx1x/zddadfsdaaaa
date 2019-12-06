@@ -3,15 +3,15 @@
 #### [拖欠薪水近12个月 中国传媒采编面临下岗(图)](../pages/p1/915754.md?t=12062355) 
 #### [当心！用“清洁煤”河北中毒频传 唐山1月酿6死(图)](../pages/p1/915757.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [广州情侣吵架 男上演被车撞她竟被撞飞(组图)](../pages/p1/915756.md?t=12062355) 
 #### [华为风波再起？新机在台上市突停售 (图)](../pages/p1/915700.md?t=12062355) 
 #### [央视揪团出征白宫 错闯“国会山庄”引民围轰(图)](../pages/p1/915720.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [扯！央视盗图捧港警 误吸催泪弹辩称“熬夜吃便当”(组图)](../pages/p1/915835.md?t=12062355) 
 #### [谁在买卖你的脸？中式监控衍生地下产业(图)](../pages/p1/915750.md?t=12062355) 
 #### [拖欠薪水近12个月 中国传媒采编面临下岗(图)](../pages/p1/915754.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [当心！用“清洁煤”河北中毒频传 唐山1月酿6死(图)](../pages/p1/915757.md?t=12062355) 
 #### [广州情侣吵架 男上演被车撞她竟被撞飞(组图)](../pages/p1/915756.md?t=12062355) 
 #### [华为风波再起？新机在台上市突停售 (图)](../pages/p1/915700.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [川普：等我连任以后再签贸易协议吧(图)](../pages/p1/915520.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md?t=12070001)

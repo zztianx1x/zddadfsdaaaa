@@ -3,15 +3,15 @@
 #### [文革一幕:“打倒习近平”呼声震耳 习绝望地哭了](../pages/prog1699/a102698505.md?t=12062355) 
 #### [赵紫阳生前评价胡锦涛温家宝江泽民](../pages/prog1699/a102686202.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [毛泽东至死不见唯一孙子 毛新宇自己都纳闷](../pages/prog1699/a102686277.md?t=12062355) 
 #### [毛左怒骂央视造假 传是中共元帅贺龙之女](../pages/prog1699/a102684835.md?t=12062355) 
 #### [绝密档案：美中情局关于林彪出逃特别报告](../pages/prog1699/a102682898.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [习近平表彰遭割喉的张志新 疑与“斗争”有关](../pages/prog1699/a102675092.md?t=12062355) 
 #### [邓小平差点4换党魁 江泽民险被拿下](../pages/prog1699/a102674978.md?t=12062355) 
 #### [中共建政70年“表彰”毛岸英 毛新宇领奖引嘲讽](../pages/prog1699/a102674580.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [中共建政70年(2)：大跃进饿死数千万人](../pages/prog1699/a102673742.md?t=12062355) 
 #### [红朝密闻:空前绝后毛泽东特供“7501绝密工程”](../pages/prog1699/a102673785.md?t=12062355) 
 #### [毛泽东最后一个生日宴现凶兆 吓坏所有人](../pages/prog1699/a102673757.md?t=12062355) 
@@ -35,4 +35,4 @@
 #### [胡耀邦秘书回忆录：上中共大当 走向炼狱](../pages/prog1699/a102620061.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1699-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1699-earlier.md?t=12070001)

@@ -3,15 +3,15 @@
 #### [遭沙洋范家台监狱迫害 法轮功学员李大尧离世](../pages/prog204/a102723713.md?t=12062355) 
 #### [大陆“清洁煤”致多人中毒 官方推脱责任](../pages/prog204/a102723562.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [鸡西集团欠薪1年 媒体人兼职卖苹果](../pages/prog204/a102723573.md?t=12062355) 
 #### [分析：港警引燃世纪之毒 万颗催烟埋生态地雷](../pages/prog204/a102723364.md?t=12062355) 
 #### [人脸数据“黑色产业链”在中国已形成](../pages/prog204/a102723576.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [京剧名角离奇身亡 传军官丈夫被中纪委带走](../pages/prog204/a102723533.md?t=12062355) 
 #### [北京法轮功学员韩非遭绑架 女儿吁国际营救](../pages/prog204/a102721902.md?t=12062355) 
 #### [彭博年度50大最具影响人物 香港抗争者上榜](../pages/prog204/a102723510.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [林郑“独立检讨” 被斥鱼目混珠](../pages/prog204/a102723491.md?t=12062355) 
 #### [港警恶名连累亲友 准警嫂摊牌：不辞职就分手](../pages/prog204/a102723452.md?t=12062355) 
 #### [中共出动“网路大炮” 攻击香港抗争者论坛](../pages/prog204/a102723446.md?t=12062355) 
@@ -34,4 +34,4 @@
 #### [【禁闻】向心与共军关系匪浅 与中国银行也暧昧](../pages/prog204/a102723133.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=12070001)

@@ -3,15 +3,15 @@
 #### [【十字路口】房企集体破产 中国债务风暴来袭](../pages/nf4514/n11704130.md?t=12062355) 
 #### [美中贸谈在农产品和降税幅度上分歧大](../pages/nf4514/n11705271.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【思想领袖】中共内部承认正走向解体（二）](../pages/nf4514/n11704968.md?t=12062355) 
 #### [神韵独一无二 加拿大政要赞演出指引方向](../pages/nf4514/n11697599.md?t=12062355) 
 #### [姆钦：美政府反对世界银行向中共贷款计划](../pages/nf4514/n11703992.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [美议员：中共是最大人权侵害者 须公开点名](../pages/nf4514/n11704444.md?t=12062355) 
 #### [北京法轮功学员韩非遭绑架 女儿吁国际营救](../pages/nf4514/n11704241.md?t=12062355) 
 #### [【拍案惊奇】李慧琼批港府 郑若骅们要出事？](../pages/nf4514/n11704138.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [华为失民心 孟晚舟鸡汤信败给李洪元251](../pages/nf4514/n11703901.md?t=12062355) 
 #### [中美贸易鏖战一年 谁家GDP受冲击更大](../pages/nf4514/n11701247.md?t=12062355) 
 #### [总统大选在即 台法院判处共谍案 3人获刑](../pages/nf4514/n11703917.md?t=12062355) 
@@ -65,4 +65,4 @@
 #### [川普与北约秘书长召开记者会 五个看点](../pages/nf4514/n11697648.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=12070001)

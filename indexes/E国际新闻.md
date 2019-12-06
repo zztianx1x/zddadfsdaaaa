@@ -3,15 +3,15 @@
 #### [中方将豁免部分美国大豆和猪肉进口关税](../pages/nsc418/n11705623.md?t=12062355) 
 #### [美中贸谈在农产品和降税幅度上分歧大](../pages/nsc418/n11705271.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【思想领袖】中共内部承认正走向解体（二）](../pages/nsc418/n11704968.md?t=12062355) 
 #### [姆钦：美政府反对世界银行向中共贷款计划](../pages/nsc418/n11703992.md?t=12062355) 
 #### [央视盗用篡改港媒图片撑警 被原作者抓包](../pages/nsc418/n11704805.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [总统大选在即 台法院判处共谍案 3人获刑](../pages/nsc418/n11703917.md?t=12062355) 
 #### [美投资南美 将与秘鲁签协议对抗中共](../pages/nsc418/n11703813.md?t=12062355) 
 #### [美澳财团欲收购菲律宾战略船厂 对抗中共](../pages/nsc418/n11703819.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [美打击俄黑客团伙 悬赏500万美元捉拿头目](../pages/nsc418/n11703749.md?t=12062355) 
 #### [蓬佩奥访问葡萄牙：与华为合作带来风险](../pages/nsc418/n11703525.md?t=12062355) 
 #### [美媒：629名巴基斯坦女子被贩到中国当新娘](../pages/nsc418/n11703260.md?t=12062355) 
@@ -65,4 +65,4 @@
 #### [新西兰三地圣诞游行 法轮功队伍受欢迎](../pages/nsc418/n11695847.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=12070001)

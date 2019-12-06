@@ -3,15 +3,15 @@
 #### [美11月就业增长26.6万人 远超预期](../pages/nsc412/n11705828.md?t=12062355) 
 #### [【直播预告】神韵2020开启 专访主持人和指挥](../pages/nsc412/n11705814.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [2019最受青睐的美国男孩和女孩十个名字](../pages/nsc412/n11705757.md?t=12062355) 
 #### [高盛：中国料下调2020经济增长至6%左右](../pages/nsc412/n11705789.md?t=12062355) 
 #### [【组图】川普夫妇点亮2020国家圣诞树](../pages/nsc412/n11705448.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [中方将豁免部分美国大豆和猪肉进口关税](../pages/nsc412/n11705623.md?t=12062355) 
 #### [组图：纽约证交所圣诞树点灯庆典迎佳节](../pages/nsc412/n11704529.md?t=12062355) 
 #### [美中贸谈在农产品和降税幅度上分歧大](../pages/nsc412/n11705271.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [神韵独一无二 加拿大政要赞演出指引方向](../pages/nsc412/n11697599.md?t=12062355) 
 #### [姆钦：美政府反对世界银行向中共贷款计划](../pages/nsc412/n11703992.md?t=12062355) 
 #### [Airbnb发布新规则   约束派对和住客](../pages/nsc412/n11704835.md?t=12062355) 
@@ -65,4 +65,4 @@
 #### [违反制裁案 美法官取消华为首席律师辩护资格](../pages/nsc412/n11699098.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=12070001)

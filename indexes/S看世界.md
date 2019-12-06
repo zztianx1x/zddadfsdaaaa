@@ -3,15 +3,15 @@
 #### [金正恩再度被称“火箭人” 川普称美国军事力量强大必要时会使用(图)](../pages/p9/915709.md?t=12062355) 
 #### [《花木兰》主角刘亦菲撑港警并不一定是个人行为？(图)](../pages/p9/915765.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [香港感恩大礼变圣诞惊喜 各国连锁行动 谁已噤若寒蝉？(组图)](../pages/p9/915656.md?t=12062355) 
 #### [捐款给自己 澳洲华裔议员选后要求政党退款(图)](../pages/p9/915702.md?t=12062355) 
 #### [威胁浮出台面 北约将目标从苏联转为中共(图)](../pages/p9/915594.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [历史性大罢工瘫痪法国 马克宏：为达改革愿让步(图)](../pages/p9/915809.md?t=12062355) 
 #### [中国活跃网络白目话题 澳学者：具长远政治目的(图)](../pages/p9/915787.md?t=12062355) 
 #### [金正恩再度被称“火箭人” 川普称美国军事力量强大必要时会使用(图)](../pages/p9/915709.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [对抗中国影响力 美国秘鲁拟签投资协议(图)](../pages/p9/915771.md?t=12062355) 
 #### [《花木兰》主角刘亦菲撑港警并不一定是个人行为？(图)](../pages/p9/915765.md?t=12062355) 
 #### [香港仍是2019全球游客数量最多城市？(图)](../pages/p9/915760.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [不屈服北京压力 意大利国会通过撑港决议(图)](../pages/p9/915572.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md?t=12070001)

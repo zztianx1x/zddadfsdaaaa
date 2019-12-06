@@ -3,15 +3,15 @@
 #### [【禁闻】河北三河市24名法轮功学员被迫害致死](../pages/prog424/a102723209.md?t=12062355) 
 #### [美学者：中共在新疆迫害方式源于对法轮功迫害](../pages/prog424/a102722622.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [青岛市何立芳被虐杀 疑被活摘器官](../pages/prog424/a102722352.md?t=12062355) 
 #### [被注射“不明药物”后死亡的北京法轮功学员](../pages/prog424/a102719091.md?t=12062355) 
 #### [曾遭8年冤狱 上海法轮功学员杜挺被非法批捕](../pages/prog424/a102717865.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [夫妻双双被迫害 揭被迫害身陷囹圄经历](../pages/prog424/a102716950.md?t=12062355) 
 #### [【禁闻】“明慧网恶人榜”更新 恶人名单破10万](../pages/prog424/a102716525.md?t=12062355) 
 #### [香港地区法轮功学员遭中共迫害综述](../pages/prog424/a102716088.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [【禁闻】家属质疑国保“脑控”法轮功学员](../pages/prog424/a102713809.md?t=12062355) 
 #### [追查中共雇凶纵火破坏香港《大纪元时报》印刷厂的追查公告](../pages/prog424/a102711394.md?t=12062355) 
 #### [中共部署纵火港大纪元事件 嫁祸黑衣抗争者](../pages/prog424/a102710757.md?t=12062355) 
@@ -35,4 +35,4 @@
 #### [获奖华裔演员 为人权放弃中国市场](../pages/prog424/a102690651.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md?t=12070001)

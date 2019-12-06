@@ -3,15 +3,15 @@
 #### [阎锡山：百川汇海成大事业 山倾扶艰待大机缘(组图)](../pages/p6/915369.md?t=12062355) 
 #### [千古一帝唐太宗三拒“桃花”(图)](../pages/p6/877789.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [娘娘被扒得一丝不挂 共产党八路军丧尽天良(图)](../pages/p6/915191.md?t=12062355) 
 #### [【两宋风云】赵匡胤：承五代乱世 开大宋江山(图)](../pages/p6/915592.md?t=12062355) 
 #### [也不知有多少人后悔“走上革命道路”（上）(图)](../pages/p6/915497.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [历史再现？习近平怎么和崇祯这么像(图)](../pages/p6/915804.md?t=12062355) 
 #### [国耻！中日两国二战老兵的境遇如此悬殊(组图)](../pages/p6/915303.md?t=12062355) 
 #### [阎锡山：百川汇海成大事业 山倾扶艰待大机缘(组图)](../pages/p6/915369.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [千古一帝唐太宗三拒“桃花”(图)](../pages/p6/877789.md?t=12062355) 
 #### [娘娘被扒得一丝不挂 共产党八路军丧尽天良(图)](../pages/p6/915191.md?t=12062355) 
 #### [【两宋风云】赵匡胤：承五代乱世 开大宋江山(图)](../pages/p6/915592.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [见色忘妻 林彪跟参谋长追美女险动武(组图)](../pages/p6/915209.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md?t=12070001)

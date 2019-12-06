@@ -3,15 +3,15 @@
 #### [职场上的聪明人 从不说这“4件事”(图)](../pages/p8/915126.md?t=12062355) 
 #### [康熙看儿媳一眼 只说8个字却成真(组图)](../pages/p8/915682.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [病危母找到失联北大博士儿 他只回“7个字”(图)](../pages/p8/915543.md?t=12062355) 
 #### [5G专网频谱政院通过 台湾将迈入5G世代(组图)](../pages/p8/915713.md?t=12062355) 
 #### [简易创业摆脱穷忙 “网站”“App”都可买卖(组图)](../pages/p8/915705.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [想提升 iPhone 电力 这8个功能要关掉(图)](../pages/p8/915845.md?t=12062355) 
 #### [丢掉羞怯勇于发声 会让自己更有魅力(组图)](../pages/p8/915840.md?t=12062355) 
 #### [职场上的聪明人 从不说这“4件事”(图)](../pages/p8/915126.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [康熙看儿媳一眼 只说8个字却成真(组图)](../pages/p8/915682.md?t=12062355) 
 #### [病危母找到失联北大博士儿 他只回“7个字”(图)](../pages/p8/915543.md?t=12062355) 
 #### [5G专网频谱政院通过 台湾将迈入5G世代(组图)](../pages/p8/915713.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [4种最不可靠的主管特质(组图)](../pages/p8/915391.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p8-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p8-earlier.md?t=12070001)

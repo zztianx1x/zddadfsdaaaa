@@ -3,15 +3,15 @@
 #### [美国大叔吃了一年的过期食物后 情况怎样？(组图)](../pages/p3/915779.md?t=12062355) 
 #### [中国留学生撒钱征女友 网民一看条件立马大笑(图)](../pages/p3/915729.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中国女留学生家暴美国男友被捕(图)](../pages/p3/915677.md?t=12062355) 
 #### [在中国和加拿大生活 最深刻的两点不同(组图)](../pages/p3/915674.md?t=12062355) 
 #### [罕见！加女子竟对冷空气过敏 严重时休克(图)](../pages/p3/915668.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [加拿大华人富二代豪宅恐遭充公 原因是……(图)](../pages/p3/915842.md?t=12062355) 
 #### [北美乘客偏好外籍航空 服务冠军是这家(组图)](../pages/p3/915782.md?t=12062355) 
 #### [美国大叔吃了一年的过期食物后 情况怎样？(组图)](../pages/p3/915779.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [华人买机票打错一个字母 结果付出代价(图)](../pages/p3/915772.md?t=12062355) 
 #### [中国河蚌跑到美国池塘 吓坏美国官员(图)](../pages/p3/915736.md?t=12062355) 
 #### [中国留学生撒钱征女友 网民一看条件立马大笑(图)](../pages/p3/915729.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [热贴：北京最担心的来了 西方国家终于联手了(图)](../pages/p3/915326.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md?t=12070001)

@@ -3,15 +3,15 @@
 #### [天钧政经：德意志银行与国民党不可思议的溃败(图)](../pages/p5/915753.md?t=12062355) 
 #### [美议员提案：限制世界银行向中国提供贷款](../pages/p5/915780.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中国大陆年轻人被负债“毁掉”而不敢反抗(图)](../pages/p5/915734.md?t=12062355) 
 #### [中国大学生月均消费1197元？网友：忘了算饭费(图)](../pages/p5/915758.md?t=12062355) 
 #### [谷歌创始人佩奇与布林正式退居幕后(图)](../pages/p5/915672.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [美财政部长：中国不应再享受世界银行贷款](../pages/p5/915838.md?t=12062355) 
 #### [中国应对贸易制裁囤积美国芯片 从海外挖角](../pages/p5/915837.md?t=12062355) 
 #### [美贸易逆差降至18个月低点 劳动力市场强劲](../pages/p5/915836.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [是华为作恶的回报还是“黑公关的狂欢”？(图)](../pages/p5/915833.md?t=12062355) 
 #### [贸易谈判释讯号 中国排除美大豆猪肉反制关税](../pages/p5/915830.md?t=12062355) 
 #### [天钧政经：德意志银行与国民党不可思议的溃败(图)](../pages/p5/915753.md?t=12062355) 
@@ -31,4 +31,4 @@
 #### [德意志银行语出惊人：没人愿意持有欧元货币](../pages/p5/915675.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p5-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p5-earlier.md?t=12070001)

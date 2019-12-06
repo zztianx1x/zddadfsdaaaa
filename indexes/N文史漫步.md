@@ -3,15 +3,15 @@
 #### [【品读唐诗】一首诗见证最深的友情](../pages/prog647/a102723517.md?t=12062355) 
 #### [品读唐诗：修行人的乐趣](../pages/prog647/a102723509.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [帮老妇保住自家农场 亿万富翁“大侠”川普的感人小故事](../pages/prog647/a102723344.md?t=12062355) 
 #### [【汉武帝传】之八：统一华夏 威震四夷](../pages/prog647/a102722866.md?t=12062355) 
 #### [【三国英雄】之二：正本清源（文字版）](../pages/prog647/a102722850.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [“三世因果”善恶有报 为何有时看不到果报？](../pages/prog647/a102722721.md?t=12062355) 
 #### [【才子佳人】问君能有几多愁 君王才子李煜](../pages/prog647/a102722713.md?t=12062355) 
 #### [【音乐欣赏】《为你而来》原声带(4)：得度](../pages/prog647/a102722494.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [【汉武帝传】之七：军威远扬 保丝绸之路畅通](../pages/prog647/a102721963.md?t=12062355) 
 #### [【我来说西游】绝对意想不到的第一难](../pages/prog647/a102721949.md?t=12062355) 
 #### [“三王会战”重演  曾让拿破仑成欧洲霸主](../pages/prog647/a102722275.md?t=12062355) 
@@ -35,4 +35,4 @@
 #### [为何借三、四来说“不三不四”？道理何在？](../pages/prog647/a102719136.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md?t=12070001)

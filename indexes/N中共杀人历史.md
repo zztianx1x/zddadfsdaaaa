@@ -3,15 +3,15 @@
 #### [【晓天访谈】历史学者：人民公社制度就是劳改农场集中营 中国特大饥荒60周年祭（五）](../pages/prog1695/a102707588.md?t=12062355) 
 #### [福克斯：幸存者披露中共活摘器官恐怖内幕](../pages/prog1695/a102694985.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中南海气氛诡异 “十一”前党媒突然批毛发动文革](../pages/prog1695/a102675026.md?t=12062355) 
 #### [中共建政70年(2)：大跃进饿死数千万人](../pages/prog1695/a102673742.md?t=12062355) 
 #### [中共建政70年风云(1)：血腥暴力头十年](../pages/prog1695/a102673566.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [【晓天访谈】大跃进前奏 人民公社化运动的真相 中国特大饥荒60周年祭（四）](../pages/prog1695/a102669466.md?t=12062355) 
 #### [【晓天访谈】中共高层清楚大饥荒惨况 反右倾雪上加霜 中国特大饥荒60周年祭（三）](../pages/prog1695/a102663060.md?t=12062355) 
 #### [【晓天访谈】大饥荒幸存者亲述人吃人惨案 中国特大饥荒60周年祭（二）](../pages/prog1695/a102659748.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [【晓天访谈】饿死7千5百万人 幸存者视频首曝光 中国特大饥荒60周年祭（一）](../pages/prog1695/a102658327.md?t=12062355) 
 #### [一张中南海旧照 高层8人手挽手中崩溃](../pages/prog1695/a102618479.md?t=12062355) 
 #### [毛泽东大讲死人价值：死一半中国人做肥料](../pages/prog1695/a102620676.md?t=12062355) 
@@ -34,4 +34,4 @@
 #### [知名近代史学者力证 “刘家远杀子食子案”](../pages/prog1695/a102524432.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1695-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1695-earlier.md?t=12070001)

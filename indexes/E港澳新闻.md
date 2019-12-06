@@ -3,15 +3,15 @@
 #### [首十月611港人被大陆扣押 政府无披露有否涉及抗争者](../pages/nsc415/n11704229.md?t=12062355) 
 #### [建制派否决弹劾林郑议案](../pages/nsc415/n11704195.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [香港中资经济分析多限制](../pages/nsc415/n11704199.md?t=12062355) 
 #### [彭博2019年50大最具影响力人物 香港抗争者上榜](../pages/nsc415/n11704173.md?t=12062355) 
 #### [郑若骅传以伤避难 中途退场触怒中共](../pages/nsc415/n11703912.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [市民：香港人还在坚持争取民主及自由](../pages/nsc415/n11701584.md?t=12062355) 
 #### [被辞职成话题 罗家聪：反映意识形态之战](../pages/nsc415/n11701169.md?t=12062355) 
 #### [港新闻自由大幅下降 立法会聚焦媒体人遭警暴](../pages/nsc415/n11700105.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [郑若骅伤后返港 曾赴北京检查治疗](../pages/nsc415/n11698987.md?t=12062355) 
 #### [香港景贤里等纳入新一期活化计划](../pages/nsc415/n11698965.md?t=12062355) 
 #### [2018年27宗违规或异常截取通讯个案](../pages/nsc415/n11698970.md?t=12062355) 
@@ -65,4 +65,4 @@
 #### [陈方安生吁向暴政说不](../pages/nsc415/n11678152.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md?t=12070001)

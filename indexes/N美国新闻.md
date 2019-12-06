@@ -3,15 +3,15 @@
 #### [珠宝大盗挟持快递车逃逸 佛州警追逐爆枪战4死](../pages/prog203/a102723485.md?t=12062355) 
 #### [因应伊朗威胁 五角大厦否认增兵1.4万人到中东](../pages/prog203/a102723464.md?t=12062355) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news/blob/master/pages/link2.md?t=12070001) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美军上将：必须做好与中共开战准备](../pages/prog203/a102723316.md?t=12062355) 
 #### [【禁闻】美拟启动“核选项” 将华为踢出美元区](../pages/prog203/a102723270.md?t=12062355) 
 #### [川普总统点亮国家圣诞树](../pages/prog203/a102723264.md?t=12062355) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12070001) 
 #### [佩洛西推弹劾指控 麦卡锡揭民主党预定弹劾](../pages/prog203/a102723248.md?t=12062355) 
 #### [中共拖延战弄巧成拙？专家:协议拖过大选川普将获益](../pages/prog203/a102723203.md?t=12062355) 
 #### [悬赏500万抓捕 美国起诉2俄罗斯黑客](../pages/prog203/a102723186.md?t=12062355) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12070001)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12070001) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12070001) 
 #### [【禁闻】暗传用户个资去中国 TikTok在美遭吿](../pages/prog203/a102723174.md?t=12062355) 
 #### [前美军情报官:中共或在台大选后加强施压](../pages/prog203/a102723151.md?t=12062355) 
 #### [纽约圣诞传统 点亮洛克菲勒圣诞树 民众欢庆](../pages/prog203/a102723003.md?t=12062355) 
@@ -35,4 +35,4 @@
 #### [美众院压倒性通过新疆法案 明确制裁中共官员](../pages/prog203/a102721683.md?t=12062355) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=12070001)
