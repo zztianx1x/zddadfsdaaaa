@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：美余在黎明前死去](../pages/butongdeshengyin/jkdv-09232019165235.md)
 #### [专栏 | 不同的声音：读《香港第一课》](../pages/butongdeshengyin/jkdv-09202019192455.md)
 #### [专栏 | 不同的声音：由反送中亲善大使黄之锋的“国际窜访”说开去](../pages/butongdeshengyin/jkdv-09132019184848.md)
 #### [专栏 | 不同的声音：香港学生领袖 “众志”秘书长黄之锋台北演讲](../pages/butongdeshengyin/jkdv-09042019154401.md)
