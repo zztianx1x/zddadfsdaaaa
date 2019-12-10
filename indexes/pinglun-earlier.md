@@ -1,3 +1,4 @@
+#### [评论 | 魏京生：历史的宿命](../pages/pinglun/weijingsheng-12032019113238.md)
 #### [评论 | 唯色：补记2018年三位、2019年一位自焚抗议藏人](../pages/pinglun/weise-12032019102749.md)
 #### [评论 | 林保华：香港将引领中国风向](../pages/pinglun/linbaohua-12032019101430.md)
 #### [评论 | 傅申奇：光复大陆、时代革命](../pages/pinglun/fushenqi-12022019121511.md)
