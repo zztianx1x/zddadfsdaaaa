@@ -480,5 +480,3 @@
 #### [林郑月娥为警方误损清真寺亲身致歉](../pages/yataibaodao/ac-10212019061854.md)
 #### [赖清德出席支持蔡英文当选造势大会](../pages/yataibaodao/xql-10192019185415.md)
 #### [NBA赛季开打  加拿大民众看球挺香港 ](../pages/yataibaodao/lf-10182019125106.md)
-#### [长春长生申请破产 天价罚款能否杀一儆百？](../pages/yataibaodao/hc-10182019120415.md)
-#### [美官员：中国必须停止宗教迫害](../pages/yataibaodao/xql-10182019123835.md)
