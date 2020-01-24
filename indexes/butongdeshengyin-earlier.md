@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：丢“脸”的十四亿](../pages/butongdeshengyin/jkdv-11082019164309.md)
 #### [专栏 | 不同的声音：纽时：香港沙文主义怼中国民族主义](../pages/butongdeshengyin/jkdv-10232019164528.md)
 #### [专栏 | 不同的声音：我和我的祖国，象海和浪花一朵 他和她的香港，半句都不能言说](../pages/butongdeshengyin/jkdv-10172019210234.md)
 #### [专栏 | 不同的声音：接受耿爽建议：关注中国普通人“为自由而战”的民意](../pages/butongdeshengyin/jkdv-10112019153458.md)
