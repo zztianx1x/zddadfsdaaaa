@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：退休省委书记政治“回春”，中联办即将升格副国级？](../pages/yehuazhongnanhai/gx-01062020142807.md)
 #### [顾顺章的叛变内容居然也是含冤掺假](../pages/yehuazhongnanhai/gx-01032020140421.md)
 #### [专栏 | 夜话中南海：正是顾顺章的叛变改写历史成就了毛泽东](../pages/yehuazhongnanhai/gx-12302019155834.md)
 #### [专栏 | 夜话中南海：中共一向视内部叛徒为“最危险敌人”](../pages/yehuazhongnanhai/gx-12272019142015.md)
