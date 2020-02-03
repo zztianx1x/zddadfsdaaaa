@@ -1,3 +1,6 @@
+#### [骆惠宁：新官上任火烧谁？ | 评论 | 程晓农  ](../pages/pinglun/chengxiaonong-01282020132628.md)
+#### [评论 | 魏京生： 春节的灾难](../pages/pinglun/weijingsheng-01282020131722.md)
+#### [评论 | 王丹：武汉瘟疫最大的责任人是习近平](../pages/pinglun/wangdan-01272020123628.md)
 #### [评论 | 程晓农：2020春“劫”瘟难](../pages/pinglun/chengxiaonong-01272020121212.md)
 #### [评论 | 郑义： 武汉肺炎与《卡桑德拉大桥》](../pages/pinglun/zhengyi-01272020122417.md)
 #### [评论 | 王力雄： 回忆新疆旅行见闻（四）](../pages/pinglun/wlx-01272020111821.md)
