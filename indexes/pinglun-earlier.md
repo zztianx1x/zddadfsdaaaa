@@ -1,3 +1,4 @@
+#### [评论 | 陈光诚： 封城塞国 是福是祸？](../pages/pinglun/chenguangcheng-01292020103918.md)
 #### [骆惠宁：新官上任火烧谁？ | 评论 | 程晓农  ](../pages/pinglun/chengxiaonong-01282020132628.md)
 #### [评论 | 魏京生： 春节的灾难](../pages/pinglun/weijingsheng-01282020131722.md)
 #### [评论 | 王丹：武汉瘟疫最大的责任人是习近平](../pages/pinglun/wangdan-01272020123628.md)
