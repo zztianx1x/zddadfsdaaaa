@@ -1,3 +1,4 @@
+#### [评论 | 唯色：镜头下的西藏文革：全藏最神圣的佛殿 — 大昭寺被砸成了什么样？（五）](../pages/pinglun/weise-01302020124742.md)
 #### [评论 | 江棋生：只要还捂得住，疫情就不是命令](../pages/pinglun/jiangqisheng-01292020111508.md)
 #### [评论 | 陈光诚： 封城塞国 是福是祸？](../pages/pinglun/chenguangcheng-01292020103918.md)
 #### [骆惠宁：新官上任火烧谁？ | 评论 | 程晓农  ](../pages/pinglun/chengxiaonong-01282020132628.md)
