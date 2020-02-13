@@ -1,3 +1,4 @@
+#### [世卫组织正式命名中国新冠病毒：Covid-19](../pages/yataibaodao/cl2-02112020135409.md)
 #### [武汉排查数字受质疑   官场开始问责](../pages/yataibaodao/wy-02112020110616.md)
 #### [取消中国发展中国家优惠   美国开第一枪](../pages/yataibaodao/rc-02112020105051.md)
 #### [加拿大援助中国抗疫  意有所图？](../pages/yataibaodao/lf-02112020114534.md)
