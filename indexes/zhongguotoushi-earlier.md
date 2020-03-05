@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：美伊冲突再烈  中共躲过劫运？](../pages/zhongguotoushi/ckd-01082020162924.md)
 #### [专栏 | 中国透视：年终回顾：2019年中共对信仰自由的打压](../pages/zhongguotoushi/ckd-01022020160355.md)
 #### [专栏 | 中国透视： 年终回顾：2019年中共的政治与外交](../pages/zhongguotoushi/panel-12252019122049.md)
 #### [专栏 | 中国透视：  年终回顾：2019年中国经贸轨迹](../pages/zhongguotoushi/panel-12202019130626.md)
