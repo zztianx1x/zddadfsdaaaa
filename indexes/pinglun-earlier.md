@@ -1,3 +1,4 @@
+#### [评论 | 林保华：习近平  你能跪地道歉吗？ ](../pages/pinglun/lbh-03022020135731.md)
 #### [评论 | 傅申奇： 大国战“疫”](../pages/pinglun/fushenqi-03022020120829.md)
 #### [评论 | 傅申奇： 末日景象](../pages/pinglun/fushenqi-03022020122311.md)
 #### [评论 | 郑义：中美流感死亡比较](../pages/pinglun/zhengyi-03022020113403.md)
