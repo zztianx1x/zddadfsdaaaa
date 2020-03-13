@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：宁做沉默公鸡 不做得意走狗：王怡 许志永 朱乙夫](../pages/butongdeshengyin/jkdv-01032020175326.md)
 #### [专栏 | 不同的声音：伞下的天空：平安夜张展访谈](../pages/butongdeshengyin/jkdv-12232019174743.md)
 #### [专栏 | 不同的声音：以鲁迅矛盾的名义强拆](../pages/butongdeshengyin/jkdv-12062019202126.md)
 #### [专栏 | 不同的声音：虹口蒙面党委书记打家劫舍拍案惊奇 景云里强迁续记](../pages/butongdeshengyin/jkdv-11292019110150.md)
